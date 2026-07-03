@@ -1,7 +1,8 @@
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
-import { Phone, MapPin, Clock, Star, CheckCircle, ArrowRight } from "@phosphor-icons/react/dist/ssr";
+import { Phone, MapPin, Clock, CheckCircle, ArrowRight } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "@/components/ui/button";
+import { StarRating } from "@/components/ui/star-rating";
 import { CONTACT_INFO, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 
@@ -11,6 +12,7 @@ export async function Hero() {
     getGooglePlaceData(),
   ]);
   const totalReviews = googleData?.totalReviews ?? GOOGLE_REVIEWS_DATA.totalReviews;
+  const rating = googleData?.rating ?? GOOGLE_REVIEWS_DATA.averageRating;
 
   return (
     <section
@@ -45,13 +47,9 @@ export async function Hero() {
           {/* Badge de reseñas de Google */}
           {totalReviews > 0 && (
             <div className="animate-hero-title inline-flex items-center gap-3 bg-white/15 backdrop-blur-sm border border-white/30 rounded-full px-5 py-2.5 mb-6">
-              <div className="flex items-center gap-0.5" aria-hidden="true">
-                {[...Array(5)].map((_, i) => (
-                  <Star key={i} className="size-4 text-yellow-400" weight="fill" />
-                ))}
-              </div>
+              <StarRating rating={rating} starClassName="size-4" />
               <span className="text-white font-medium text-sm">
-                {totalReviews}
+                {rating.toFixed(1)} · {totalReviews}
                 {t("googleReviews")}
               </span>
             </div>
