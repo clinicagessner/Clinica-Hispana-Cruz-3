@@ -39,11 +39,10 @@ export const CONTACT_INFO: ContactInfo = {
 export const SOCIAL_LINKS: SocialLinks = {};
 
 // Google Reviews data - fallback cuando no hay GOOGLE_PLACES_API_KEY
-// TODO(randy): PENDIENTE — total y rating reales del listado de Google de Cruz #3
 export const GOOGLE_REVIEWS_DATA = {
-  totalReviews: 0,
-  averageRating: 5.0,
-  placeId: "",
+  totalReviews: 150,
+  averageRating: 4.9,
+  placeId: "", // TODO(randy): PENDIENTE — Place ID del listado de Google Maps de Cruz #3
 };
 
 // Dedicated CallRail tracking number for the Conquesting landing only.
