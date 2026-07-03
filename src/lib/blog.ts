@@ -19,7 +19,7 @@ function readBlogFile(slug: string, locale: string): BlogPost | null {
     description: data.description || "",
     date: data.date || "",
     dateModified: data.dateModified,
-    author: data.author || "Clínica Hispana Airline",
+    author: data.author || "Clínica Hispana Cruz #3",
     image: data.image,
     featured: data.featured || false,
     category: data.category,

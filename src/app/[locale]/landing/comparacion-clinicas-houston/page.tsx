@@ -40,7 +40,7 @@ const copy = {
   es: {
     metaTitle: "Clínica Hispana en Houston | Atención el Mismo Día",
     metaDescription:
-      "Atención médica profesional 100% en español. Sin cita previa, walk-ins. Más de 500 reseñas 5★ en Google. Llame: (346) 626-4110",
+      "Atención médica profesional 100% en español. Sin cita previa, walk-ins. Más de 500 reseñas 5★ en Google. Llame: (832) 323-2330",
     badgeReviews: (avg: number, total: number) => `${avg} con ${total}+ reseñas en Google`,
     heroTitle: "¿Busca una mejor opción de clínica hispana en Houston?",
     heroSubtitle:
@@ -48,7 +48,7 @@ const copy = {
     ctaCallPrefix: "Llamar",
     ctaDirections: "Cómo Llegar",
     heroFootnote: "Lunes a Domingo · 9:00 AM - 9:00 PM · Walk-ins bienvenidos",
-    diffSectionTitle: "¿Por qué los hispanos eligen Clínica Hispana Airline?",
+    diffSectionTitle: "¿Por qué los hispanos eligen Clínica Hispana Cruz #3?",
     diffSectionDesc:
       "Atención médica accesible para usted y su familia, sin las complicaciones de hospitales grandes.",
     differentiators: [
@@ -86,7 +86,7 @@ const copy = {
     hoursValue: "Lunes a Domingo: 9:00 AM - 9:00 PM",
     phoneLabel: "Teléfono",
     openInMaps: "Abrir en Google Maps",
-    mapTitle: "Ubicación Clínica Hispana Airline",
+    mapTitle: "Ubicación Clínica Hispana Cruz #3",
     faqTitle: "Preguntas Frecuentes",
     faqDesc: "Respuestas a las dudas más comunes antes de su visita.",
     faqItems: [
@@ -112,7 +112,7 @@ const copy = {
       },
       {
         q: "¿Dónde están ubicados?",
-        a: "Estamos en 934 E Tidwell Rd, Houston TX 77022, en el norte de Houston cerca de la autopista 59/69. Estacionamiento gratuito y fácil acceso en transporte público.",
+        a: "Estamos en 5411 S Braeswood Blvd, Houston TX 77096, en el norte de Houston cerca de la autopista 59/69. Estacionamiento gratuito y fácil acceso en transporte público.",
       },
     ],
     finalCtaTitle: "Reciba atención médica hoy mismo",
@@ -123,7 +123,7 @@ const copy = {
   en: {
     metaTitle: "Hispanic Clinic in Houston | Same-Day Care",
     metaDescription:
-      "Professional medical care 100% in Spanish. Walk-ins welcome, no appointment needed. 500+ 5-star Google reviews. Call: (346) 626-4110",
+      "Professional medical care 100% in Spanish. Walk-ins welcome, no appointment needed. 500+ 5-star Google reviews. Call: (832) 323-2330",
     badgeReviews: (avg: number, total: number) => `${avg} with ${total}+ Google reviews`,
     heroTitle: "Looking for a better hispanic clinic option in Houston?",
     heroSubtitle:
@@ -131,7 +131,7 @@ const copy = {
     ctaCallPrefix: "Call",
     ctaDirections: "Get Directions",
     heroFootnote: "Monday to Sunday · 9:00 AM - 9:00 PM · Walk-ins welcome",
-    diffSectionTitle: "Why hispanic patients choose Clínica Hispana Airline",
+    diffSectionTitle: "Why hispanic patients choose Clínica Hispana Cruz #3",
     diffSectionDesc:
       "Accessible medical care for you and your family, without the hassle of large hospitals.",
     differentiators: [
@@ -169,7 +169,7 @@ const copy = {
     hoursValue: "Monday to Sunday: 9:00 AM - 9:00 PM",
     phoneLabel: "Phone",
     openInMaps: "Open in Google Maps",
-    mapTitle: "Clínica Hispana Airline location",
+    mapTitle: "Clínica Hispana Cruz #3 location",
     faqTitle: "Frequently Asked Questions",
     faqDesc: "Answers to the most common questions before your visit.",
     faqItems: [
@@ -195,7 +195,7 @@ const copy = {
       },
       {
         q: "Where are you located?",
-        a: "We're at 934 E Tidwell Rd, Houston TX 77022, in north Houston near Highway 59/69. Free parking and easy public transportation access.",
+        a: "We're at 5411 S Braeswood Blvd, Houston TX 77096, in north Houston near Highway 59/69. Free parking and easy public transportation access.",
       },
     ],
     finalCtaTitle: "Get medical care today",
@@ -248,7 +248,7 @@ export default async function LandingComparacionClinicasHouston({ params }: Prop
       <section className="relative min-h-[80vh] flex items-center overflow-hidden">
         <Image
           src="/images/hero-bg.webp"
-          alt="Clínica Hispana Airline - Houston TX"
+          alt="Clínica Hispana Cruz #3 - Houston TX"
           width={1920}
           height={1080}
           priority
@@ -393,7 +393,7 @@ export default async function LandingComparacionClinicasHouston({ params }: Prop
               >
                 <Image
                   src={service.image}
-                  alt={`${service.title} - Clínica Hispana Airline Houston`}
+                  alt={`${service.title} - Clínica Hispana Cruz #3 Houston`}
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-500"
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
@@ -504,7 +504,7 @@ export default async function LandingComparacionClinicasHouston({ params }: Prop
 
             <div className="rounded-2xl overflow-hidden border border-slate-100 min-h-[280px]">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3460.9999999999995!2d-95.3698!3d29.8404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86409bb97325b173!2sCl%C3%ADnica%20Hispana%20Airline!5e0!3m2!1ses!2sus!4v1700000000000"
+                src={CONTACT_INFO.googleMapsEmbed}
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: 280 }}

@@ -4,7 +4,7 @@ title: "DOT Physical Exam for Truck Drivers in Houston: Everything You Need to K
 description: "Complete guide to DOT physical exams for CDL license in Houston TX. Requirements, what to expect, cost, and where to get it done in Spanish. No appointment needed."
 date: "2026-04-11"
 dateModified: "2026-04-11"
-author: "Clínica Hispana Airline"
+author: "Clínica Hispana Cruz #3"
 image: "/images/services/examen-dot.webp"
 featured: true
 category: "Occupational Health"
@@ -20,7 +20,7 @@ keywords:
 
 # DOT Physical Exam for Truck Drivers in Houston: Everything You Need to Know
 
-If you're a truck driver, bus operator, or commercial vehicle driver in Houston, you need a valid **DOT physical exam** to obtain or renew your CDL license. At Clínica Hispana Airline, we perform this exam with **100% Spanish-speaking staff**, no appointment needed, and same-day results.
+If you're a truck driver, bus operator, or commercial vehicle driver in Houston, you need a valid **DOT physical exam** to obtain or renew your CDL license. At Clínica Hispana Cruz #3, we perform this exam with **100% Spanish-speaking staff**, no appointment needed, and same-day results.
 
 ## What Is a DOT Physical Exam?
 
@@ -109,7 +109,7 @@ To make your exam quick and hassle-free, bring the following:
 
 ## How Much Does the DOT Physical Cost?
 
-At Clínica Hispana Airline, we offer the DOT physical at **affordable and competitive prices**. The cost includes:
+At Clínica Hispana Cruz #3, we offer the DOT physical at **affordable and competitive prices**. The cost includes:
 
 - Complete physical examination
 - Urinalysis
@@ -135,9 +135,9 @@ If the doctor determines you don't meet the requirements at the time of the exam
 - **Insulin-dependent diabetes:** Apply for the special FMCSA exemption with help from your endocrinologist.
 - **Other conditions:** The doctor will explain exactly what you need to get certified.
 
-At Clínica Hispana Airline, **we never turn you away without explaining what to do next**. We give you a clear plan to resolve any situation and obtain your certificate.
+At Clínica Hispana Cruz #3, **we never turn you away without explaining what to do next**. We give you a clear plan to resolve any situation and obtain your certificate.
 
-## Why Choose Clínica Hispana Airline for Your DOT Physical?
+## Why Choose Clínica Hispana Cruz #3 for Your DOT Physical?
 
 ### 100% in Spanish
 The entire process — from check-in to receiving your certificate — is in Spanish. No translator needed.
@@ -152,7 +152,7 @@ Leave our clinic with your **DOT medical certificate and medical card** in hand.
 We offer competitive prices without sacrificing exam quality. We accept cash and cards.
 
 ### Convenient Location
-We're located at **934 E Tidwell Rd, Houston, TX 77022**, near Highway 59/69, with ample free parking for trucks and large vehicles.
+We're located at **5411 S Braeswood Blvd, Houston, TX 77096**, near Highway 59/69, with ample free parking for trucks and large vehicles.
 
 ### Experience with Hispanic Truck Drivers
 We understand the specific needs of Houston's Hispanic trucking community. Many of our patients are drivers who trust us for their renewals year after year.
@@ -179,11 +179,11 @@ Approximately **30-45 minutes**. You leave with your certificate the same day.
 
 ## Contact Us
 
-Ready for your DOT physical? Visit Clínica Hispana Airline today:
+Ready for your DOT physical? Visit Clínica Hispana Cruz #3 today:
 
-- **Phone:** (346) 626-4110
-- **Address:** 934 E Tidwell Rd, Houston, TX 77022
+- **Phone:** (832) 323-2330
+- **Address:** 5411 S Braeswood Blvd, Houston, TX 77096
 - **Hours:** Monday through Sunday, 9:00 AM - 9:00 PM
 - **No appointment needed** — Walk-ins welcome
 
-*Your health and your license are in good hands at Clínica Hispana Airline.*
+*Your health and your license are in good hands at Clínica Hispana Cruz #3.*

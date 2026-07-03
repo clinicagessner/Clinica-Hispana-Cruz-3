@@ -1,10 +1,10 @@
 ---
 slug: "salud-mujer-houston-servicios-ginecologia"
 title: "Women's Health in Houston: Gynecology Services in Spanish"
-description: "Gynecology services in Houston TX with Spanish-speaking staff. Pap smears, pelvic exams, family planning, and more at Clínica Hispana Airline."
+description: "Gynecology services in Houston TX with Spanish-speaking staff. Pap smears, pelvic exams, family planning, and more at Clínica Hispana Cruz #3."
 date: "2026-03-20"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Airline"
+author: "Clínica Hispana Cruz #3"
 image: "/images/services/ginecologia.webp"
 featured: false
 category: "Women's Health"
@@ -19,7 +19,7 @@ keywords:
 
 # Women's Health in Houston: Gynecology Services in Spanish
 
-Women's health requires specialized attention, and at Clínica Hispana Airline, we understand how important it is for every woman to feel comfortable and understood during her medical visits.
+Women's health requires specialized attention, and at Clínica Hispana Cruz #3, we understand how important it is for every woman to feel comfortable and understood during her medical visits.
 
 ## Why Regular Gynecological Care Matters
 
@@ -92,7 +92,7 @@ We offer counseling on:
 
 ## The Importance of Spanish-Language Care
 
-We understand that discussing intimate health can be difficult, especially with language barriers. At Clínica Hispana Airline:
+We understand that discussing intimate health can be difficult, especially with language barriers. At Clínica Hispana Cruz #3:
 
 - All our staff speaks Spanish
 - We explain procedures clearly
@@ -149,7 +149,7 @@ Our [gynecology services in Houston](/services/ginecologia) include personalized
 
 ## Menopause: Symptoms and Treatment Options
 
-Menopause is a natural stage in every woman's life, but its symptoms can significantly affect quality of life. At Clínica Hispana Airline, we care for many Hispanic women in Houston who are looking for clear, Spanish-language guidance on how to manage this transition.
+Menopause is a natural stage in every woman's life, but its symptoms can significantly affect quality of life. At Clínica Hispana Cruz #3, we care for many Hispanic women in Houston who are looking for clear, Spanish-language guidance on how to manage this transition.
 
 ### Most common menopause symptoms
 - **Hot flashes and night sweats:** Sudden waves of heat that can last 1 to 5 minutes
@@ -204,7 +204,7 @@ Sexual health is an integral part of a woman's overall well-being. Sexually tran
 
 Our [sexually transmitted disease services](/services/enfermedades-transmision-sexual) are completely confidential and conducted in an environment of respect and trust. We also offer comprehensive [family planning](/services/anticonceptivos) that includes sexual health counseling and contraception. If you have experienced symptoms like unusual discharge or irritation, visit our page on [vaginal infections](/services/ginecologia) for more information.
 
-## Why Choose Clínica Hispana Airline
+## Why Choose Clínica Hispana Cruz #3
 
 - **Confidential care** in a comfortable environment
 - **Female provider** available
@@ -215,11 +215,11 @@ Our [sexually transmitted disease services](/services/enfermedades-transmision-s
 
 ## Schedule Your Visit
 
-Your health is important. Don't postpone your gynecological exams. We are the trusted clinic for thousands of Hispanic women in Houston TX, including the Greenspoint, Northline, Aldine, and north Houston areas.
+Your health is important. Don't postpone your gynecological exams. We are the trusted clinic for thousands of Hispanic women in Houston TX, including the Meyerland, Braeswood, Westbury, Bellaire, and southwest Houston areas.
 
-**Clínica Hispana Airline**
-- Phone: (346) 626-4110
-- Address: 934 E Tidwell Rd, Houston, TX 77022
+**Clínica Hispana Cruz #3**
+- Phone: (832) 323-2330
+- Address: 5411 S Braeswood Blvd, Houston, TX 77096
 - Hours: Monday-Friday 9AM-9PM
 
 *Caring for the health of Hispanic women in Houston.*

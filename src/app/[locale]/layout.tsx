@@ -9,8 +9,9 @@ import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import { ScrollAnimations } from "@/components/animations/scroll-animations";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/next";
-import { GoogleAnalytics } from "@next/third-parties/google";
-import Script from "next/script";
+// TODO(randy): reactivar cuando existan los IDs de analítica de Cruz #3
+// import { GoogleAnalytics } from "@next/third-parties/google";
+// import Script from "next/script";
 import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import "../globals.css";
@@ -113,12 +114,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         "max-snippet": -1,
       },
     },
-    verification: {
-      google: [
-        "DCDMoTBSEG-vc4DG4vI-mcHVC_b5UJCfrbAlyMHJx8U",
-        "RmUdLh6Q3sdftfM2Zg9CvbwpnZh7cgOjf5yweef0TzY",
-      ],
-    },
+    // TODO(randy): PENDIENTE — tokens de Google Search Console de Cruz #3
+    // verification: {
+    //   google: ["<TOKEN_1>", "<TOKEN_2>"],
+    // },
   };
 }
 
@@ -140,27 +139,10 @@ export default async function LocaleLayout({ children, params }: Props) {
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#DC2626" />
         {/* Preconnect to external domains for faster loading */}
-        <link rel="preconnect" href="https://connect.facebook.net" />
-        <link rel="preconnect" href="https://cdn.callrail.com" />
         <link rel="preconnect" href="https://maps.googleapis.com" />
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
-        <link rel="dns-prefetch" href="https://cdn.callrail.com" />
-        {/* CallRail - Call Tracking */}
-        <script
-          type="text/javascript"
-          src="//cdn.callrail.com/companies/257588879/cc932502d2a770c60e21/12/swap.js"
-          async
-        />
-        {/* Meta Pixel noscript fallback */}
-        <noscript>
-          <img
-            height="1"
-            width="1"
-            style={{ display: "none" }}
-            src="https://www.facebook.com/tr?id=1993259561579416&ev=PageView&noscript=1"
-            alt=""
-          />
-        </noscript>
+        {/* TODO(randy): PENDIENTE — CallRail de Cruz #3 (script swap.js + preconnect a cdn.callrail.com) */}
+        {/* TODO(randy): PENDIENTE — Meta Pixel de Cruz #3 (script + noscript + preconnect a connect.facebook.net) */}
       </head>
       <body className="antialiased min-h-screen flex flex-col" suppressHydrationWarning>
         <NextIntlClientProvider messages={messages}>
@@ -174,32 +156,10 @@ export default async function LocaleLayout({ children, params }: Props) {
           </TooltipProvider>
         </NextIntlClientProvider>
       </body>
-      <GoogleAnalytics gaId="G-YVEMRNF7VP" />
-      <Script id="meta-pixel" strategy="afterInteractive">
-        {`
-          !function(f,b,e,v,n,t,s)
-          {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-          n.queue=[];t=b.createElement(e);t.async=!0;
-          t.src=v;s=b.getElementsByTagName(e)[0];
-          s.parentNode.insertBefore(t,s)}(window, document,'script',
-          'https://connect.facebook.net/en_US/fbevents.js');
-          fbq('init', '1993259561579416');
-          fbq('track', 'PageView');
-        `}
-      </Script>
-      <Script
-        src="https://www.googletagmanager.com/gtag/js?id=AW-718776156"
-        strategy="afterInteractive"
-      />
-      <Script id="google-ads-tag" strategy="afterInteractive">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('config', 'AW-718776156');
-        `}
-      </Script>
+      {/* TODO(randy): PENDIENTE — crear propiedad GA4 de Cruz #3 y activar:
+          <GoogleAnalytics gaId="G-XXXXXXXXXX" /> */}
+      {/* TODO(randy): PENDIENTE — Meta Pixel de Cruz #3 (fbq init + PageView) */}
+      {/* TODO(randy): PENDIENTE — Google Ads (AW-XXXXXXXXX) de Cruz #3 */}
     </html>
   );
 }

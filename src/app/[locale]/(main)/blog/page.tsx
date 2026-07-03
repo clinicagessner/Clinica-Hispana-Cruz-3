@@ -83,7 +83,7 @@ export default async function BlogPage({ params }: Props) {
                   <div className="relative aspect-video md:aspect-auto md:min-h-[400px]">
                     <Image
                       src={featuredPost.image || "/images/blog/default.webp"}
-                      alt={`${featuredPost.title} - Blog de salud Clínica Hispana Airline Houston`}
+                      alt={`${featuredPost.title} - Blog de salud Clínica Hispana Cruz #3 Houston`}
                       fill
                       className="object-cover"
                       priority
@@ -140,7 +140,7 @@ export default async function BlogPage({ params }: Props) {
                   <div className="relative aspect-video">
                     <Image
                       src={post.image || "/images/blog/default.webp"}
-                      alt={`${post.title} - Blog de salud Clínica Hispana Airline Houston`}
+                      alt={`${post.title} - Blog de salud Clínica Hispana Cruz #3 Houston`}
                       fill
                       className="object-cover"
                     />

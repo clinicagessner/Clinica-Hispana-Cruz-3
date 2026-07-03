@@ -45,7 +45,7 @@ export async function BlogPreview() {
               <div className="relative h-64 md:h-full min-h-[300px]">
                 <Image
                   src={featuredPost.image || "/images/blog/default.webp"}
-                  alt={`Blog de salud: ${featuredPost.title} - Clínica Hispana Airline Houston`}
+                  alt={`Blog de salud: ${featuredPost.title} - Clínica Hispana Cruz #3 Houston`}
                   fill
                   className="object-cover"
                   sizes="(max-width: 768px) 100vw, 50vw"

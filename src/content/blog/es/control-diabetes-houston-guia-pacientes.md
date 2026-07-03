@@ -1,10 +1,10 @@
 ---
 slug: "control-diabetes-houston-guia-pacientes"
 title: "Control de Diabetes en Houston: Guía para Pacientes Hispanos"
-description: "Aprenda a controlar su diabetes con nuestra guía completa. Monitoreo de glucosa, alimentación, medicamentos y cómo Clínica Hispana Airline puede ayudarle."
+description: "Aprenda a controlar su diabetes con nuestra guía completa. Monitoreo de glucosa, alimentación, medicamentos y cómo Clínica Hispana Cruz #3 puede ayudarle."
 date: "2026-03-19"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Airline"
+author: "Clínica Hispana Cruz #3"
 image: "/images/services/condiciones-cronicas.jpg"
 featured: false
 category: "Salud"
@@ -19,7 +19,7 @@ keywords:
 
 # Control de Diabetes en Houston: Guía para Pacientes Hispanos
 
-La diabetes afecta a millones de hispanos en Estados Unidos, y Houston no es la excepción. En Clínica Hispana Airline, entendemos los desafíos únicos que enfrenta nuestra comunidad al manejar esta condición crónica.
+La diabetes afecta a millones de hispanos en Estados Unidos, y Houston no es la excepción. En Clínica Hispana Cruz #3, entendemos los desafíos únicos que enfrenta nuestra comunidad al manejar esta condición crónica.
 
 ## ¿Qué es la Diabetes?
 
@@ -79,7 +79,7 @@ Revisar sus niveles de glucosa regularmente es fundamental:
 - **Hemoglobina A1C**: menos de 7%
 
 ### Exámenes Regulares
-En Clínica Hispana Airline realizamos todos los estudios necesarios para el control de la diabetes. Consulte nuestros servicios de [condiciones crónicas](/services/condiciones-cronicas) y [laboratorio](/services/examenes-sangre):
+En Clínica Hispana Cruz #3 realizamos todos los estudios necesarios para el control de la diabetes. Consulte nuestros servicios de [condiciones crónicas](/services/condiciones-cronicas) y [laboratorio](/services/examenes-sangre):
 - Pruebas de glucosa en ayunas
 - Hemoglobina A1C (cada 3 meses)
 - Panel metabólico completo
@@ -190,7 +190,7 @@ Las personas con diabetes tienen hasta el **doble de probabilidades** de desarro
 
 ### Qué puede hacer
 
-- **Hable con su médico**: El primer paso es reconocer que el bienestar emocional es parte del tratamiento de la diabetes. En Clínica Hispana Airline abordamos al paciente de forma integral.
+- **Hable con su médico**: El primer paso es reconocer que el bienestar emocional es parte del tratamiento de la diabetes. En Clínica Hispana Cruz #3 abordamos al paciente de forma integral.
 - **Busque apoyo en su comunidad**: Houston cuenta con grupos de apoyo para diabéticos hispanos. Compartir experiencias con otras personas que viven la misma situación puede ser muy reconfortante.
 - **Practique técnicas de manejo del estrés**: Respiración profunda, oración, tiempo en familia y actividad física moderada tienen efectos comprobados sobre el estrés y los niveles de glucosa.
 - **No se aísle**: La cultura hispana valora la familia y la comunidad. Apóyese en sus seres queridos y permita que ellos también participen en su proceso de salud.
@@ -199,7 +199,7 @@ Cuidar su mente es tan importante como cuidar su azúcar. Si siente que el peso 
 
 ## Cómo Podemos Ayudarle
 
-En **Clínica Hispana Airline** ofrecemos atención integral para el [manejo de condiciones crónicas como la diabetes](/services/condiciones-cronicas):
+En **Clínica Hispana Cruz #3** ofrecemos atención integral para el [manejo de condiciones crónicas como la diabetes](/services/condiciones-cronicas):
 
 ### Servicios de Diabetes
 - Consultas médicas en español
@@ -218,10 +218,10 @@ En **Clínica Hispana Airline** ofrecemos atención integral para el [manejo de 
 
 ## Programa su Consulta
 
-No espere hasta que la diabetes afecte su calidad de vida. Visite Clínica Hispana Airline en Houston para un chequeo completo y un plan de manejo personalizado.
+No espere hasta que la diabetes afecte su calidad de vida. Visite Clínica Hispana Cruz #3 en Houston para un chequeo completo y un plan de manejo personalizado.
 
 **Contacto:**
-- Teléfono: (346) 626-4110
-- Dirección: 934 E Tidwell Rd, Houston, TX 77022
+- Teléfono: (832) 323-2330
+- Dirección: 5411 S Braeswood Blvd, Houston, TX 77096
 
 *Recuerde: el control de la diabetes es un trabajo de equipo entre usted y su médico.*

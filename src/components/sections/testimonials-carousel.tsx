@@ -98,7 +98,7 @@ export function TestimonialsCarousel({ reviews }: TestimonialsCarouselProps) {
                   <div className="relative size-11 rounded-full overflow-hidden ring-2 ring-red-light">
                     <Image
                       src={review.profile_photo_url}
-                      alt={`Foto de ${review.author_name} - Paciente de Clínica Hispana Airline Houston`}
+                      alt={`Foto de ${review.author_name} - Paciente de Clínica Hispana Cruz #3 Houston`}
                       fill
                       sizes="44px"
                       className="object-cover"

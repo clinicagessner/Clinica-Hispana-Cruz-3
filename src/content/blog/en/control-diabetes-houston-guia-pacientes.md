@@ -1,10 +1,10 @@
 ---
 slug: "control-diabetes-houston-guia-pacientes"
 title: "Diabetes Management in Houston: A Guide for Hispanic Patients"
-description: "Learn how to manage your diabetes with our comprehensive guide. Glucose monitoring, diet, medications, and how Clínica Hispana Airline can help Houston patients."
+description: "Learn how to manage your diabetes with our comprehensive guide. Glucose monitoring, diet, medications, and how Clínica Hispana Cruz #3 can help Houston patients."
 date: "2026-03-19"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Airline"
+author: "Clínica Hispana Cruz #3"
 image: "/images/services/condiciones-cronicas.jpg"
 featured: false
 category: "Health"
@@ -19,7 +19,7 @@ keywords:
 
 # Diabetes Management in Houston: A Guide for Hispanic Patients
 
-Diabetes affects millions of Hispanic Americans, and Houston is no exception. At Clínica Hispana Airline, we understand the unique challenges our community faces when managing this chronic condition.
+Diabetes affects millions of Hispanic Americans, and Houston is no exception. At Clínica Hispana Cruz #3, we understand the unique challenges our community faces when managing this chronic condition.
 
 ## What Is Diabetes?
 
@@ -79,7 +79,7 @@ Monitoring your glucose levels regularly is essential:
 - **Hemoglobin A1C:** less than 7%
 
 ### Regular Tests
-At Clínica Hispana Airline we perform all the tests needed to manage diabetes. See our [chronic conditions](/services/condiciones-cronicas) and [laboratory](/services/examenes-sangre) services:
+At Clínica Hispana Cruz #3 we perform all the tests needed to manage diabetes. See our [chronic conditions](/services/condiciones-cronicas) and [laboratory](/services/examenes-sangre) services:
 - Fasting glucose tests
 - Hemoglobin A1C (every 3 months)
 - Complete metabolic panel
@@ -190,7 +190,7 @@ People with diabetes are up to **twice as likely** to develop depression compare
 
 ### What you can do
 
-- **Talk to your doctor:** The first step is recognizing that emotional well-being is part of diabetes treatment. At Clínica Hispana Airline, we address the whole patient.
+- **Talk to your doctor:** The first step is recognizing that emotional well-being is part of diabetes treatment. At Clínica Hispana Cruz #3, we address the whole patient.
 - **Seek support in your community:** Houston has support groups for Hispanic diabetics. Sharing experiences with others facing the same situation can be very comforting.
 - **Practice stress management techniques:** Deep breathing, prayer, family time, and moderate physical activity have proven effects on stress and glucose levels.
 - **Don't isolate yourself:** Hispanic culture values family and community. Lean on your loved ones and let them be part of your health journey.
@@ -199,7 +199,7 @@ Taking care of your mind is just as important as taking care of your blood sugar
 
 ## How We Can Help
 
-At **Clínica Hispana Airline** we offer comprehensive care for the [management of chronic conditions like diabetes](/services/condiciones-cronicas):
+At **Clínica Hispana Cruz #3** we offer comprehensive care for the [management of chronic conditions like diabetes](/services/condiciones-cronicas):
 
 ### Diabetes Services
 - Medical consultations in Spanish
@@ -218,10 +218,10 @@ At **Clínica Hispana Airline** we offer comprehensive care for the [management 
 
 ## Schedule Your Consultation
 
-Don't wait until diabetes affects your quality of life. Visit Clínica Hispana Airline for a complete checkup and personalized management plan.
+Don't wait until diabetes affects your quality of life. Visit Clínica Hispana Cruz #3 for a complete checkup and personalized management plan.
 
 **Contact:**
-- Phone: (346) 626-4110
-- Address: 934 E Tidwell Rd, Houston, TX 77022
+- Phone: (832) 323-2330
+- Address: 5411 S Braeswood Blvd, Houston, TX 77096
 
 *Remember: managing diabetes is a team effort between you and your doctor.*

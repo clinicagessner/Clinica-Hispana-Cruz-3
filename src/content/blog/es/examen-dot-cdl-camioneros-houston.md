@@ -4,7 +4,7 @@ title: "Examen DOT para Camioneros en Houston: Todo lo que Necesita Saber"
 description: "Guía completa del examen físico DOT para licencia CDL en Houston TX. Requisitos, qué esperar, costo y dónde hacerlo en español. Sin cita previa."
 date: "2026-04-11"
 dateModified: "2026-04-11"
-author: "Clínica Hispana Airline"
+author: "Clínica Hispana Cruz #3"
 image: "/images/services/examen-dot.webp"
 featured: true
 category: "Salud Ocupacional"
@@ -20,7 +20,7 @@ keywords:
 
 # Examen DOT para Camioneros en Houston: Todo lo que Necesita Saber
 
-Si usted es camionero, conductor de autobús o maneja un vehículo comercial en Houston, necesita un **examen físico DOT** vigente para obtener o renovar su licencia CDL. En Clínica Hispana Airline realizamos este examen con atención **100% en español**, sin cita previa y con resultados el mismo día.
+Si usted es camionero, conductor de autobús o maneja un vehículo comercial en Houston, necesita un **examen físico DOT** vigente para obtener o renovar su licencia CDL. En Clínica Hispana Cruz #3 realizamos este examen con atención **100% en español**, sin cita previa y con resultados el mismo día.
 
 ## ¿Qué es el Examen DOT?
 
@@ -109,7 +109,7 @@ Para que su examen sea rápido y sin complicaciones, traiga lo siguiente:
 
 ## ¿Cuánto Cuesta el Examen DOT?
 
-En Clínica Hispana Airline ofrecemos el examen DOT a **precios accesibles y competitivos**. El costo incluye:
+En Clínica Hispana Cruz #3 ofrecemos el examen DOT a **precios accesibles y competitivos**. El costo incluye:
 
 - Examen físico completo
 - Análisis de orina
@@ -135,9 +135,9 @@ Si el médico determina que usted no cumple con los requisitos en el momento del
 - **Diabetes con insulina:** Solicite la exención especial del FMCSA con la ayuda de su endocrinólogo.
 - **Otras condiciones:** El médico le explicará exactamente qué necesita para poder certificarse.
 
-En Clínica Hispana Airline **nunca le rechazamos sin explicarle qué hacer**. Le damos un plan claro para resolver cualquier situación y poder obtener su certificado.
+En Clínica Hispana Cruz #3 **nunca le rechazamos sin explicarle qué hacer**. Le damos un plan claro para resolver cualquier situación y poder obtener su certificado.
 
-## ¿Por Qué Elegir Clínica Hispana Airline para su Examen DOT?
+## ¿Por Qué Elegir Clínica Hispana Cruz #3 para su Examen DOT?
 
 ### 100% en Español
 Todo el proceso — desde el registro hasta la entrega de su certificado — es en español. No necesita traductor ni preocuparse por malentendidos.
@@ -152,7 +152,7 @@ Sale de nuestra clínica con su **certificado médico DOT y tarjeta médica** en
 Ofrecemos precios competitivos sin sacrificar la calidad del examen. Aceptamos efectivo y tarjetas.
 
 ### Ubicación Conveniente
-Estamos en **934 E Tidwell Rd, Houston, TX 77022**, cerca de la Highway 59/69, con amplio estacionamiento gratuito para camiones y vehículos grandes.
+Estamos en **5411 S Braeswood Blvd, Houston, TX 77096**, cerca de la Highway 59/69, con amplio estacionamiento gratuito para camiones y vehículos grandes.
 
 ### Experiencia con Camioneros Hispanos
 Entendemos las necesidades específicas de la comunidad de camioneros hispanos en Houston. Muchos de nuestros pacientes son conductores que confían en nosotros para sus renovaciones año tras año.
@@ -179,11 +179,11 @@ Aproximadamente **30-45 minutos**. Sale con su certificado el mismo día.
 
 ## Contacto
 
-¿Listo para su examen DOT? Visite Clínica Hispana Airline hoy:
+¿Listo para su examen DOT? Visite Clínica Hispana Cruz #3 hoy:
 
-- **Teléfono:** (346) 626-4110
-- **Dirección:** 934 E Tidwell Rd, Houston, TX 77022
+- **Teléfono:** (832) 323-2330
+- **Dirección:** 5411 S Braeswood Blvd, Houston, TX 77096
 - **Horario:** Lunes a Domingo, 9:00 AM - 9:00 PM
 - **Sin cita previa** — Walk-ins bienvenidos
 
-*Su salud y su licencia están en buenas manos con Clínica Hispana Airline.*
+*Su salud y su licencia están en buenas manos con Clínica Hispana Cruz #3.*

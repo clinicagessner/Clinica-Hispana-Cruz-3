@@ -7,7 +7,6 @@ import {
   Phone,
   CalendarCheck,
   Heart,
-  Syringe,
   TestTube,
   CheckCircle,
   Heartbeat,

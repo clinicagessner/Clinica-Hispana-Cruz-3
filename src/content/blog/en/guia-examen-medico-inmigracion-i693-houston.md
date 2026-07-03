@@ -4,7 +4,7 @@ title: "Complete Guide: I-693 Immigration Medical Exam in Houston TX"
 description: "Everything you need to know about the I-693 medical exam for a Green Card in Houston TX. Requirements, vaccines, costs, documents, and what to expect from USCIS-certified Civil Surgeons."
 date: "2026-03-18"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Airline"
+author: "Clínica Hispana Cruz #3"
 image: "/images/services/examenes-inmigracion.webp"
 featured: false
 category: "Immigration"
@@ -27,7 +27,7 @@ Form I-693, known as the "Report of Medical Examination and Vaccination Record,"
 
 ## Who Can Perform the I-693 Exam?
 
-Only physicians designated as **Civil Surgeons** by USCIS are authorized to perform this examination. At [Clínica Hispana Airline](/services/examenes-inmigracion), we have certified Civil Surgeons who perform these exams every day in Houston.
+Only physicians designated as **Civil Surgeons** by USCIS are authorized to perform this examination. At [Clínica Hispana Cruz #3](/services/examenes-inmigracion), we have certified Civil Surgeons who perform these exams every day in Houston.
 
 ## What Does the Immigration Medical Exam Include?
 
@@ -62,7 +62,7 @@ If you have already received some vaccines, bring your vaccination card or medic
 
 ## How Much Does the I-693 Exam Cost in Houston?
 
-Costs vary by clinic. At Clínica Hispana Airline, we offer competitive pricing that includes:
+Costs vary by clinic. At Clínica Hispana Cruz #3, we offer competitive pricing that includes:
 - Complete physical examination
 - Completed and signed Form I-693
 - Full consultation in Spanish or English
@@ -109,7 +109,7 @@ In Houston, clinics with Civil Surgeons may have wait times, especially during h
 If USCIS rejects your I-693 form, don't panic. There are several common reasons and solutions for each:
 
 ### The form is incomplete or has errors
-USCIS may return the form if sections are blank, signatures are missing, or information is incorrect. In this case, you will need to return to the Civil Surgeon to have it corrected or completed. At Clínica Hispana Airline, we carefully review the form before sealing it.
+USCIS may return the form if sections are blank, signatures are missing, or information is incorrect. In this case, you will need to return to the Civil Surgeon to have it corrected or completed. At Clínica Hispana Cruz #3, we carefully review the form before sealing it.
 
 ### The envelope arrived opened or damaged
 You will need to repeat the full medical exam. Make sure to keep the envelope in a safe place and do not open it under any circumstances.
@@ -139,7 +139,7 @@ If your form was rejected, contact us. We can help you understand why and schedu
 - Do not open the sealed envelope
 - Submit the form with your USCIS application
 
-## Why Choose Clínica Hispana Airline?
+## Why Choose Clínica Hispana Cruz #3?
 
 - **USCIS-certified Civil Surgeons** with experience
 - **100% Spanish-language service**
@@ -152,9 +152,9 @@ If your form was rejected, contact us. We can help you understand why and schedu
 
 Don't let the medical exam delay your immigration process. Contact us today to schedule your [I-693 immigration exam](/services/examenes-inmigracion).
 
-**Clínica Hispana Airline**
-- Phone: (346) 626-4110
-- Address: 934 E Tidwell Rd, Houston, TX 77022
+**Clínica Hispana Cruz #3**
+- Phone: (832) 323-2330
+- Address: 5411 S Braeswood Blvd, Houston, TX 77096
 - Hours: Monday-Sunday 9AM-9PM
 
 *This article is for informational purposes only and does not constitute legal advice. Consult a licensed immigration attorney for questions about your specific case.*

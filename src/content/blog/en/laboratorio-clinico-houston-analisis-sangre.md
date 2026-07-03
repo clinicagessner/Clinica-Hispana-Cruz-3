@@ -4,7 +4,7 @@ title: "Clinical Laboratory in Houston: Blood Tests with Same-Day Results"
 description: "Clinical laboratory in Houston TX with same-day results. Blood tests, glucose, cholesterol, thyroid panel, and more at affordable prices with Spanish-speaking staff."
 date: "2026-03-21"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Airline"
+author: "Clínica Hispana Cruz #3"
 image: "/images/services/examenes-sangre.webp"
 featured: false
 category: "Diagnostics"
@@ -19,7 +19,7 @@ keywords:
 
 # Clinical Laboratory in Houston: Blood Tests with Same-Day Results
 
-Laboratory tests are fundamental for diagnosing diseases, monitoring chronic conditions, and maintaining good health. At Clínica Hispana Airline, we offer clinical laboratory services in Houston with fast results and affordable prices.
+Laboratory tests are fundamental for diagnosing diseases, monitoring chronic conditions, and maintaining good health. At Clínica Hispana Cruz #3, we offer clinical laboratory services in Houston with fast results and affordable prices.
 
 ## Why Lab Tests Matter
 
@@ -167,7 +167,7 @@ Almost all lab reports show three columns: your result, the reference range, and
 
 ## Most Requested Lab Packages
 
-Many people in Houston TX look for lab packages that offer more value for their money. At Clínica Hispana Airline, we group the most-requested tests together:
+Many people in Houston TX look for lab packages that offer more value for their money. At Clínica Hispana Cruz #3, we group the most-requested tests together:
 
 ### General Checkup Package
 Ideal for adults who have not had lab work in more than a year:
@@ -228,11 +228,11 @@ Visit our [clinical laboratory](/services/examenes-sangre) page to see all avail
 
 ## Schedule Your Lab Work
 
-Stay on top of your health with regular lab tests. We serve the Hispanic community in Houston, including the Northside, Eastwood, Magnolia Park, and Greater Greenspoint neighborhoods.
+Stay on top of your health with regular lab tests. We serve the Hispanic community in Houston, including the Meyerland, Westbury, Sharpstown, and Gulfton neighborhoods.
 
-**Clínica Hispana Airline**
-- Phone: (346) 626-4110
-- Address: 934 E Tidwell Rd, Houston, TX 77022
+**Clínica Hispana Cruz #3**
+- Phone: (832) 323-2330
+- Address: 5411 S Braeswood Blvd, Houston, TX 77096
 - Hours: Monday-Friday 9AM-9PM
 
 *Fast results, Spanish-language care, fair prices.*

@@ -156,7 +156,7 @@ export default async function ServicePage({ params }: Props) {
           <div className="absolute inset-0">
             <Image
               src={service.image}
-              alt={`${service.title} - Servicio médico Clínica Hispana Airline Houston TX`}
+              alt={`${service.title} - Servicio médico Clínica Hispana Cruz #3 Houston TX`}
               fill
               priority
               className="object-cover"
@@ -338,7 +338,7 @@ export default async function ServicePage({ params }: Props) {
                         <div className="relative h-32 overflow-hidden">
                           <Image
                             src={related.image}
-                            alt={`${related.title} - Clínica Hispana Airline Houston`}
+                            alt={`${related.title} - Clínica Hispana Cruz #3 Houston`}
                             fill
                             className="object-cover group-hover:scale-105 transition-transform duration-500"
                             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"

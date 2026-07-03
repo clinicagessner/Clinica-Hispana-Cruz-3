@@ -4,7 +4,7 @@ title: "Guía Completa: Examen Médico de Inmigración I-693 en Houston"
 description: "Todo lo que necesita saber sobre el examen médico I-693 para Green Card en Houston TX. Requisitos, vacunas, costos y qué esperar con Civil Surgeons certificados."
 date: "2026-03-18"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Airline"
+author: "Clínica Hispana Cruz #3"
 image: "/images/services/examenes-inmigracion.webp"
 featured: false
 category: "Inmigración"
@@ -27,7 +27,7 @@ El Formulario I-693, conocido como "Report of Medical Examination and Vaccinatio
 
 ## ¿Quién Puede Realizar el Examen I-693?
 
-Solo médicos autorizados como **Civil Surgeons** por USCIS pueden realizar este examen. En [Clínica Hispana Airline](/services/examenes-inmigracion), contamos con Civil Surgeons certificados que realizan estos exámenes diariamente en Houston.
+Solo médicos autorizados como **Civil Surgeons** por USCIS pueden realizar este examen. En [Clínica Hispana Cruz #3](/services/examenes-inmigracion), contamos con Civil Surgeons certificados que realizan estos exámenes diariamente en Houston.
 
 ## ¿Qué Incluye el Examen Médico de Inmigración?
 
@@ -62,7 +62,7 @@ Si ya tiene algunas vacunas, traiga su cartilla de vacunación o registros médi
 
 ## ¿Cuánto Cuesta el Examen I-693 en Houston?
 
-Los costos varían según la clínica. En Clínica Hispana Airline ofrecemos precios competitivos que incluyen:
+Los costos varían según la clínica. En Clínica Hispana Cruz #3 ofrecemos precios competitivos que incluyen:
 - Examen médico completo
 - Formulario I-693 completado
 - Asesoría en español
@@ -109,7 +109,7 @@ En Houston, las clínicas con Civil Surgeons pueden tener tiempos de espera, esp
 Si USCIS rechaza su formulario I-693, no entre en pánico. Existen varias razones comunes y soluciones para cada una:
 
 ### El formulario está incompleto o tiene errores
-USCIS puede devolver el formulario si hay secciones vacías, firmas que faltan o información incorrecta. En este caso, deberá regresar al Civil Surgeon para que corrija o complete el documento. En Clínica Hispana Airline revisamos el formulario cuidadosamente antes de sellarlo.
+USCIS puede devolver el formulario si hay secciones vacías, firmas que faltan o información incorrecta. En este caso, deberá regresar al Civil Surgeon para que corrija o complete el documento. En Clínica Hispana Cruz #3 revisamos el formulario cuidadosamente antes de sellarlo.
 
 ### El sobre llegó abierto o dañado
 Deberá repetir el examen médico completo. Asegúrese de guardar el sobre en un lugar seguro y no abrirlo bajo ninguna circunstancia.
@@ -139,7 +139,7 @@ Si su formulario fue rechazado, contáctenos. Podemos ayudarle a entender el mot
 - No abra el sobre sellado
 - Presente el formulario junto con su solicitud
 
-## ¿Por Qué Elegir Clínica Hispana Airline?
+## ¿Por Qué Elegir Clínica Hispana Cruz #3?
 
 - **Civil Surgeons certificados** con experiencia
 - **Atención 100% en español**
@@ -152,9 +152,9 @@ Si su formulario fue rechazado, contáctenos. Podemos ayudarle a entender el mot
 
 No deje que el examen médico retrase su proceso migratorio. Contáctenos hoy para programar su [examen de inmigración I-693](/services/examenes-inmigracion).
 
-**Clínica Hispana Airline**
-- Teléfono: (346) 626-4110
-- Dirección: 934 E Tidwell Rd, Houston, TX 77022
+**Clínica Hispana Cruz #3**
+- Teléfono: (832) 323-2330
+- Dirección: 5411 S Braeswood Blvd, Houston, TX 77096
 - Horario: Lunes a Domingo 9AM-9PM
 
 *Este artículo es solo informativo y no constituye asesoría legal. Consulte con un abogado de inmigración para preguntas sobre su caso específico.*

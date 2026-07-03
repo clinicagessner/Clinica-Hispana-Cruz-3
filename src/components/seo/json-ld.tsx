@@ -35,13 +35,17 @@ export async function JsonLdMedicalClinic() {
           latitude: CONTACT_INFO.coordinates.lat,
           longitude: CONTACT_INFO.coordinates.lng,
         },
-        aggregateRating: {
-          "@type": "AggregateRating",
-          ratingValue,
-          reviewCount,
-          bestRating: 5,
-          worstRating: 1,
-        },
+        // aggregateRating solo cuando hay reseñas reales (reviewCount 0 genera
+        // errores de rich results mientras no tengamos los datos de Cruz #3)
+        ...(reviewCount > 0 && {
+          aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue,
+            reviewCount,
+            bestRating: 5,
+            worstRating: 1,
+          },
+        }),
         openingHoursSpecification: [
           {
             "@type": "OpeningHoursSpecification",
