@@ -16,22 +16,23 @@ export interface GooglePlaceData {
   reviews: GoogleReview[];
 }
 
-interface GooglePlaceDetailsResponse {
-  result?: {
-    rating?: number;
-    user_ratings_total?: number;
-    reviews?: Array<{
-      author_name: string;
-      rating: number;
-      text: string;
-      time: number;
-      relative_time_description: string;
-      profile_photo_url: string;
-      author_url?: string;
-    }>;
-  };
-  status: string;
-  error_message?: string;
+// Places API (New) — https://places.googleapis.com/v1/places/{placeId}
+// (la legacy maps/api/place/details ya no se puede habilitar en proyectos nuevos)
+interface PlacesNewResponse {
+  rating?: number;
+  userRatingCount?: number;
+  reviews?: Array<{
+    rating: number;
+    text?: { text?: string };
+    relativePublishTimeDescription?: string;
+    publishTime?: string;
+    authorAttribution?: {
+      displayName?: string;
+      uri?: string;
+      photoUri?: string;
+    };
+  }>;
+  error?: { code: number; message: string; status: string };
 }
 
 async function fetchGooglePlaceDetails(): Promise<GooglePlaceData | null> {
@@ -44,49 +45,44 @@ async function fetchGooglePlaceDetails(): Promise<GooglePlaceData | null> {
   }
 
   try {
-    const url = new URL("https://maps.googleapis.com/maps/api/place/details/json");
-    url.searchParams.set("place_id", placeId);
-    url.searchParams.set("fields", "rating,user_ratings_total,reviews");
-    url.searchParams.set("reviews_sort", "most_relevant");
-    url.searchParams.set("language", "es");
-    url.searchParams.set("key", apiKey);
+    const url = `https://places.googleapis.com/v1/places/${placeId}?languageCode=es`;
 
-    const response = await fetch(url.toString(), {
+    const response = await fetch(url, {
+      headers: {
+        "X-Goog-Api-Key": apiKey,
+        "X-Goog-FieldMask": "rating,userRatingCount,reviews",
+      },
       next: { revalidate: 3600 }, // Cache for 1 hour
     });
 
-    if (!response.ok) {
-      throw new Error(`HTTP error: ${response.status}`);
-    }
+    const data: PlacesNewResponse = await response.json();
 
-    const data: GooglePlaceDetailsResponse = await response.json();
-
-    if (data.status !== "OK") {
-      console.error("Google Places API error:", data.status, data.error_message);
-      return null;
-    }
-
-    const result = data.result;
-    if (!result) {
+    if (!response.ok || data.error) {
+      console.error(
+        "Google Places API (New) error:",
+        response.status,
+        data.error?.status,
+        data.error?.message
+      );
       return null;
     }
 
     // Filter: only 5-star reviews with text
-    const filteredReviews = (result.reviews ?? [])
-      .filter((review) => review.rating === 5 && review.text.trim().length > 0)
+    const filteredReviews = (data.reviews ?? [])
+      .filter((review) => review.rating === 5 && (review.text?.text ?? "").trim().length > 0)
       .map((review) => ({
-        author_name: review.author_name,
+        author_name: review.authorAttribution?.displayName ?? "Paciente",
         rating: review.rating,
-        text: review.text,
-        time: review.time,
-        relative_time_description: review.relative_time_description,
-        profile_photo_url: review.profile_photo_url || "/images/avatars/default.webp",
-        author_url: review.author_url,
+        text: review.text?.text ?? "",
+        time: review.publishTime ? Math.floor(Date.parse(review.publishTime) / 1000) : 0,
+        relative_time_description: review.relativePublishTimeDescription ?? "",
+        profile_photo_url: review.authorAttribution?.photoUri || "/images/avatars/default.webp",
+        author_url: review.authorAttribution?.uri,
       }));
 
     return {
-      rating: result.rating ?? 5.0,
-      totalReviews: result.user_ratings_total ?? 0,
+      rating: data.rating ?? 5.0,
+      totalReviews: data.userRatingCount ?? 0,
       reviews: filteredReviews,
     };
   } catch (error) {

@@ -21,16 +21,13 @@ export const CONTACT_INFO: ContactInfo = {
   hours: "Lunes a Domingo: 9:00 AM - 9:00 PM",
   hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",
   hoursWeekend: "Sábado y Domingo: 9:00 AM - 9:00 PM",
-  googleMapsUrl: "https://www.google.com/maps/search/Clinica+Hispana+Cruz+3+5411+S+Braeswood+Blvd+Houston+TX+77096",
-  // TODO(randy): cuando tengamos el Place ID de Cruz #3, cambiar q=dirección por place_id:<PLACE_ID>
-  googleMapsEmbed: `https://www.google.com/maps/embed/v1/place?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_EMBED_KEY}&q=Clinica+Hispana+Cruz+3,5411+S+Braeswood+Blvd,Houston+TX+77096&zoom=17`,
-  // TODO(randy): cambiar a https://search.google.com/local/writereview?placeid=<PLACE_ID> cuando exista
-  googleReviewUrl: "https://www.google.com/maps/search/Clinica+Hispana+Cruz+3+5411+S+Braeswood+Blvd+Houston+TX+77096",
-  placeId: "", // TODO(randy): PENDIENTE — Place ID del listado de Google Maps de Cruz #3
+  googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Clinica+Hispana+Cruz+3+5411+S+Braeswood+Blvd+Houston+TX+77096&query_place_id=ChIJIb8rwELrQIYR6O6DRfXZI4o",
+  googleMapsEmbed: `https://www.google.com/maps/embed/v1/place?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_EMBED_KEY}&q=place_id:ChIJIb8rwELrQIYR6O6DRfXZI4o&zoom=17`,
+  googleReviewUrl: "https://search.google.com/local/writereview?placeid=ChIJIb8rwELrQIYR6O6DRfXZI4o",
+  placeId: "ChIJIb8rwELrQIYR6O6DRfXZI4o",
   coordinates: {
-    // TODO(randy): coordenadas aproximadas de 5411 S Braeswood Blvd — confirmar con el listado de Google Maps
-    lat: 29.6867,
-    lng: -95.4738,
+    lat: 29.6756492,
+    lng: -95.4774337,
   },
 };
 
@@ -38,11 +35,12 @@ export const CONTACT_INFO: ContactInfo = {
 // las omiten automáticamente mientras estén vacías)
 export const SOCIAL_LINKS: SocialLinks = {};
 
-// Google Reviews data - fallback cuando no hay GOOGLE_PLACES_API_KEY
+// Google Reviews data - fallback cuando la Places API no responde
+// (valores reales del listado al 2026-07-03; en vivo se actualizan solos)
 export const GOOGLE_REVIEWS_DATA = {
-  totalReviews: 150,
+  totalReviews: 365,
   averageRating: 4.9,
-  placeId: "", // TODO(randy): PENDIENTE — Place ID del listado de Google Maps de Cruz #3
+  placeId: "ChIJIb8rwELrQIYR6O6DRfXZI4o",
 };
 
 // Dedicated CallRail tracking number for the Conquesting landing only.
