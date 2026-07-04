@@ -22,7 +22,10 @@ export const CONTACT_INFO: ContactInfo = {
   hoursWeekday: "Lunes a Viernes: 9:00 AM - 9:00 PM",
   hoursWeekend: "Sábado y Domingo: 9:00 AM - 9:00 PM",
   googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Clinica+Hispana+Cruz+3+5411+S+Braeswood+Blvd+Houston+TX+77096&query_place_id=ChIJIb8rwELrQIYR6O6DRfXZI4o",
-  googleMapsEmbed: `https://www.google.com/maps/embed/v1/place?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_EMBED_KEY}&q=place_id:ChIJIb8rwELrQIYR6O6DRfXZI4o&zoom=17`,
+  // Embed "Compartir → Insertar mapa" de Google Maps: oficial, gratis y SIN API key
+  // (apunta al listado exacto de Cruz #3 vía su CID 0x8640eb42c02bbf21:0x8a23d9f54583eee8)
+  googleMapsEmbed:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3463.4!2d-95.4774337!3d29.6756492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640eb42c02bbf21%3A0x8a23d9f54583eee8!2sClinica%20Hispana%20Cruz%20%233!5e0!3m2!1ses!2sus!4v1751500000000",
   googleReviewUrl: "https://search.google.com/local/writereview?placeid=ChIJIb8rwELrQIYR6O6DRfXZI4o",
   placeId: "ChIJIb8rwELrQIYR6O6DRfXZI4o",
   coordinates: {
