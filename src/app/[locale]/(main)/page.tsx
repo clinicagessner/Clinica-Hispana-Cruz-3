@@ -8,6 +8,19 @@ import { Contact } from "@/components/sections/contact";
 import { FAQ } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { BlogPreview } from "@/components/sections/blog-preview";
+import { ScrollSpy } from "@/components/animations/scroll-spy";
+
+const HOME_SECTION_IDS = [
+  "home",
+  "promociones",
+  "services",
+  "chronic-care",
+  "testimonials",
+  "faq",
+  "location",
+  "blog",
+  "contact",
+];
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -28,6 +41,7 @@ export default async function HomePage({ params }: Props) {
       <Location />
       <BlogPreview />
       <Contact />
+      <ScrollSpy sectionIds={HOME_SECTION_IDS} />
     </>
   );
 }
