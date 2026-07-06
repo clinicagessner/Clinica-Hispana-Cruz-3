@@ -7,7 +7,11 @@ type Props = {
 };
 
 export function JsonLdBlogPosting({ post, locale }: Props) {
-  const url = `${SITE_CONFIG.baseUrl}/${locale}/blog/${post.slug}`;
+  // es es el locale por defecto sin prefijo; solo en lleva /en (igual que sitemap y canonical)
+  const url =
+    locale === "en"
+      ? `${SITE_CONFIG.baseUrl}/en/blog/${post.slug}`
+      : `${SITE_CONFIG.baseUrl}/blog/${post.slug}`;
 
   const blogPostingSchema = {
     "@context": "https://schema.org",

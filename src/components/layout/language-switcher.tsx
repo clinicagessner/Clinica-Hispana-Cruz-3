@@ -33,7 +33,7 @@ export function LanguageSwitcher({ isScrolled = true }: LanguageSwitcherProps) {
       )}
       aria-label={locale === "es" ? "Switch to English" : "Cambiar a Español"}
     >
-      <Globe className="size-4" weight="bold" />
+      <Globe className="size-4" weight="bold" aria-hidden="true" />
       <span className="uppercase">{locale === "es" ? "EN" : "ES"}</span>
     </Button>
   );

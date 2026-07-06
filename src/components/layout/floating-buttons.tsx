@@ -42,7 +42,7 @@ export function FloatingButtons({ phoneOverride }: FloatingButtonsProps = {}) {
             className="size-12 rounded-full bg-white text-slate-dark border border-slate-200 shadow-md flex items-center justify-center hover:bg-slate-50 hover:shadow-lg transition-all"
             aria-label="Ver ubicación en Google Maps"
           >
-            <MapPin className="size-5" weight="fill" />
+            <MapPin className="size-5" weight="fill" aria-hidden="true" />
           </a>
         </TooltipTrigger>
         <TooltipContent side="left">
@@ -59,7 +59,7 @@ export function FloatingButtons({ phoneOverride }: FloatingButtonsProps = {}) {
             aria-label="Llamar ahora"
             suppressHydrationWarning
           >
-            <Phone className="size-6" weight="fill" />
+            <Phone className="size-6" weight="fill" aria-hidden="true" />
           </a>
         </TooltipTrigger>
         <TooltipContent side="left">

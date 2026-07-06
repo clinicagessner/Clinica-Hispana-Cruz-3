@@ -142,7 +142,7 @@ export function Header({ phoneOverride }: HeaderProps = {}) {
             <LanguageSwitcher isScrolled={!useTransparentStyle} />
             <Button asChild size="sm" className="gap-2">
               <a href={`tel:${phone}`} suppressHydrationWarning>
-                <Phone className="size-4" weight="bold" />
+                <Phone className="size-4" weight="bold" aria-hidden="true" />
                 <span className="hidden xl:inline" suppressHydrationWarning>{phoneFormatted}</span>
                 <span className="xl:hidden">{t("cta.callNow")}</span>
               </a>
@@ -208,7 +208,7 @@ export function Header({ phoneOverride }: HeaderProps = {}) {
                   <div className="pt-6 border-t space-y-3">
                     <Button asChild className="w-full gap-2" size="lg">
                       <a href={`tel:${phone}`} onClick={handleLinkClick} suppressHydrationWarning>
-                        <Phone className="size-5" weight="bold" />
+                        <Phone className="size-5" weight="bold" aria-hidden="true" />
                         {t("cta.callNow")}
                       </a>
                     </Button>
@@ -219,7 +219,7 @@ export function Header({ phoneOverride }: HeaderProps = {}) {
                         rel="noopener noreferrer"
                         onClick={handleLinkClick}
                       >
-                        <MapPin className="size-5" weight="bold" />
+                        <MapPin className="size-5" weight="bold" aria-hidden="true" />
                         {t("cta.getDirections")}
                       </a>
                     </Button>

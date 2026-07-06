@@ -56,13 +56,13 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
             <div className="flex flex-col sm:flex-row gap-3">
               <Button asChild size="sm" className="gap-2 bg-red-primary hover:bg-red-dark">
                 <a href={`tel:${phone}`} suppressHydrationWarning>
-                  <Phone className="size-4" weight="fill" />
+                  <Phone className="size-4" weight="fill" aria-hidden="true" />
                   {t("cta.callNow")}
                 </a>
               </Button>
               <Button asChild size="sm" variant="outline" className="gap-2 bg-white/10 border-white/50 text-white hover:bg-white hover:text-slate-dark hover:border-white">
                 <a href={CONTACT_INFO.googleMapsUrl} target="_blank" rel="noopener noreferrer">
-                  <MapPin className="size-4" weight="fill" />
+                  <MapPin className="size-4" weight="fill" aria-hidden="true" />
                   {t("cta.getDirections")}
                 </a>
               </Button>
@@ -81,7 +81,7 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
                   className="flex items-start gap-3 text-white/70 hover:text-white transition-colors text-sm group"
                   suppressHydrationWarning
                 >
-                  <Phone className="size-5 shrink-0 mt-0.5 text-red-primary group-hover:text-white transition-colors" weight="fill" />
+                  <Phone className="size-5 shrink-0 mt-0.5 text-red-primary group-hover:text-white transition-colors" weight="fill" aria-hidden="true" />
                   <span suppressHydrationWarning>{phoneFormatted}</span>
                 </a>
               </li>
@@ -92,7 +92,7 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
                   rel="noopener noreferrer"
                   className="flex items-start gap-3 text-white/70 hover:text-white transition-colors text-sm group"
                 >
-                  <MapPin className="size-5 shrink-0 mt-0.5 text-red-primary group-hover:text-white transition-colors" weight="fill" />
+                  <MapPin className="size-5 shrink-0 mt-0.5 text-red-primary group-hover:text-white transition-colors" weight="fill" aria-hidden="true" />
                   <span>
                     {CONTACT_INFO.address}<br />
                     {CONTACT_INFO.city}, {CONTACT_INFO.state} {CONTACT_INFO.zip}
@@ -100,7 +100,7 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
                 </a>
               </li>
               <li className="flex items-start gap-3 text-white/70 text-sm">
-                <Clock className="size-5 shrink-0 mt-0.5 text-red-primary" weight="fill" />
+                <Clock className="size-5 shrink-0 mt-0.5 text-red-primary" weight="fill" aria-hidden="true" />
                 <div>
                   <p>{t("footer.hoursWeekday")}</p>
                   <p>{t("footer.hoursWeekend")}</p>
@@ -180,7 +180,7 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
                   className="size-11 rounded-full bg-white/10 flex items-center justify-center hover:bg-red-primary transition-colors"
                   aria-label="Google Business"
                 >
-                  <GoogleLogo className="size-5" weight="fill" />
+                  <GoogleLogo className="size-5" weight="fill" aria-hidden="true" />
                 </a>
               )}
               {SOCIAL_LINKS.instagram && (
@@ -199,7 +199,7 @@ export async function Footer({ phoneOverride }: FooterProps = {}) {
             {/* Google Reviews Badge */}
             <div className="bg-white/5 rounded-xl p-4 border border-white/10">
               <div className="flex items-center gap-2 mb-2">
-                <GoogleLogo className="size-5 text-red-primary" weight="fill" />
+                <GoogleLogo className="size-5 text-red-primary" weight="fill" aria-hidden="true" />
                 <span className="text-sm font-medium">Google Reviews</span>
               </div>
               <div className="flex items-center gap-1">

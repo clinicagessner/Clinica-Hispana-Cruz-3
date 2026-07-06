@@ -96,7 +96,7 @@ export async function Testimonials() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <GoogleLogo className="size-5" weight="bold" />
+              <GoogleLogo aria-hidden="true" className="size-5" weight="bold" />
               {t("leaveReview")}
             </a>
           </Button>

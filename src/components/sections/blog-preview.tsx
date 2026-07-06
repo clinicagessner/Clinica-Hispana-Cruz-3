@@ -25,7 +25,7 @@ export async function BlogPreview() {
   if (!featuredPost) return null;
 
   return (
-    <section id="blog" className="py-16 md:py-24 bg-white">
+    <section id="blog" className="py-16 md:py-24 bg-slate-light">
       <div className="container mx-auto px-4">
         {/* Section Header */}
         <div className="animate-on-scroll fade-up text-center max-w-2xl mx-auto mb-12">
@@ -61,7 +61,7 @@ export async function BlogPreview() {
               <CardContent className="p-6 md:p-8 flex flex-col justify-center">
                 <div className="flex items-center gap-4 text-sm text-muted-foreground mb-4">
                   <div className="flex items-center gap-1.5">
-                    <Calendar className="size-4" weight="fill" />
+                    <Calendar className="size-4" weight="fill" aria-hidden="true" />
                     <span>{new Date(featuredPost.date).toLocaleDateString(locale === "en" ? "en-US" : "es-MX", {
                       year: "numeric",
                       month: "long",
@@ -70,7 +70,7 @@ export async function BlogPreview() {
                   </div>
                   {featuredPost.readTime && (
                     <div className="flex items-center gap-1.5">
-                      <Clock className="size-4" weight="fill" />
+                      <Clock className="size-4" weight="fill" aria-hidden="true" />
                       <span>{featuredPost.readTime} min</span>
                     </div>
                   )}

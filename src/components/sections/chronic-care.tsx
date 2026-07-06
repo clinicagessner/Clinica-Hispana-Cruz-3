@@ -53,7 +53,7 @@ export function ChronicCare() {
         <div className="animate-on-scroll fade-up">
           <div className="flex justify-center mb-6">
             <Badge className="bg-red-primary hover:bg-red-dark text-white text-sm px-5 py-2 shadow-lg">
-              <Heart className="size-4 mr-2" weight="fill" />
+              <Heart className="size-4 mr-2" weight="fill" aria-hidden="true" />
               {t("badge")}
             </Badge>
           </div>
@@ -108,7 +108,7 @@ export function ChronicCare() {
               asChild
             >
               <Link href={getLocalizedHref("/#contact")}>
-                <CalendarCheck className="size-5" weight="bold" />
+                <CalendarCheck className="size-5" weight="bold" aria-hidden="true" />
                 {t("ctaSchedule")}
               </Link>
             </Button>
@@ -117,7 +117,7 @@ export function ChronicCare() {
               className="inline-flex items-center justify-center h-11 px-6 md:px-8 rounded-lg border-2 border-white text-white font-medium bg-transparent hover:bg-white hover:text-slate-dark transition-colors gap-2 text-sm md:text-base w-full sm:w-auto"
               suppressHydrationWarning
             >
-              <Phone className="size-5" weight="bold" />
+              <Phone className="size-5" weight="bold" aria-hidden="true" />
               {t("ctaCall")}
             </a>
           </div>

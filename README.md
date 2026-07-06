@@ -1,4 +1,4 @@
-# Clínica Hispana Houston
+# Clínica Hispana Cruz #3
 
 Website profesional para clínica médica hispana en Houston, TX. Sitio bilingüe (Español/Inglés) optimizado para SEO local y conversiones.
 
@@ -44,7 +44,7 @@ Abrir [http://localhost:3000](http://localhost:3000)
 RESEND_API_KEY=re_xxxxxxxxxx
 GOOGLE_PLACES_API_KEY=AIzaxxxxxxxxxx
 GOOGLE_PLACE_ID=ChIJxxxxxxxxxx
-NEXT_PUBLIC_SITE_URL=https://www.clinicahispanahouston.com
+NEXT_PUBLIC_SITE_URL=https://www.clinicahispanacruz3.com
 ```
 
 ## Estructura del Proyecto
