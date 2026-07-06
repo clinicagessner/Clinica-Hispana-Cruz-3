@@ -40,7 +40,7 @@
   },
   "services": {
     "title": "Services at Our Hispanic Clinic in Houston",
-    "subtitle": "Comprehensive medical care for the whole hispanic family in Houston",
+    "subtitle": "Family medicine, gynecology, clinical laboratory, physical exams and treatments in Spanish for Houston's Hispanic community — no appointment needed and affordable prices.",
     "servicesAvailable": "services available",
     "filterAll": "All",
     "noServices": "No services found",
@@ -64,7 +64,7 @@
   },
   "testimonials": {
     "title": "Patient Reviews in Houston",
-    "subtitle": "Real testimonials from Google Reviews of our hispanic clinic",
+    "subtitle": "Real Google Reviews from Hispanic patients cared for 100% in Spanish in Houston, TX.",
     "leaveReview": "Leave a Review",
     "verifiedReview": "Verified Google review",
     "rating": "rating",
@@ -72,7 +72,7 @@
   },
   "contact": {
     "title": "Contact Us",
-    "subtitle": "We're here to help you",
+    "subtitle": "Schedule your visit at our Hispanic clinic in Houston: call us, write to us, or walk in with no appointment. Open every day from 9 AM to 9 PM.",
     "form": {
       "name": "Full Name",
       "namePlaceholder": "Your name",
@@ -125,7 +125,7 @@
   },
   "location": {
     "title": "Our Clinic Location in Houston",
-    "subtitle": "Visit us at 5411 S Braeswood Blvd, Houston TX 77096",
+    "subtitle": "Visit us at 5411 S Braeswood Blvd, Houston TX 77096 — serving Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, and Gulfton, every day from 9 AM to 9 PM.",
     "howToGetHere": "How to Get Here",
     "getDirections": "Get Directions",
     "openInMaps": "Open in Google Maps",
@@ -216,7 +216,7 @@
   },
   "blog": {
     "title": "Health Blog",
-    "subtitle": "Health tips, news and updates from our clinic",
+    "subtitle": "Health tips in Spanish, medical guides and news from our Hispanic clinic in Houston: prevention, family medicine, and wellness for your family.",
     "metaTitle": "Blog | Clinica Hispana Cruz #3 Houston",
     "metaDescription": "Health tips, medical information and news from Clinica Hispana Cruz #3 in Houston, TX. Articles in Spanish about family medicine, prevention and wellness.",
     "featured": "Featured",

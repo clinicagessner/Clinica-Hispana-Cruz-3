@@ -40,7 +40,7 @@
   },
   "services": {
     "title": "Servicios de Nuestra Clínica Hispana en Houston",
-    "subtitle": "Atención médica integral para toda la familia hispana de Houston",
+    "subtitle": "Medicina familiar, ginecología, laboratorio clínico, exámenes físicos y tratamientos en español para toda la comunidad hispana de Houston — sin cita previa y con precios accesibles.",
     "servicesAvailable": "servicios disponibles",
     "filterAll": "Todos",
     "noServices": "No se encontraron servicios",
@@ -64,7 +64,7 @@
   },
   "testimonials": {
     "title": "Reseñas de Pacientes en Houston",
-    "subtitle": "Testimonios reales de Google Reviews de nuestra clínica hispana",
+    "subtitle": "Testimonios reales de Google Reviews de pacientes hispanos atendidos 100% en español en Houston, TX.",
     "leaveReview": "Dejar una Reseña",
     "verifiedReview": "Reseña verificada de Google",
     "rating": "calificación",
@@ -72,7 +72,7 @@
   },
   "contact": {
     "title": "Contáctenos",
-    "subtitle": "Estamos aquí para ayudarle",
+    "subtitle": "Agende su visita en nuestra clínica hispana de Houston: llámenos, escríbanos o venga sin cita previa. Atendemos todos los días de 9 AM a 9 PM.",
     "form": {
       "name": "Nombre Completo",
       "namePlaceholder": "Su nombre",
@@ -125,7 +125,7 @@
   },
   "location": {
     "title": "Ubicación de Nuestra Clínica en Houston",
-    "subtitle": "Visítenos en 5411 S Braeswood Blvd, Houston TX 77096",
+    "subtitle": "Visítenos en 5411 S Braeswood Blvd, Houston TX 77096 — servimos a Meyerland, Braeswood, Westbury, Bellaire, Sharpstown y Gulfton, todos los días de 9 AM a 9 PM.",
     "howToGetHere": "Cómo Llegar",
     "getDirections": "Obtener Direcciones",
     "openInMaps": "Abrir en Google Maps",
@@ -216,7 +216,7 @@
   },
   "blog": {
     "title": "Blog de Salud",
-    "subtitle": "Consejos de salud, noticias y actualizaciones de nuestra clínica",
+    "subtitle": "Consejos de salud en español, guías médicas y noticias de nuestra clínica hispana en Houston: prevención, medicina familiar y bienestar para tu familia.",
     "metaTitle": "Blog | Clínica Hispana Cruz #3 Houston",
     "metaDescription": "Consejos de salud, información médica y noticias de Clínica Hispana Cruz #3 en Houston, TX. Artículos en español sobre medicina familiar, prevención y bienestar.",
     "featured": "Destacado",
