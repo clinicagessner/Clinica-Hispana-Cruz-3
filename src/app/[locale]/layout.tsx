@@ -143,8 +143,9 @@ export default async function LocaleLayout({ children, params }: Props) {
         <link rel="preconnect" href="https://maps.googleapis.com" />
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
         {/* TODO(randy): PENDIENTE — CallRail de Cruz #3 (script swap.js + preconnect a cdn.callrail.com) */}
-        {/* Meta Pixel noscript fallback */}
+        {/* Meta Pixel noscript fallback (píxel 1x1 de tracking; next/image no aplica dentro de noscript) */}
         <noscript>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             height="1"
             width="1"
