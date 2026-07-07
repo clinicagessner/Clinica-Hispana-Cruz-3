@@ -140,9 +140,16 @@ export default async function LocaleLayout({ children, params }: Props) {
         <meta name="theme-color" content="#DC2626" />
         {/* Preconnect to external domains for faster loading */}
         <link rel="preconnect" href="https://connect.facebook.net" />
+        <link rel="preconnect" href="https://cdn.callrail.com" />
         <link rel="preconnect" href="https://maps.googleapis.com" />
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
-        {/* TODO(randy): PENDIENTE — CallRail de Cruz #3 (script swap.js + preconnect a cdn.callrail.com) */}
+        <link rel="dns-prefetch" href="https://cdn.callrail.com" />
+        {/* CallRail - Call Tracking (number swap) */}
+        <script
+          type="text/javascript"
+          src="//cdn.callrail.com/companies/272977498/5ebd1a69b543c8c0bf3e/12/swap.js"
+          async
+        />
         {/* Meta Pixel noscript fallback (píxel 1x1 de tracking; next/image no aplica dentro de noscript) */}
         <noscript>
           {/* eslint-disable-next-line @next/next/no-img-element */}
