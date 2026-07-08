@@ -1422,30 +1422,6 @@ export const PROMOTIONS: Promotion[] = [
     order: 8,
   },
   {
-    slug: "sueros-vitaminados",
-    title: "Sueros Vitaminados",
-    titleEn: "Vitamin IV Therapy",
-    price: "$149",
-    blurb:
-      "Sueros vitaminados con 50% de descuento para apoyar tu energía y bienestar. La oferta incluye gratis la consulta médica y un análisis de orina.",
-    blurbEn:
-      "Vitamin IV drips at 50% off to support your energy and well-being. The offer includes a free medical consultation and urine test.",
-    includes: [
-      "Suero vitaminado (50% de descuento)",
-      "Consulta médica gratis",
-      "Análisis de orina gratis",
-    ],
-    includesEn: [
-      "Vitamin IV drip (50% off)",
-      "Free medical consultation",
-      "Free urine test",
-    ],
-    image: "/images/promotions/sueros-vitaminados.webp",
-    alt: "Promoción de sueros vitaminados por $149 con 50% de descuento en Clínica Hispana Cruz #3 Houston",
-    altEn: "Vitamin IV therapy promotion for $149 at 50% off at Clínica Hispana Cruz #3 Houston",
-    order: 9,
-  },
-  {
     slug: "diagnostico-ets",
     title: "Diagnóstico Completo de ETS",
     titleEn: "Complete STD Testing",
