@@ -21,7 +21,8 @@ export async function sendContactEmail(data: ContactFormData) {
 
   try {
     await resend.emails.send({
-      from: `Formulario Web <noreply@${new URL(SITE_CONFIG.baseUrl).hostname}>`,
+      // Dominio raíz (sin www): debe coincidir con el dominio verificado en Resend
+      from: `Formulario Web <noreply@${new URL(SITE_CONFIG.baseUrl).hostname.replace(/^www\./, "")}>`,
       to: [CONTACT_INFO.email],
       replyTo: email || undefined,
       subject: `Nuevo contacto: ${nombre} - ${serviceName}`,
