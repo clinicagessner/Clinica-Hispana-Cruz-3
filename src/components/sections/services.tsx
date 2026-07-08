@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { getLocale, getTranslations } from "next-intl/server";
 import {
   Stethoscope,
@@ -65,7 +66,7 @@ export async function Services() {
           </p>
         </div>
 
-        {/* Icon Cards Grid */}
+        {/* Image Cards Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-5">
           {featured.map((service, index) => {
             const Icon = iconMap[service.icon] || Stethoscope;
@@ -74,25 +75,37 @@ export async function Services() {
               <Link
                 key={service.slug}
                 href={`/services/${service.slug}`}
-                className={`group relative flex flex-col bg-white rounded-2xl border border-slate-dark/10 p-6 shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-1 hover:border-red-primary/30 animate-on-scroll fade-up stagger-${(index % 4) + 1}`}
+                className={`group relative flex flex-col justify-end overflow-hidden rounded-2xl min-h-72 p-6 shadow-sm transition-all duration-300 hover:shadow-xl hover:-translate-y-1 animate-on-scroll fade-up stagger-${(index % 4) + 1}`}
               >
+                {/* Imagen de fondo */}
+                <Image
+                  src={service.image}
+                  alt=""
+                  aria-hidden="true"
+                  fill
+                  className="object-cover transition-transform duration-500 group-hover:scale-105"
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                />
+                {/* Overlay para legibilidad */}
+                <div className="absolute inset-0 bg-linear-to-t from-slate-950/90 via-slate-900/45 to-slate-900/15 transition-colors duration-300 group-hover:from-slate-950/95" />
+
                 {/* Icon */}
-                <div className="mb-4 inline-flex size-12 items-center justify-center rounded-xl bg-red-bg text-red-primary transition-colors duration-300 group-hover:bg-red-primary group-hover:text-white">
+                <div className="relative mb-3 inline-flex size-11 items-center justify-center rounded-xl bg-white/15 backdrop-blur-sm border border-white/20 text-white transition-colors duration-300 group-hover:bg-red-primary group-hover:border-red-primary">
                   <Icon className="size-6" weight="duotone" aria-hidden="true" />
                 </div>
 
                 {/* Title */}
-                <h3 className="font-heading font-bold text-slate-dark text-lg leading-snug mb-2">
+                <h3 className="relative font-heading font-bold text-white text-lg leading-snug mb-2 drop-shadow-sm">
                   {localized.title}
                 </h3>
 
                 {/* Description */}
-                <p className="text-sm text-muted-foreground line-clamp-3 mb-4">
+                <p className="relative text-sm text-white/85 line-clamp-2 mb-3">
                   {localized.description}
                 </p>
 
                 {/* Link footer */}
-                <span className="mt-auto inline-flex items-center gap-1.5 text-sm font-semibold text-red-primary group-hover:gap-2.5 transition-all">
+                <span className="relative inline-flex items-center gap-1.5 text-sm font-semibold text-white group-hover:gap-2.5 transition-all">
                   {t("learnMore")}
                   <ArrowRight className="size-4" weight="bold" aria-hidden="true" />
                 </span>
