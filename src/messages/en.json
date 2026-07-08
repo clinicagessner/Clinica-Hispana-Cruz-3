@@ -78,7 +78,7 @@
       "namePlaceholder": "Your name",
       "phone": "Phone",
       "phonePlaceholder": "(713) 555-1234",
-      "email": "Email (optional)",
+      "email": "Email",
       "emailPlaceholder": "email@example.com",
       "service": "Service of Interest",
       "servicePlaceholder": "Select a service",

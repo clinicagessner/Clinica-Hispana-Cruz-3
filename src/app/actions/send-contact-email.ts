@@ -25,7 +25,7 @@ export async function sendContactEmail(data: ContactFormData) {
       from: `Formulario Web <noreply@${new URL(SITE_CONFIG.baseUrl).hostname.replace(/^www\./, "")}>`,
       to: [CONTACT_INFO.email],
       replyTo: email || undefined,
-      subject: `Nuevo contacto: ${nombre} - ${serviceName}`,
+      subject: `Nuevo Paciente desde el Sitio Web: ${nombre} - ${serviceName}`,
       html: `
         <!DOCTYPE html>
         <html>
