@@ -1450,33 +1450,6 @@ export const PROMOTIONS: Promotion[] = [
     order: 10,
   },
   {
-    slug: "chequeo-inmigracion",
-    title: "Chequeo de Inmigración",
-    titleEn: "Immigration Medical Exam",
-    price: "$249",
-    blurb:
-      "Examen médico de inmigración con el formulario I-693 incluido: examen físico, revisión del historial de vacunación y examen de detección de enfermedades para tu trámite migratorio.",
-    blurbEn:
-      "Immigration medical exam with Form I-693 included: physical exam, vaccination history review and disease screening for your immigration process.",
-    includes: [
-      "Formulario I-693",
-      "Examen físico",
-      "Revisión de historial de vacunación",
-      "Examen de detección de enfermedades",
-    ],
-    includesEn: [
-      "Form I-693",
-      "Physical exam",
-      "Vaccination history review",
-      "Disease screening",
-    ],
-    image: "/images/promotions/chequeo-inmigracion.webp",
-    alt: "Promoción de chequeo médico de inmigración I-693 por $249 en Clínica Hispana Cruz #3 Houston",
-    altEn: "Immigration medical exam I-693 promotion for $249 at Clínica Hispana Cruz #3 Houston",
-    highlighted: true,
-    order: 11,
-  },
-  {
     slug: "tratamiento-alergias",
     title: "Tratamiento para las Alergias",
     titleEn: "Allergy Treatment",
