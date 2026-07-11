@@ -51,7 +51,10 @@ const iconMap: Record<string, React.ElementType> = {
 export async function Services() {
   const [t, locale] = await Promise.all([getTranslations("services"), getLocale()]);
 
-  const featured = [...SERVICES].sort((a, b) => a.order - b.order).slice(0, 8);
+  const featuredSlugs = ["ginecologia", "salud-hombre", "condiciones-cronicas"];
+  const featured = featuredSlugs
+    .map((slug) => SERVICES.find((service) => service.slug === slug))
+    .filter((service): service is (typeof SERVICES)[number] => Boolean(service));
 
   return (
     <section id="services" aria-labelledby="services-title" className="py-16 md:py-24 bg-slate-light scroll-mt-20">
@@ -67,7 +70,7 @@ export async function Services() {
         </div>
 
         {/* Image Cards Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-5">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5 max-w-5xl mx-auto">
           {featured.map((service, index) => {
             const Icon = iconMap[service.icon] || Stethoscope;
             const localized = getLocalizedService(service, locale);
