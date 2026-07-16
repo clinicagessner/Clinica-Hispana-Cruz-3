@@ -1,18 +1,24 @@
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
-import { Phone, MapPin, Clock, CheckCircle, ArrowRight } from "@phosphor-icons/react/dist/ssr";
+import { Phone, MapPin, Clock, CheckCircle, ArrowRight, WhatsappLogo } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "@/components/ui/button";
 import { StarRating } from "@/components/ui/star-rating";
 import { CONTACT_INFO, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 
 export async function Hero() {
-  const [t, googleData] = await Promise.all([
+  const [t, tc, googleData] = await Promise.all([
     getTranslations("hero"),
+    getTranslations("cta"),
     getGooglePlaceData(),
   ]);
   const totalReviews = googleData?.totalReviews ?? GOOGLE_REVIEWS_DATA.totalReviews;
   const rating = googleData?.rating ?? GOOGLE_REVIEWS_DATA.averageRating;
+
+  // WhatsApp usa su número dedicado (CONTACT_INFO.whatsapp), nunca el principal:
+  // CallRail swap.js reescribe el número de llamadas mostrado, por eso el botón
+  // solo muestra el label "WhatsApp" y no el número (que no recibe llamadas).
+  const whatsappHref = `https://wa.me/${CONTACT_INFO.whatsapp}?text=${encodeURIComponent(tc("whatsappMessage"))}`;
 
   return (
     <section
@@ -86,6 +92,21 @@ export async function Hero() {
               >
                 <Phone className="size-5" weight="fill" />
                 {t("ctaCall")}
+              </a>
+            </Button>
+            <Button
+              asChild
+              size="lg"
+              className="text-base md:text-lg px-8 py-6 gap-2 bg-whatsapp text-white hover:bg-whatsapp-dark shadow-lg shadow-whatsapp/30"
+            >
+              <a
+                href={whatsappHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={tc("whatsapp")}
+              >
+                <WhatsappLogo className="size-5" weight="fill" />
+                {t("ctaWhatsapp")}
               </a>
             </Button>
             <Button
