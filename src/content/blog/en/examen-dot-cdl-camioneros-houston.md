@@ -6,7 +6,7 @@ date: "2026-04-11"
 dateModified: "2026-04-11"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/examen-dot.webp"
-featured: true
+featured: false
 category: "Occupational Health"
 readTime: 7
 keywords:
