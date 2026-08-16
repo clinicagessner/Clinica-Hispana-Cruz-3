@@ -1226,28 +1226,28 @@ export const SERVICES: Service[] = [
 export const PROMOTIONS: Promotion[] = [
   {
     slug: "chequeo-completo-salud",
-    title: "Chequeo Completo de Salud",
-    titleEn: "Complete Health Checkup",
+    title: "Chequeo General Completo",
+    titleEn: "Complete General Checkup",
     price: "$99",
     blurb:
-      "Chequeo preventivo completo para detectar a tiempo presión alta, diabetes, colesterol alto y enfermedades del corazón. Incluye examen de sangre y electrocardiograma, con orina y consulta médica gratis.",
+      "Cuídate hoy, vive mejor mañana. Chequeo general completo por solo $99 (valor regular $250) para detectar a tiempo presión alta, diabetes y colesterol alto. Incluye examen general de sangre, A1C y examen de orina, con consulta médica gratis.",
     blurbEn:
-      "A complete preventive checkup to detect high blood pressure, diabetes, high cholesterol and heart disease early. Includes blood work and an EKG, with free urine test and medical consultation.",
+      "Take care of yourself today, live better tomorrow. Complete general checkup for only $99 (regular value $250) to detect high blood pressure, diabetes and high cholesterol early. Includes complete blood work, A1C and urine test, with a free medical consultation.",
     includes: [
       "Examen general de sangre",
-      "Electrocardiograma (EKG)",
-      "Examen general de orina gratis",
+      "A1C (hemoglobina glicosilada)",
+      "Examen general de orina",
       "Consulta médica gratis",
     ],
     includesEn: [
       "Complete blood panel",
-      "Electrocardiogram (EKG)",
-      "Free urine test",
+      "A1C (glycated hemoglobin)",
+      "Complete urine test",
       "Free medical consultation",
     ],
     image: "/images/promotions/chequeo-completo-salud.webp",
-    alt: "Promoción de chequeo completo de salud por $99 con examen de sangre y electrocardiograma en Clínica Hispana Cruz #3 Houston",
-    altEn: "Complete health checkup promotion for $99 with blood work and EKG at Clínica Hispana Cruz #3 Houston",
+    alt: "Promoción de chequeo general completo por $99 con examen de sangre, A1C y examen de orina en Clínica Hispana Cruz #3 Houston",
+    altEn: "Complete general checkup promotion for $99 with blood work, A1C and urine test at Clínica Hispana Cruz #3 Houston",
     highlighted: true,
     order: 1,
   },
