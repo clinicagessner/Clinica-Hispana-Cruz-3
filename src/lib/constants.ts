@@ -1301,6 +1301,58 @@ export const PROMOTIONS: Promotion[] = [
     order: 3,
   },
   {
+    slug: "testosterona-baja",
+    title: "Señales de Testosterona Baja",
+    titleEn: "Signs of Low Testosterone",
+    price: null,
+    blurb:
+      "¿Cansancio, menos deseo sexual y aumento de barriga? No siempre es la edad: podría ser testosterona baja. Un examen de sangre puede medir tus niveles, y detectar a tiempo hace la diferencia.",
+    blurbEn:
+      "Tiredness, less sexual desire and belly gain? It's not always your age: it could be low testosterone. A blood test can measure your levels, and catching it early makes the difference.",
+    includes: [
+      "Cansancio constante",
+      "Menos deseo sexual",
+      "Aumento de barriga",
+      "Pérdida de fuerza o molestias musculares",
+    ],
+    includesEn: [
+      "Constant tiredness",
+      "Less sexual desire",
+      "Belly gain",
+      "Loss of strength or muscle discomfort",
+    ],
+    image: "/images/promotions/testosterona-baja.webp",
+    alt: "Señales de testosterona baja como cansancio, menos deseo sexual y aumento de barriga, información de Clínica Hispana Cruz #3 Houston",
+    altEn: "Signs of low testosterone such as tiredness, less sexual desire and belly gain, information from Clínica Hispana Cruz #3 Houston",
+    order: 4,
+  },
+  {
+    slug: "salud-prostata",
+    title: "Señales de Alerta de la Próstata",
+    titleEn: "Prostate Warning Signs",
+    price: null,
+    blurb:
+      "¿Te levantas varias veces en la noche a orinar? Podría ser una señal de que tu próstata necesita atención, sobre todo en hombres mayores de 40. Una evaluación médica ayuda a identificar la causa a tiempo.",
+    blurbEn:
+      "Getting up several times at night to urinate? It could be a sign your prostate needs attention, especially in men over 40. A medical evaluation helps identify the cause early.",
+    includes: [
+      "Chorro débil",
+      "Dificultad para empezar a orinar",
+      "Orinar varias veces de noche",
+      "Hombres mayores de 40: presta atención",
+    ],
+    includesEn: [
+      "Weak stream",
+      "Difficulty starting to urinate",
+      "Urinating several times at night",
+      "Men over 40: pay attention",
+    ],
+    image: "/images/promotions/salud-prostata.webp",
+    alt: "Señales de alerta de próstata agrandada como chorro débil y levantarse de noche a orinar, información de Clínica Hispana Cruz #3 Houston",
+    altEn: "Enlarged prostate warning signs such as a weak stream and getting up at night to urinate, information from Clínica Hispana Cruz #3 Houston",
+    order: 5,
+  },
+  {
     slug: "chequeo-completo-salud",
     title: "Chequeo General Completo",
     titleEn: "Complete General Checkup",
@@ -1325,7 +1377,7 @@ export const PROMOTIONS: Promotion[] = [
     alt: "Promoción de chequeo general completo por $99 con examen de sangre, A1C y examen de orina en Clínica Hispana Cruz #3 Houston",
     altEn: "Complete general checkup promotion for $99 with blood work, A1C and urine test at Clínica Hispana Cruz #3 Houston",
     highlighted: true,
-    order: 5,
+    order: 7,
   },
   {
     slug: "chequeo-mujer",
@@ -1350,7 +1402,7 @@ export const PROMOTIONS: Promotion[] = [
     alt: "Promoción de chequeo completo de mujer por $79 con Papanicolaou y consulta ginecológica en Clínica Hispana Cruz #3 Houston",
     altEn: "Complete women's checkup promotion for $79 with Pap smear and gynecological consultation at Clínica Hispana Cruz #3 Houston",
     highlighted: true,
-    order: 6,
+    order: 8,
   },
   {
     slug: "examen-hombres",
@@ -1377,7 +1429,7 @@ export const PROMOTIONS: Promotion[] = [
     alt: "Promoción de examen completo para hombres por $89 con orina, próstata y testosterona en Clínica Hispana Cruz #3 Houston",
     altEn: "Complete men's exam promotion for $89 with urine, prostate and testosterone tests at Clínica Hispana Cruz #3 Houston",
     highlighted: true,
-    order: 7,
+    order: 9,
   },
   {
     slug: "chequeo-completo-hombre",
@@ -1405,7 +1457,7 @@ export const PROMOTIONS: Promotion[] = [
     image: "/images/promotions/chequeo-completo-hombre.webp",
     alt: "Promoción de chequeo completo del hombre por $149 con PSA, testosterona y examen de sangre en Clínica Hispana Cruz #3 Houston",
     altEn: "Men's complete checkup promotion for $149 with PSA, testosterone and blood work at Clínica Hispana Cruz #3 Houston",
-    order: 8,
+    order: 10,
   },
   {
     slug: "perfil-hormonal-femenino",
@@ -1431,7 +1483,7 @@ export const PROMOTIONS: Promotion[] = [
     image: "/images/promotions/perfil-hormonal-femenino.webp",
     alt: "Promoción de perfil hormonal para mujeres por $250 en Clínica Hispana Cruz #3 Houston",
     altEn: "Women's hormone panel promotion for $250 at Clínica Hispana Cruz #3 Houston",
-    order: 9,
+    order: 11,
   },
   {
     slug: "salud-intima-femenina",
@@ -1455,7 +1507,7 @@ export const PROMOTIONS: Promotion[] = [
     image: "/images/promotions/salud-intima-femenina.webp",
     alt: "Promoción de salud íntima femenina por $69 con cultivo íntimo y consulta médica en Clínica Hispana Cruz #3 Houston",
     altEn: "Women's intimate health promotion for $69 with intimate culture and medical consultation at Clínica Hispana Cruz #3 Houston",
-    order: 10,
+    order: 12,
   },
   {
     slug: "salud-intima-masculina",
@@ -1479,7 +1531,7 @@ export const PROMOTIONS: Promotion[] = [
     image: "/images/promotions/salud-intima-masculina.webp",
     alt: "Promoción de salud íntima masculina por $69 con cultivo uretral y consulta médica en Clínica Hispana Cruz #3 Houston",
     altEn: "Men's intimate health promotion for $69 with urethral culture and medical consultation at Clínica Hispana Cruz #3 Houston",
-    order: 11,
+    order: 13,
   },
   {
     slug: "sangre-vitamina-b12",
@@ -1501,7 +1553,7 @@ export const PROMOTIONS: Promotion[] = [
     image: "/images/promotions/sangre-vitamina-b12.webp",
     alt: "Promoción de examen general de sangre más vitamina B12 por $99 en Clínica Hispana Cruz #3 Houston",
     altEn: "Blood panel plus vitamin B12 promotion for $99 at Clínica Hispana Cruz #3 Houston",
-    order: 12,
+    order: 14,
   },
   {
     slug: "diagnostico-ets",
@@ -1529,7 +1581,7 @@ export const PROMOTIONS: Promotion[] = [
     image: "/images/promotions/diagnostico-ets.webp",
     alt: "Promoción de diagnóstico completo de enfermedades de transmisión sexual por $250 en Clínica Hispana Cruz #3 Houston",
     altEn: "Complete STD testing promotion for $250 at Clínica Hispana Cruz #3 Houston",
-    order: 14,
+    order: 16,
   },
   {
     slug: "tratamiento-alergias",
@@ -1553,7 +1605,7 @@ export const PROMOTIONS: Promotion[] = [
     image: "/images/promotions/tratamiento-alergias.webp",
     alt: "Promoción de tratamiento para las alergias con consulta gratis en Clínica Hispana Cruz #3 Houston",
     altEn: "Allergy treatment promotion with free consultation at Clínica Hispana Cruz #3 Houston",
-    order: 16,
+    order: 18,
   },
   {
     slug: "promocion-familiar",
@@ -1581,7 +1633,7 @@ export const PROMOTIONS: Promotion[] = [
     image: "/images/promotions/promocion-familiar.webp",
     alt: "Promoción especial familiar con examen de orina y glucosa gratis en Clínica Hispana Cruz #3 Houston",
     altEn: "Family special promotion with free urine and glucose tests at Clínica Hispana Cruz #3 Houston",
-    order: 17,
+    order: 19,
   },
 ];
 
