@@ -328,12 +328,24 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "examenes-sangre": {
     "faqs": [
       {
+        "question": "¿Necesito orden médica para hacerme un examen de sangre?",
+        "answer": "No. Puedes venir sin receta y sin seguro. Nos dices qué examen necesitas o nos cuentas tus síntomas y nuestro médico te indica el panel adecuado. Si ya tienes una orden de tu doctor, también la aceptamos."
+      },
+      {
         "question": "¿En cuánto tiempo entregan los resultados?",
-        "answer": "En la mayoría de los casos los resultados están listos el mismo día o muy pronto, y te los explicamos en español."
+        "answer": "Varía según el examen: algunos resultados están listos el mismo día y otros tardan unos días porque se procesan en un laboratorio de referencia. Te indicamos el plazo al tomar la muestra y te explicamos los resultados en español."
+      },
+      {
+        "question": "¿Tengo que venir en ayunas?",
+        "answer": "Depende del examen. Para la glucosa en ayunas y el perfil de colesterol se recomiendan 8 a 12 horas sin comer; el agua está permitida. La mayoría de los demás exámenes no requieren ayuno. Llámanos si tienes dudas."
+      },
+      {
+        "question": "¿Cuánto cuesta un examen de sangre?",
+        "answer": "Depende del panel que necesites. Manejamos precios accesibles de pago directo y paquetes de chequeo general que incluyen examen de sangre y consulta médica. Consulta los precios vigentes en nuestra página de promociones o llámanos."
       },
       {
         "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM y tomamos la muestra en el momento. También puedes llamarnos para reservar un horario."
       },
       {
         "question": "¿Atienden a pacientes sin seguro?",
@@ -342,12 +354,24 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     ],
     "faqsEn": [
       {
+        "question": "Do I need a doctor's order for a blood test?",
+        "answer": "No. You can come without a prescription and without insurance. Tell us which test you need or describe your symptoms and our physician will recommend the right panel. If you already have an order from your doctor, we accept it too."
+      },
+      {
         "question": "How soon are results ready?",
-        "answer": "In most cases results are ready the same day or very soon, and we explain them to you in Spanish."
+        "answer": "It depends on the test: some results are ready the same day, while others take a few days because they are processed at a reference lab. We tell you the turnaround when we draw your sample and explain the results in Spanish."
+      },
+      {
+        "question": "Do I need to fast?",
+        "answer": "It depends on the test. For fasting glucose and the cholesterol panel we recommend 8 to 12 hours without food; water is allowed. Most other tests don't require fasting. Call us if you're not sure."
+      },
+      {
+        "question": "How much does a blood test cost?",
+        "answer": "It depends on the panel you need. We offer affordable self-pay prices and general checkup packages that include blood work and a medical consultation. Check current prices on our promotions page or call us."
       },
       {
         "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM and draw your sample on the spot. You can also call us to reserve a time."
       },
       {
         "question": "Do you accept patients without insurance?",

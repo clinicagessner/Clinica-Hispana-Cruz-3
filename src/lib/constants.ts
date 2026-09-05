@@ -474,39 +474,52 @@ export const SERVICES: Service[] = [
   {
     "id": "examenes-sangre",
     "slug": "examenes-sangre",
-    "title": "Análisis y Exámenes de Sangre | Laboratorio",
-    "titleEn": "Blood Tests | Lab",
+    "title": "Análisis y Exámenes de Sangre: Laboratorio en Español",
+    "titleEn": "Blood Tests & Lab Work: Spanish-Speaking Lab",
     "shortTitle": "Análisis de Sangre",
-    "description": "Análisis de sangre en Houston, TX: biometría, química, glucosa, colesterol y más. Resultados en español, con precios accesibles.",
-    "descriptionEn": "Blood tests in Houston, TX: CBC, chemistry, glucose, cholesterol and more. Results in Spanish, with affordable pricing.",
-    "longDescription": "Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Cruz #3 tomamos tus muestras en el momento y te explicamos los resultados en español, sin tecnicismos.\n\n**¿Qué incluye?**\n- Biometría hemática completa (conteo de células)\n- Química sanguínea (glucosa, colesterol, triglicéridos)\n- Pruebas de tiroides, hígado y riñón\n- Paneles para chequeo general o seguimiento\n- Resultados rápidos en la mayoría de los casos\n\n**Para qué sirven**\nLos análisis ayudan a detectar problemas antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo o escuela.\n\n**Análisis de sangre en una clínica hispana cerca de ti**\n¿Necesitas un análisis de sangre en Houston? En nuestra clínica hispana te tomamos la muestra sin cita previa, con precios accesibles y resultados explicados en español.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
-    "longDescriptionEn": "A good diagnosis starts with a good lab. At Clínica Hispana Cruz #3 we draw your samples on the spot and explain your results in Spanish, without the jargon.\n\n**What's included?**\n- Complete blood count (CBC)\n- Blood chemistry (glucose, cholesterol, triglycerides)\n- Thyroid, liver and kidney tests\n- Panels for general checkups or follow-up\n- Fast results in most cases\n\n**Why they matter**\nBlood tests help detect problems before symptoms appear, follow up on a chronic condition or complete a work or school exam.\n\n**Blood work at a Hispanic clinic near you**\nNeed blood work in Houston? At our Hispanic clinic we draw your sample with no appointment needed, at affordable prices, with results explained in Spanish.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
+    "description": "Análisis de sangre en Houston, TX sin orden médica ni seguro: biometría, glucosa, colesterol, tiroides, A1C y más. Laboratorio en español, sin cita y con precios accesibles.",
+    "descriptionEn": "Blood tests in Houston, TX with no doctor's order or insurance: CBC, glucose, cholesterol, thyroid, A1C and more. Spanish-speaking lab, walk-ins welcome, affordable pricing.",
+    "longDescription": "Un buen diagnóstico empieza con un buen laboratorio. En Clínica Hispana Cruz #3 tomamos tu muestra de sangre en el momento, sin cita ni orden médica, y te explicamos los resultados en español, sin tecnicismos.\n\n**¿Qué exámenes de sangre hacemos?**\n- Biometría hemática completa (CBC): glóbulos rojos, blancos, hemoglobina y plaquetas\n- Química sanguínea y panel metabólico: glucosa, función del riñón y del hígado, electrolitos\n- Perfil de lípidos: colesterol total, HDL, LDL y triglicéridos\n- Hemoglobina A1C para detectar o controlar la diabetes\n- Pruebas de tiroides (TSH)\n- Vitamina B12 y otros niveles de vitaminas\n- PSA y testosterona para la salud del hombre\n- Prueba de embarazo en sangre\n- Panel de enfermedades de transmisión sexual (ETS)\n- Paneles para exámenes de trabajo, escuela o inmigración\n\n**Análisis de sangre sin orden médica**\nNo necesitas receta de otro doctor ni seguro médico. Dinos qué examen buscas o cuéntanos tus síntomas y nuestro médico te indica el panel adecuado. También puedes traer la orden de tu médico si ya la tienes.\n\n**¿Cuánto tardan los resultados?**\nVaría según el examen: algunos resultados están listos el mismo día y otros tardan unos días porque se procesan en un laboratorio de referencia. Al tomar la muestra te decimos el plazo de tu examen y, cuando esté listo, te explicamos qué significa cada valor en español.\n\n**¿Debo venir en ayunas?**\nPara la glucosa en ayunas y el perfil de lípidos se recomiendan 8 a 12 horas sin comer; puedes tomar agua. La mayoría de los demás exámenes no requieren ayuno. Si tienes dudas, llámanos antes de venir y te decimos cómo prepararte.\n\n**Para qué sirven**\nLos análisis ayudan a detectar presión alta, diabetes o colesterol alto antes de que den síntomas, dar seguimiento a una condición crónica o completar un examen de trabajo, escuela o inmigración. Pregunta por nuestros paquetes de chequeo general, que combinan examen de sangre y consulta médica a un precio accesible.\n\n**Análisis de sangre en un laboratorio hispano cerca de ti**\n¿Buscas un laboratorio de sangre en Houston que hable español? En nuestra clínica hispana te tomamos la muestra sin cita previa, de lunes a domingo, con precios accesibles y resultados explicados en tu idioma.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
+    "longDescriptionEn": "A good diagnosis starts with a good lab. At Clínica Hispana Cruz #3 we draw your blood on the spot, with no appointment or doctor's order, and explain your results in Spanish, without the jargon.\n\n**Which blood tests do we offer?**\n- Complete blood count (CBC): red and white cells, hemoglobin and platelets\n- Blood chemistry and metabolic panel: glucose, kidney and liver function, electrolytes\n- Lipid panel: total cholesterol, HDL, LDL and triglycerides\n- Hemoglobin A1C to detect or monitor diabetes\n- Thyroid tests (TSH)\n- Vitamin B12 and other vitamin levels\n- PSA and testosterone for men's health\n- Blood pregnancy test\n- Sexually transmitted disease (STD) panel\n- Panels for work, school or immigration exams\n\n**Blood work without a doctor's order**\nYou don't need a prescription from another doctor or health insurance. Tell us which test you need or describe your symptoms and our physician will recommend the right panel. You can also bring your doctor's order if you already have one.\n\n**How long do results take?**\nIt depends on the test: some results are ready the same day, while others take a few days because they are processed at a reference lab. When we draw your sample we tell you the turnaround for your test and, once it is ready, we explain what each value means in Spanish.\n\n**Do I need to fast?**\nFor fasting glucose and the lipid panel we recommend 8 to 12 hours without food; water is fine. Most other tests don't require fasting. If in doubt, call us before you come and we'll tell you how to prepare.\n\n**Why they matter**\nBlood tests help detect high blood pressure, diabetes or high cholesterol before symptoms appear, follow up on a chronic condition or complete a work, school or immigration exam. Ask about our general checkup packages, which combine blood work and a medical consultation at an affordable price.\n\n**Blood work at a Spanish-speaking lab near you**\nLooking for a blood lab in Houston that speaks Spanish? At our Hispanic clinic we draw your sample walk-in, Monday through Sunday, at affordable prices, with results explained in your language.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
     "icon": "Flask",
     "image": "/images/services/examenes-sangre.webp",
     "category": "laboratorio",
     "keywords": [
       "examenes de sangre houston",
+      "examenes de sangre cerca de mi",
       "analisis de sangre houston",
-      "laboratorio houston",
+      "analisis de sangre cerca de mi",
+      "analisis de sangre sin orden medica",
+      "laboratorio de sangre houston español",
+      "examenes de laboratorio houston",
       "laboratorio cerca de mi houston"
     ],
     "keywordsEn": [
       "blood test houston",
+      "blood test near me",
       "blood work houston",
+      "blood work without doctor order houston",
+      "spanish speaking lab houston",
       "lab near me houston",
       "clinical lab houston"
     ],
     "features": [
-      "Biometría y química sanguínea",
-      "Glucosa, colesterol y triglicéridos",
-      "Pruebas de tiroides, hígado y riñón",
+      "Sin orden médica ni seguro",
+      "Biometría, glucosa, colesterol y tiroides",
+      "A1C, vitamina B12, PSA y más",
+      "Muestra tomada en el momento, sin cita",
       "Resultados explicados en español"
     ],
     "featuresEn": [
-      "CBC and blood chemistry",
-      "Glucose, cholesterol and triglycerides",
-      "Thyroid, liver and kidney tests",
+      "No doctor's order or insurance needed",
+      "CBC, glucose, cholesterol and thyroid",
+      "A1C, vitamin B12, PSA and more",
+      "Sample drawn on the spot, walk-in",
       "Results explained in Spanish"
+    ],
+    "relatedPosts": [
+      "laboratorio-clinico-houston-analisis-sangre",
+      "vitamina-b12-beneficios-inyecciones-houston"
     ],
     "highlighted": true,
     "order": 11
