@@ -1,103 +1,145 @@
 ---
 slug: "bienvenidos-clinica-hispana-cruz-3"
-title: "Welcome to Clínica Hispana Cruz #3!"
-description: "Discover our Hispanic medical clinic in Houston, TX. Professional care in Spanish, affordable prices, and a team committed to your health."
+title: "Clínica Hispana Cruz #3: Who We Are and How We Work"
+description: "Meet Clínica Hispana Cruz #3 in Houston, TX: a Spanish-speaking medical clinic at 5411 S Braeswood Blvd, open every day 9 AM to 9 PM, walk-ins welcome, no insurance required."
 date: "2026-03-16"
-dateModified: "2026-03-21"
+dateModified: "2026-09-05"
 author: "Clínica Hispana Cruz #3"
 image: "/images/blog/welcome.webp"
 featured: false
-category: "Announcements"
-readTime: 4
+category: "About Us"
+readTime: 6
 keywords:
   - "Hispanic clinic Houston"
+  - "about Clínica Hispana Cruz #3"
   - "Spanish speaking doctor Houston"
-  - "Hispanic doctor Houston TX"
-  - "medical care in Spanish Houston"
   - "walk-in clinic Houston"
+  - "clinic without insurance Houston"
+  - "Hispanic doctor Houston TX"
 ---
 
-# Welcome to Clínica Hispana Cruz #3!
+# Clínica Hispana Cruz #3: Who We Are and How We Work
 
-We are thrilled to welcome you to our website. At **Clínica Hispana Cruz #3**, we are dedicated to providing quality medical care to the Hispanic community in Houston, TX, and the surrounding areas.
+**Clínica Hispana Cruz #3** is a primary care and minor urgent care clinic located at **5411 S Braeswood Blvd, Houston, TX 77096**, on the southwest side of the city. We provide care **100% in Spanish**, **with no appointment needed** and **no health insurance required**, every day of the week from **9:00 AM to 9:00 PM**. We offer family medicine, chronic disease management, gynecology, clinical lab work, immigration and DOT exams, and minor procedures, with affordable and transparent self-pay pricing.
 
-## Our Mission
+## What is Clínica Hispana Cruz #3?
 
-Our mission is simple but powerful: to deliver **accessible, professional, and fully Spanish-language medical care** to every family that walks through our doors. We understand that a language barrier can be a significant obstacle when it comes to your health, which is why we make sure every patient feels comfortable and truly understood.
+We are a Hispanic clinic built for the Latino families of Houston who want medical care in their own language, with wide hours and clear costs. Our team is made up of Spanish-speaking physicians and support staff who give every patient time, respect and explanations that make sense.
 
-## Why Choose Us?
+We are not an emergency room or a hospital: we are the place to come when you have the flu, need to manage your diabetes or blood pressure, need a blood test, a Pap smear, a medical certificate for work or an immigration exam. All in one place, in Spanish.
 
-### Care in Spanish
-Every member of our staff speaks fluent Spanish. From the moment you walk in to the moment you leave with your treatment, you will be served in your language.
+## Clinic at a glance
 
-### No Appointment Needed
-We know health emergencies don't wait. That's why we offer walk-in care so you can get the attention you need, when you need it.
+| Item | Detail |
+|---|---|
+| Address | 5411 S Braeswood Blvd, Houston, TX 77096 |
+| Phone | (832) 323-2330 |
+| WhatsApp | (281) 741-2157 |
+| Email | clinicahcruz3@gmail.com |
+| Hours | Monday through Sunday, 9:00 AM to 9:00 PM |
+| Languages | Spanish and English |
+| Appointment | Not required; you can also reserve a time by phone |
+| Insurance | Not required; self-pay pricing, cash and cards accepted |
+| Reviews | 4.9-star rating on Google |
 
-### Affordable Prices
-We believe health care should not be a luxury. We offer fair, transparent pricing and see patients without insurance.
+## What makes us different?
 
-### Convenient Location
-We are located at **5411 S Braeswood Blvd, Houston, TX 77096**, with easy access and ample parking.
+### Care 100% in Spanish
+From the front desk to the consultation and the delivery of results, everything happens in your language. No translator needed, and no worrying about misunderstanding a diagnosis or a prescription.
 
-## Our Services
+### Walk-ins welcome, every day until 9 PM
+We know many people work hours that don't match a traditional office. That's why we're open seven days a week until 9 at night and see patients without an appointment.
 
-We offer a wide range of medical services for the whole family:
+### No insurance needed, transparent prices
+We see patients with and without insurance. We offer self-pay pricing and checkup packages that combine lab work and a consultation, published on our [promotions](/promociones) page. Ask about the cost before your visit: no surprises.
 
-- [**Family Medicine**](/services/condiciones-cronicas) — Comprehensive care for all ages, from children to seniors. Preventive checkups, treatment of acute illnesses, and general health follow-up.
-- [**Immigration Medical Exams**](/services/examenes-inmigracion) — I-693 form completed by USCIS-certified Civil Surgeons. The entire process conducted in Spanish.
-- [**Clinical Laboratory**](/services/examenes-sangre) — Blood tests, urinalysis, and more with fast, accurate results — all in one place.
-- [**Gynecology**](/services/ginecologia) — Complete women's health care: Pap smears, pelvic exams, family planning, and more.
-- [**Chronic Conditions**](/services/condiciones-cronicas) — Specialized management of diabetes, hypertension, high cholesterol, and other long-term conditions.
-- [**Ultrasound & EKG**](/services/ultrasonido) — Diagnostic imaging available at our clinic, no outside referrals needed.
-- [**Respiratory Illnesses**](/services/enfermedades-respiratorias) — Treatment of asthma, bronchitis, pneumonia, and other lung conditions.
-- [**Urology**](/services/salud-hombre) — Care for urinary and male reproductive health concerns.
-- [**Vaccines & Contraceptives**](/services/vacunas) — Complete vaccination schedules for all ages and contraceptive methods.
+### Lab, ultrasound and EKG in the same place
+We draw your blood and perform your [ultrasound](/services/ultrasonido) or [electrocardiogram](/services/electrocardiograma) at the clinic, without sending you elsewhere. Turnaround for results varies by test and we tell you when we take the sample.
 
-## Houston's Hispanic Community and Their Health Needs
+### Easy to reach
+Free parking, wheelchair access and bus access. We serve patients from Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and all of southwest Houston.
 
-Houston is one of the cities with the largest Hispanic population in the entire United States. According to Census data, more than **1.5 million Hispanics** live in the Houston metropolitan area, representing nearly 44% of the total population. Despite this, many face significant barriers to accessing quality medical care:
+## What services do we offer?
 
-- **Language barrier:** Many Hispanics in Houston speak little or no English, making it difficult to accurately describe symptoms and understand diagnoses.
-- **Lack of health insurance:** Uninsured rates are higher in the Hispanic community than in other groups.
-- **Distrust of the healthcare system:** Negative past experiences or lack of awareness about available services can create fear or reluctance to seek care.
-- **Incompatible schedules:** Many Hispanic workers have jobs that don't align with typical clinic and office hours.
+**General medicine and chronic conditions**
+- [Diabetes, high blood pressure and cholesterol management](/services/condiciones-cronicas)
+- [Thyroid](/services/tiroides)
+- [Allergies](/services/alergias)
+- [Respiratory illnesses](/services/enfermedades-respiratorias)
+- [Men's health: prostate exam and testosterone](/services/salud-hombre)
 
-At Clínica Hispana Cruz #3, we understand these realities firsthand. That is why we designed our services to break down these barriers: fully bilingual staff, extended hours Monday through Friday until 9 PM and weekends, transparent pricing, and care for patients without insurance.
+**Women's health**
+- [Gynecology and Pap smear](/services/ginecologia)
+- [Blood and urine pregnancy test](/services/prueba-embarazo)
+- [Contraceptives](/services/anticonceptivos)
+- [Implant removal](/services/extraccion-implantes)
 
-## Clínica Hispana Cruz #3 vs. the Emergency Room
+**Lab and diagnostics**
+- [Blood tests and lab work](/services/examenes-sangre)
+- [Stool test](/services/examen-heces)
+- [Strep test](/services/prueba-strep)
+- [Tuberculosis test](/services/prueba-tuberculosis)
+- [Sexually transmitted disease testing](/services/enfermedades-transmision-sexual)
+- [Electrocardiogram](/services/electrocardiograma)
+- [Ultrasound](/services/ultrasonido)
 
-Many patients in Houston go to hospital emergency rooms even for non-urgent situations because they don't know where else to turn. This can result in medical bills of thousands of dollars and waits of several hours. Clínica Hispana Cruz #3 is the smart alternative for most healthcare needs:
+**Exams and certificates**
+- [School and sports physical](/services/examen-fisico-escolar)
+- [DOT physical for CDL license](/services/examen-dot)
+- [I-693 immigration medical exam](/services/examenes-inmigracion)
+- [Drug and alcohol testing](/services/examen-alcohol-drogas)
 
-| Situation | Emergency Room | Clínica Hispana Cruz #3 |
+**Treatments and procedures**
+- [Urinary tract infections](/services/infecciones-urinarias)
+- [Vaccines](/services/vacunas)
+- [Vitamin IV drips](/services/sueros-vitaminados)
+- [Stitches](/services/suturas-heridas) and [wound care](/services/curacion-heridas)
+- [Minor surgery](/services/cirugias-menores)
+- [Abscess drainage](/services/drenaje-abscesos)
+- [Ingrown toenails](/services/unas-encarnadas)
+- [Pharmacy](/services/farmacia)
+
+See the full list on our [services](/services) page.
+
+## When to come to the clinic and when to go to the ER?
+
+Many people go to the emergency room for situations that aren't emergencies, and end up with high bills and hours of waiting. For most everyday health needs, the clinic is the faster and more affordable option.
+
+| Situation | Emergency room | Clínica Hispana Cruz #3 |
 |---|---|---|
-| Flu, fever, cough | 3-6 hour wait, high cost | Fast care, affordable price |
+| Flu, fever, cough, infection | Long wait, high cost | Same-day care at an affordable price |
 | Diabetes or blood pressure management | Generally not available | Yes, with ongoing follow-up |
-| I-693 immigration exam | Not available | USCIS-certified Civil Surgeons |
-| Lab results | Days of waiting | Same day in most cases |
-| Care in Spanish | Not guaranteed | 100% in Spanish |
+| Immigration or DOT exam | Not available | Yes, with certificate |
+| Blood tests | Only in an emergency | Yes, no doctor's order needed |
+| Care in Spanish | Not guaranteed | Always |
 
-For life-threatening conditions such as heart attacks, strokes, or serious accidents, always call 911 or go to the nearest emergency room. For everything else, **we are here for you**.
+For chest pain, severe trouble breathing, signs of a stroke or a serious accident, call 911 or go to the nearest emergency room. For everything else, we're here.
 
-## Our Commitment
+## Frequently asked questions about the clinic
 
-Every day, we strive to:
+### Do I need an appointment to be seen?
+No. You can walk in Monday through Sunday from 9 AM to 9 PM. If you'd rather secure a time, call us and we'll reserve one for you.
 
-1. **Listen** to our patients with attention and empathy
-2. **Diagnose** accurately using modern technology
-3. **Treat** to the highest medical standards
-4. **Educate** on prevention and healthy living
+### Do you see patients without health insurance?
+Yes. No insurance is needed. We offer self-pay pricing, accept cash and cards, and offer payment plans for treatments that require them.
 
-## Visit Us Today
+### Do you see children?
+Yes. We care for the whole family, including children: sick visits, vaccines, and school and sports physicals.
 
-We invite you to come see our facility and meet our team of health care professionals. We are here to serve you and your family.
+### Do you speak English?
+Yes. Our staff is bilingual. We serve in Spanish first and in English whenever the patient prefers it.
 
-**Office Hours:**
-- Monday through Sunday: 9:00 AM - 9:00 PM
+### How long do lab results take?
+It depends on the test. Some are ready the same day and others take a few days because they are processed at a reference lab. We tell you the turnaround when we take the sample.
 
-**Contact Us:**
-- Phone: (832) 323-2330
-- Address: 5411 S Braeswood Blvd, Houston, TX 77096
+## Visit us
 
-We look forward to seeing you soon!
+We invite you to come see the clinic and meet our team. We are here to serve you and your family.
+
+- **Phone:** (832) 323-2330
+- **WhatsApp:** (281) 741-2157
+- **Address:** 5411 S Braeswood Blvd, Houston, TX 77096
+- **Hours:** Monday through Sunday, 9:00 AM to 9:00 PM
+- **Walk-ins welcome**
 
 *The Clínica Hispana Cruz #3 team*
