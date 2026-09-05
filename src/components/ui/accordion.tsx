@@ -51,6 +51,9 @@ function AccordionContent({
   return (
     <AccordionPrimitive.Content
       data-slot="accordion-content"
+      // forceMount: el contenido queda en el HTML del servidor (oculto con `hidden` mientras
+      // está cerrado). Sin esto las respuestas de las FAQ no existen para rastreadores sin JS.
+      forceMount
       className="overflow-hidden text-sm data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down"
       {...props}
     >
