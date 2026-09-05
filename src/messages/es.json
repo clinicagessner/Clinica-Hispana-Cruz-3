@@ -263,6 +263,13 @@
     "pageEyebrow": "Promociones",
     "pageTitle": "Promociones de Nuestra Clínica Hispana en Houston",
     "pageSubtitle": "Paquetes médicos a precios accesibles. Atención 100% en español, sin cita previa y sin necesidad de seguro.",
+    "pricing": {
+      "title": "Precios de referencia de nuestros paquetes",
+      "subtitle": "Precios de pago directo, sin seguro médico. Cada paquete incluye lo que se indica en su promoción.",
+      "colPackage": "Paquete",
+      "colPrice": "Precio",
+      "note": "Los precios corresponden a promociones vigentes y pueden cambiar sin previo aviso. Llámenos para confirmar el precio actual y lo que incluye cada paquete."
+    },
     "faqTitle": "Preguntas frecuentes sobre las promociones",
     "faq": {
       "q1": "¿Hasta cuándo están disponibles las promociones?",
@@ -270,11 +277,15 @@
       "q2": "¿Necesito cita o seguro médico?",
       "a2": "No necesita seguro médico. Atendemos sin cita previa y también puede agendar con anticipación. Manejamos precios accesibles de pago directo.",
       "q3": "¿Cómo reservo una promoción?",
-      "a3": "Puede llamarnos, usar el botón Cómo llegar para visitarnos, o llenar el formulario de contacto y nuestro equipo se comunicará con usted para coordinar su cita."
+      "a3": "Puede llamarnos, usar el botón Cómo llegar para visitarnos, o llenar el formulario de contacto y nuestro equipo se comunicará con usted para coordinar su cita.",
+      "q4": "¿Cuánto cuesta un chequeo general en la clínica?",
+      "a4": "Nuestro Chequeo General Completo cuesta {price} en promoción e incluye examen general de sangre, A1C, examen de orina y consulta médica sin costo adicional. Es un precio de pago directo, sin necesidad de seguro.",
+      "q5": "¿Cuánto cuesta un chequeo para mujeres o para hombres?",
+      "a5": "El Chequeo Completo de Mujer cuesta {priceWomen} e incluye Papanicolaou, consulta ginecológica y orden de mamografía. El Examen Completo para Hombres cuesta {priceMen} e incluye examen de orina, examen de próstata, testosterona y consulta médica gratis."
     },
     "formTitle": "¿Le interesa una promoción? Escríbanos",
     "formSubtitle": "Déjenos sus datos y le contactamos para agendar su cita.",
-    "metaTitle": "Promociones y Paquetes Médicos en Houston TX",
-    "metaDescription": "Promociones y paquetes médicos a precios accesibles en Clínica Hispana Cruz #3, Houston TX. Exámenes para hombres y mujeres, perfil hormonal, salud íntima, examen DOT y más. Atención 100% en español, sin cita previa."
+    "metaTitle": "Promociones y Precios de Paquetes Médicos en Houston TX",
+    "metaDescription": "Precios y promociones de paquetes médicos en Clínica Hispana Cruz #3, Houston TX: chequeo general, chequeos para mujeres y hombres, perfil hormonal, salud íntima y más. Sin seguro, sin cita previa y 100% en español."
   }
 }

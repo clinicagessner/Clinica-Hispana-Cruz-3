@@ -87,10 +87,26 @@ export default async function PromotionsPage({ params }: Props) {
     googleMapsUrl: CONTACT_INFO.googleMapsUrl,
   };
 
+  // Tabla de precios de referencia: solo promociones con precio publicado
+  const pricedPromotions = promotions.filter(
+    (p): p is typeof p & { price: string } => p.price !== null
+  );
+  const priceOf = (slug: string) => promotions.find((p) => p.slug === slug)?.price ?? null;
+  const generalPrice = priceOf("chequeo-completo-salud");
+  const womenPrice = priceOf("chequeo-mujer");
+  const menPrice = priceOf("examen-hombres");
+
+  // Las preguntas de precio solo se muestran mientras exista la promoción correspondiente
   const faqs = [
     { question: t("faq.q1"), answer: t("faq.a1") },
     { question: t("faq.q2"), answer: t("faq.a2") },
     { question: t("faq.q3"), answer: t("faq.a3") },
+    ...(generalPrice
+      ? [{ question: t("faq.q4"), answer: t("faq.a4", { price: generalPrice }) }]
+      : []),
+    ...(womenPrice && menPrice
+      ? [{ question: t("faq.q5"), answer: t("faq.a5", { priceWomen: womenPrice, priceMen: menPrice }) }]
+      : []),
   ];
 
   return (
@@ -154,6 +170,44 @@ export default async function PromotionsPage({ params }: Props) {
             contact={contact}
             formHref="#lead-form"
           />
+
+          {/* Reference prices (server-rendered, text-only for search) */}
+          {pricedPromotions.length > 0 && (
+            <section className="mx-auto mt-20 max-w-3xl" aria-labelledby="pricing-title">
+              <h2
+                id="pricing-title"
+                className="mb-3 text-center font-heading text-2xl font-bold text-slate-dark md:text-3xl"
+              >
+                {t("pricing.title")}
+              </h2>
+              <p className="mb-8 text-center text-muted-foreground">{t("pricing.subtitle")}</p>
+              <div className="overflow-x-auto rounded-2xl border border-slate-100 bg-white shadow-sm">
+                <table className="w-full text-left text-sm">
+                  <thead className="bg-red-bg text-slate-dark">
+                    <tr>
+                      <th scope="col" className="px-5 py-3 font-heading font-semibold">
+                        {t("pricing.colPackage")}
+                      </th>
+                      <th scope="col" className="px-5 py-3 text-right font-heading font-semibold">
+                        {t("pricing.colPrice")}
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {pricedPromotions.map((promo) => (
+                      <tr key={promo.slug} className="border-t border-slate-100">
+                        <td className="px-5 py-3 text-slate-dark">{promo.title}</td>
+                        <td className="px-5 py-3 text-right font-heading font-bold text-red-primary">
+                          {promo.price}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+              <p className="mt-4 text-center text-xs text-muted-foreground">{t("pricing.note")}</p>
+            </section>
+          )}
 
           {/* FAQ */}
           <section className="mx-auto mt-20 max-w-3xl">

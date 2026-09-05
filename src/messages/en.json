@@ -263,6 +263,13 @@
     "pageEyebrow": "Promotions",
     "pageTitle": "Promotions at Our Hispanic Clinic in Houston",
     "pageSubtitle": "Affordable medical packages. 100% Spanish-speaking care, walk-ins welcome, and no insurance required.",
+    "pricing": {
+      "title": "Reference prices for our packages",
+      "subtitle": "Self-pay prices, no insurance needed. Each package includes what is listed in its promotion.",
+      "colPackage": "Package",
+      "colPrice": "Price",
+      "note": "Prices reflect current promotions and may change without notice. Call us to confirm the current price and what each package includes."
+    },
     "faqTitle": "Frequently asked questions about promotions",
     "faq": {
       "q1": "How long are the promotions available?",
@@ -270,11 +277,15 @@
       "q2": "Do I need an appointment or medical insurance?",
       "a2": "You do not need medical insurance. We welcome walk-ins and you can also schedule in advance. We offer affordable self-pay prices.",
       "q3": "How do I book a promotion?",
-      "a3": "You can call us, use the Get directions button to visit us, or fill out the contact form and our team will reach out to coordinate your appointment."
+      "a3": "You can call us, use the Get directions button to visit us, or fill out the contact form and our team will reach out to coordinate your appointment.",
+      "q4": "How much does a general checkup cost at the clinic?",
+      "a4": "Our Complete General Checkup is {price} on promotion and includes a general blood panel, A1C, urinalysis and a medical consultation at no extra cost. It is a self-pay price, no insurance required.",
+      "q5": "How much does a women's or men's checkup cost?",
+      "a5": "The Complete Women's Checkup is {priceWomen} and includes a Pap smear, gynecology consultation and mammogram order. The Complete Men's Exam is {priceMen} and includes urinalysis, prostate exam, testosterone test and a free medical consultation."
     },
     "formTitle": "Interested in a promotion? Write to us",
     "formSubtitle": "Leave us your details and we'll contact you to schedule your appointment.",
-    "metaTitle": "Medical Promotions & Packages in Houston TX",
-    "metaDescription": "Affordable medical promotions and packages at Clínica Hispana Cruz #3, Houston TX. Checkups for men and women, hormone profile, intimate health, DOT exam, and more. 100% Spanish-speaking care, walk-ins welcome."
+    "metaTitle": "Medical Promotions & Package Prices in Houston TX",
+    "metaDescription": "Prices and promotions for medical packages at Clínica Hispana Cruz #3, Houston TX: general checkup, women's and men's checkups, hormone panel, intimate health and more. No insurance, walk-ins welcome, 100% in Spanish."
   }
 }
