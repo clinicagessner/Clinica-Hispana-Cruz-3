@@ -9,6 +9,7 @@ import { FAQ } from "@/components/sections/faq";
 import { Location } from "@/components/sections/location";
 import { BlogPreview } from "@/components/sections/blog-preview";
 import { ScrollSpy } from "@/components/animations/scroll-spy";
+import { JsonLdWebPage } from "@/components/seo/json-ld";
 
 const HOME_SECTION_IDS = [
   "home",
@@ -42,6 +43,7 @@ export default async function HomePage({ params }: Props) {
       <BlogPreview />
       <Contact />
       <ScrollSpy sectionIds={HOME_SECTION_IDS} />
+      <JsonLdWebPage locale={locale} />
     </>
   );
 }

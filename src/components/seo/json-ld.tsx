@@ -92,13 +92,14 @@ export async function JsonLdMedicalClinic() {
           name: "Houston",
           "@id": "https://www.wikidata.org/wiki/Q16555",
         },
+        // Valores de la enumeración MedicalSpecialty de schema.org (texto libre no valida)
         medicalSpecialty: [
-          "Family Medicine",
-          "Urgent Care",
-          "Preventive Medicine",
-          "Gynecology",
-          "Immigration Medical Exam",
+          "https://schema.org/PrimaryCare",
+          "https://schema.org/Gynecologic",
+          "https://schema.org/LaboratoryScience",
+          "https://schema.org/CommunityHealth",
         ],
+        hasMap: CONTACT_INFO.googleMapsUrl,
       },
       {
         "@type": "WebSite",
@@ -110,20 +111,6 @@ export async function JsonLdMedicalClinic() {
           "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
         },
         inLanguage: ["es-MX", "en-US"],
-      },
-      {
-        "@type": "WebPage",
-        "@id": `${SITE_CONFIG.baseUrl}/#webpage`,
-        url: SITE_CONFIG.baseUrl,
-        name: SITE_CONFIG.name,
-        isPartOf: {
-          "@id": `${SITE_CONFIG.baseUrl}/#website`,
-        },
-        about: {
-          "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
-        },
-        description: SITE_CONFIG.description,
-        inLanguage: "es-MX",
       },
     ],
   };
@@ -218,7 +205,6 @@ export function JsonLdMedicalProcedure({
     url,
     procedureType: `https://schema.org/${procedureType}`,
     ...(bodyLocation && { bodyLocation }),
-    howPerformed: description,
     provider: {
       "@type": "MedicalClinic",
       "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
@@ -260,6 +246,37 @@ export function JsonLdCollectionPage({ name, description, url }: { name: string;
       "@type": "MedicalClinic",
       "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
     },
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+}
+
+/**
+ * Nodo WebPage de la portada. Solo se emite en la home: antes vivía en el @graph global
+ * y cada página del sitio declaraba una WebPage con la URL de la portada y en es-MX.
+ */
+export function JsonLdWebPage({ locale }: { locale: string }) {
+  const isEn = locale === "en";
+  const url = isEn ? `${SITE_CONFIG.baseUrl}/en` : SITE_CONFIG.baseUrl;
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": `${url}/#webpage`,
+    url,
+    name: SITE_CONFIG.name,
+    description: SITE_CONFIG.description,
+    isPartOf: {
+      "@id": `${SITE_CONFIG.baseUrl}/#website`,
+    },
+    about: {
+      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
+    },
+    inLanguage: isEn ? "en-US" : "es-MX",
   };
 
   return (

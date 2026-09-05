@@ -70,13 +70,13 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
         "@type": "ListItem",
         position: 1,
         name: locale === "es" ? "Inicio" : "Home",
-        item: SITE_CONFIG.baseUrl,
+        item: locale === "en" ? `${SITE_CONFIG.baseUrl}/en` : SITE_CONFIG.baseUrl,
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Blog",
-        item: `${SITE_CONFIG.baseUrl}/${locale}/blog`,
+        item: locale === "en" ? `${SITE_CONFIG.baseUrl}/en/blog` : `${SITE_CONFIG.baseUrl}/blog`,
       },
       {
         "@type": "ListItem",
