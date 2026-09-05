@@ -166,7 +166,7 @@ export default async function BlogPostPage({ params }: Props) {
         <div className="container mx-auto px-4 py-12 md:py-16">
           <div className="max-w-3xl mx-auto">
             <div className="blog-content">
-              <div dangerouslySetInnerHTML={{ __html: parseMarkdown(post.content) }} />
+              <div dangerouslySetInnerHTML={{ __html: parseMarkdown(post.content, locale === "en" ? "/en" : "") }} />
             </div>
 
             {/* CTA Section */}
@@ -235,8 +235,39 @@ export default async function BlogPostPage({ params }: Props) {
 }
 
 // Simple markdown parser (for basic formatting)
-function parseMarkdown(markdown: string): string {
-  let html = markdown
+/**
+ * Convierte bloques de tabla markdown (| a | b | + fila separadora |---|) en HTML.
+ * Se ejecuta antes del resto del parser porque este convierte los saltos de línea en <br>.
+ */
+function convertMarkdownTables(markdown: string): string {
+  const lines = markdown.split("\n");
+  const isRow = (line: string | undefined) => !!line && /^\s*\|.*\|\s*$/.test(line);
+  const isSeparator = (line: string | undefined) => !!line && /^\s*\|(\s*:?-+:?\s*\|)+\s*$/.test(line);
+  const cells = (line: string) => line.trim().slice(1, -1).split("|").map((c) => c.trim());
+  const out: string[] = [];
+
+  for (let i = 0; i < lines.length; i++) {
+    if (isRow(lines[i]) && isSeparator(lines[i + 1])) {
+      const header = cells(lines[i]);
+      const rows: string[][] = [];
+      let j = i + 2;
+      while (j < lines.length && isRow(lines[j])) {
+        rows.push(cells(lines[j]));
+        j++;
+      }
+      const thead = `<thead><tr>${header.map((h) => `<th>${h}</th>`).join("")}</tr></thead>`;
+      const tbody = `<tbody>${rows.map((r) => `<tr>${r.map((c) => `<td>${c}</td>`).join("")}</tr>`).join("")}</tbody>`;
+      out.push(`<table>${thead}${tbody}</table>`);
+      i = j - 1;
+    } else {
+      out.push(lines[i]);
+    }
+  }
+  return out.join("\n");
+}
+
+function parseMarkdown(markdown: string, localePath = ""): string {
+  let html = convertMarkdownTables(markdown)
     // Headers
     .replace(/^### (.*$)/gim, '<h3>$1</h3>')
     .replace(/^## (.*$)/gim, '<h2>$1</h2>')
@@ -245,8 +276,12 @@ function parseMarkdown(markdown: string): string {
     .replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>')
     // Italic
     .replace(/\*(.*?)\*/gim, '<em>$1</em>')
-    // Links
-    .replace(/\[(.*?)\]\((.*?)\)/gim, '<a href="$2">$1</a>')
+    // Links: los internos (/services/..., /blog/...) reciben el prefijo de idioma en inglés
+    .replace(/\[(.*?)\]\((.*?)\)/gim, (_match, text: string, href: string) => {
+      const isInternal = href.startsWith("/") && !href.startsWith("//");
+      const localized = isInternal && localePath && !href.startsWith(`${localePath}/`) ? `${localePath}${href}` : href;
+      return `<a href="${localized}">${text}</a>`;
+    })
     // Unordered lists
     .replace(/^- (.*$)/gim, '<li>$1</li>')
     // Ordered lists
@@ -261,6 +296,10 @@ function parseMarkdown(markdown: string): string {
 
   // Fix list structure
   html = html
+    .replace(/<p><table>/g, '<table>')
+    .replace(/<\/table><\/p>/g, '</table>')
+    .replace(/<br><table>/g, '</p><table>')
+    .replace(/<\/table><br>/g, '</table><p>')
     .replace(/<p><li>/g, '<ul><li>')
     .replace(/<\/li><\/p>/g, '</li></ul>')
     .replace(/<\/li><br><li>/g, '</li><li>')
