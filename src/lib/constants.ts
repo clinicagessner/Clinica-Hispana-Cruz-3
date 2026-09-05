@@ -40,7 +40,11 @@ export const CONTACT_INFO: ContactInfo = {
 
 // TODO(randy): PENDIENTE — URLs reales de redes sociales de Cruz #3 (footer y JSON-LD
 // las omiten automáticamente mientras estén vacías)
-export const SOCIAL_LINKS: SocialLinks = {};
+export const SOCIAL_LINKS: SocialLinks = {
+  facebook: "https://www.facebook.com/clinicahispanacruz3",
+  instagram: "https://www.instagram.com/clinicahispanacruz3/",
+  tiktok: "https://www.tiktok.com/@clinica.hispana.c3",
+};
 
 // Google Reviews data - fallback cuando la Places API no responde
 // (valores reales del listado al 2026-07-03; en vivo se actualizan solos)
