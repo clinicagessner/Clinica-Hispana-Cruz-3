@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Clinica Hispana Cruz #3 | Spanish Speaking Doctors Houston",
     "titleTemplate": "%s | Clinica Hispana Cruz #3 Houston",
-    "description": "Hispanic clinic in Houston TX with Spanish-speaking doctors. Walk-ins welcome, no insurance needed. Family medicine, gynecology, diabetes, lab. (832) 323-2330",
+    "description": "Hispanic clinic in Braeswood, southwest Houston TX. Spanish-speaking doctors, walk-ins, no insurance needed. Family medicine, gynecology, lab. (832) 323-2330",
     "ogDescription": "Trusted hispanic clinic in Houston. Professional Spanish-speaking medical care for the whole family. Family medicine, gynecology, diabetes, lab. Walk-ins welcome. {reviews}+ {rating}-star Google reviews."
   },
   "nav": {
@@ -23,7 +23,7 @@
   "hero": {
     "badge": "Quality medical care",
     "title": "Your Trusted Hispanic Clinic in <highlight>Houston</highlight>",
-    "subtitle": "One of the leading hispanic clinics in Houston TX. Family medicine, gynecology, diabetes care, and laboratory. Walk-ins welcome, affordable prices.",
+    "subtitle": "Se habla español. One of the leading Hispanic clinics in southwest Houston TX, on Braeswood near Meyerland. Family medicine, gynecology, diabetes care and lab. Walk-ins welcome, affordable prices.",
     "ctaCall": "Call Now",
     "ctaWhatsapp": "WhatsApp",
     "ctaLocation": "Get Directions",
@@ -33,7 +33,7 @@
     "cardTitle": "Why choose us?",
     "cardSubtitle": "The best care for you and your family",
     "features": {
-      "1": "100% Spanish speaking staff",
+      "1": "Se habla español · 100% Spanish-speaking staff",
       "2": "No appointment necessary",
       "3": "Uninsured patients welcome",
       "4": "Affordable and transparent prices"
@@ -146,7 +146,7 @@
     "call": "Call"
   },
   "footer": {
-    "tagline": "Your Hispanic clinic in Houston, TX: your health is our priority",
+    "tagline": "Your Hispanic clinic in Houston, TX. Se habla español: your health is our priority",
     "quickLinks": "Quick Links",
     "contactInfo": "Contact Information",
     "followUs": "Follow Us",
