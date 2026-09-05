@@ -17,6 +17,8 @@ export interface Service {
   featuresEn?: string[];
   faqs?: { question: string; answer: string }[];
   faqsEn?: { question: string; answer: string }[];
+  /** Slugs de posts del blog que se muestran como artículos relacionados en la página del servicio */
+  relatedPosts?: string[];
   highlighted?: boolean;
   order: number;
 }

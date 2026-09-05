@@ -38,6 +38,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
+import { getBlogPost } from "@/lib/blog";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ } from "@/components/seo/json-ld";
 
 const iconMap: Record<string, React.ElementType> = {
@@ -141,6 +142,11 @@ export default async function ServicePage({ params }: Props) {
   const relatedServices = SERVICES.filter(
     (s) => s.category === rawService.category && s.id !== rawService.id
   ).slice(0, 3).map((s) => getLocalizedService(s, locale));
+
+  // Posts del blog enlazados desde el servicio (enlazado interno servicio -> artículo)
+  const relatedPosts = (rawService.relatedPosts ?? [])
+    .map((postSlug) => getBlogPost(postSlug, locale))
+    .filter((post) => post !== null);
 
   const localePath = locale === "en" ? "/en" : "";
   const breadcrumbs = [
@@ -313,6 +319,52 @@ export default async function ServicePage({ params }: Props) {
                     </AccordionItem>
                   ))}
                 </Accordion>
+              </div>
+            </div>
+          </section>
+        )}
+
+        {/* Related Blog Posts */}
+        {relatedPosts.length > 0 && (
+          <section className="py-12 md:py-16">
+            <div className="container mx-auto px-4">
+              <h2 className="text-2xl md:text-3xl font-heading font-bold text-slate-dark mb-8 text-center">
+                {t("relatedPosts")}
+              </h2>
+              <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+                {relatedPosts.map((post) => (
+                  <Link
+                    key={post.slug}
+                    href={`/blog/${post.slug}`}
+                    className="group flex flex-col sm:flex-row bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all border border-slate-100 hover:border-red-200"
+                  >
+                    {post.image && (
+                      <div className="relative h-40 sm:h-auto sm:w-44 shrink-0 overflow-hidden">
+                        <Image
+                          src={post.image}
+                          alt={`${post.title} - Blog Clínica Hispana Cruz #3 Houston`}
+                          fill
+                          className="object-cover group-hover:scale-105 transition-transform duration-500"
+                          sizes="(max-width: 640px) 100vw, 176px"
+                        />
+                      </div>
+                    )}
+                    <div className="p-5 flex flex-col justify-between">
+                      <div>
+                        <h3 className="font-heading font-bold text-slate-dark group-hover:text-red-primary transition-colors line-clamp-2 mb-2">
+                          {post.title}
+                        </h3>
+                        <p className="text-sm text-muted-foreground line-clamp-2 mb-3">
+                          {post.description}
+                        </p>
+                      </div>
+                      <span className="inline-flex items-center gap-1 text-red-primary font-medium text-sm group-hover:gap-2 transition-all">
+                        {t("readArticle")}
+                        <ArrowRight className="size-4" weight="bold" />
+                      </span>
+                    </div>
+                  </Link>
+                ))}
               </div>
             </div>
           </section>

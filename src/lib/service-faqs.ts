@@ -599,29 +599,53 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Me entregan el certificado DOT el mismo día?",
-        "answer": "Sí, al terminar el examen físico DOT te entregamos tu certificado el mismo día."
+        "answer": "Sí. Al terminar el examen físico DOT sales con tu certificado médico y tu tarjeta de conductor el mismo día."
+      },
+      {
+        "question": "¿Cuánto dura el examen médico DOT?",
+        "answer": "Entre 30 y 45 minutos. Incluye visión, audición, presión arterial, análisis de orina, examen físico y revisión de tu historial médico."
+      },
+      {
+        "question": "¿Por cuánto tiempo es válido el certificado DOT?",
+        "answer": "Por lo general 2 años. Si tienes presión alta controlada o diabetes sin insulina, el médico puede emitirlo por 1 año. Renueva con al menos 2 semanas de anticipación."
+      },
+      {
+        "question": "¿Qué debo llevar al examen DOT?",
+        "answer": "Identificación con foto, lista de medicamentos que tomas, lentes o audífonos si los usas y, si tienes diabetes, presión alta o apnea del sueño, documentos recientes de tu tratamiento."
+      },
+      {
+        "question": "¿El examen DOT incluye prueba de drogas?",
+        "answer": "No. El examen físico DOT y la prueba de drogas son distintos. Si tu empleador también la requiere, ofrecemos el examen de alcohol y drogas en la misma visita."
       },
       {
         "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
-      },
-      {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM, ideal para conductores con horarios irregulares. También puedes llamarnos para reservar un horario."
       }
     ],
     "faqsEn": [
       {
         "question": "Do I get the DOT certificate the same day?",
-        "answer": "Yes, after the DOT physical we give you your certificate the same day."
+        "answer": "Yes. After the DOT physical you leave with your medical certificate and driver medical card the same day."
+      },
+      {
+        "question": "How long does the DOT medical exam take?",
+        "answer": "30 to 45 minutes. It covers vision, hearing, blood pressure, urinalysis, a physical exam and a review of your medical history."
+      },
+      {
+        "question": "How long is the DOT certificate valid?",
+        "answer": "Usually 2 years. If you have controlled high blood pressure or diabetes without insulin, the doctor may issue it for 1 year. Renew at least 2 weeks before it expires."
+      },
+      {
+        "question": "What should I bring to the DOT exam?",
+        "answer": "Photo ID, a list of your medications, glasses or hearing aids if you use them and, if you have diabetes, high blood pressure or sleep apnea, recent documents from your treatment."
+      },
+      {
+        "question": "Does the DOT exam include a drug test?",
+        "answer": "No. The DOT physical and the drug test are separate. If your employer also requires it, we offer drug and alcohol testing in the same visit."
       },
       {
         "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
-      },
-      {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM, ideal for drivers with irregular schedules. You can also call us to reserve a time."
       }
     ]
   },

@@ -834,40 +834,48 @@ export const SERVICES: Service[] = [
   {
     "id": "examen-dot",
     "slug": "examen-dot",
-    "title": "Examen Físico DOT - Licencia CDL",
-    "titleEn": "DOT Physical Exam - CDL License",
+    "title": "Examen Físico DOT (Examen Médico CDL)",
+    "titleEn": "DOT Physical Exam (CDL Medical Exam)",
     "shortTitle": "Examen DOT",
-    "description": "Examen físico DOT en Houston, TX para licencia CDL, certificado el mismo día y en español. Con precios accesibles.",
-    "descriptionEn": "DOT physical exam in Houston, TX for CDL license, same-day certificate, in Spanish. With affordable pricing.",
-    "longDescription": "Si manejas vehículos comerciales necesitas tu examen físico DOT vigente. En Clínica Hispana Cruz #3 lo realizamos de forma rápida y te entregamos tu certificado el mismo día.\n\n**¿Qué incluye?**\n- Revisión de visión y audición\n- Toma de presión arterial\n- Examen físico requerido por el DOT\n- Revisión de historial médico\n- Certificado médico DOT el mismo día\n\n**Para conductores comerciales**\nEl examen es obligatorio para obtener o renovar tu licencia CDL. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
-    "longDescriptionEn": "If you drive commercial vehicles you need a current DOT physical exam. At Clínica Hispana Cruz #3 we perform it quickly and give you your certificate the same day.\n\n**What's included?**\n- Vision and hearing screening\n- Blood-pressure check\n- DOT-required physical exam\n- Medical-history review\n- Same-day DOT medical certificate\n\n**For commercial drivers**\nThe exam is required to obtain or renew your CDL license. We explain every step in Spanish and speed up the process so you get back on the road soon.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
+    "description": "Examen físico DOT y examen médico para licencia CDL en Houston, TX. Sin cita, 100% en español y certificado el mismo día. Precios accesibles para camioneros.",
+    "descriptionEn": "DOT physical and CDL medical exam in Houston, TX. Walk in, 100% in Spanish, same-day certificate and affordable pricing for truck drivers.",
+    "longDescription": "Si manejas vehículos comerciales necesitas tu examen físico DOT vigente. En Clínica Hispana Cruz #3 lo realizamos sin cita previa, en español, y te entregamos tu certificado médico el mismo día.\n\n**¿Qué incluye?**\n- Revisión de visión y audición\n- Toma de presión arterial\n- Análisis de orina (glucosa y proteínas, no es prueba de drogas)\n- Examen físico requerido por el DOT\n- Revisión de historial médico\n- Certificado médico DOT y tarjeta de conductor el mismo día\n\n**Para conductores comerciales**\nEl examen es obligatorio para obtener o renovar tu licencia CDL, ya sea que manejes camión, autobús o transportes materiales peligrosos. Te explicamos cada paso en español y agilizamos el proceso para que vuelvas pronto a la carretera.\n\n**Examen médico DOT cerca de ti en Houston**\nMuchos conductores lo buscan como examen médico DOT o examen físico DOT: es el mismo examen que exige el Departamento de Transporte para conductores de vehículos comerciales. Lo realizamos de lunes a domingo, sin cita, en el suroeste de Houston y con estacionamiento para vehículos grandes.\n\n**¿Qué llevar el día del examen?**\n- Identificación con foto\n- Lista de los medicamentos que tomas\n- Lentes o audífonos si los usas\n- Si tienes diabetes, presión alta o apnea del sueño, documentos o resultados recientes de tu tratamiento\n\n**Duración y vigencia del certificado**\nEl examen toma entre 30 y 45 minutos. El certificado estándar es válido por 2 años; si tienes presión alta controlada o diabetes sin insulina, el médico puede emitirlo por 1 año. Te recomendamos renovarlo al menos 2 semanas antes del vencimiento para no quedarte sin trabajar. Si tu empleador también pide examen de alcohol y drogas, lo hacemos en la misma visita.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
+    "longDescriptionEn": "If you drive commercial vehicles you need a current DOT physical exam. At Clínica Hispana Cruz #3 we perform it with no appointment, in Spanish, and hand you your medical certificate the same day.\n\n**What's included?**\n- Vision and hearing screening\n- Blood-pressure check\n- Urinalysis (glucose and protein, not a drug test)\n- DOT-required physical exam\n- Medical-history review\n- Same-day DOT medical certificate and driver medical card\n\n**For commercial drivers**\nThe exam is required to obtain or renew your CDL license, whether you drive a truck, a bus or haul hazardous materials. We explain every step in Spanish and speed up the process so you get back on the road soon.\n\n**DOT medical exam near you in Houston**\nMany drivers search for a DOT medical exam or a DOT physical: it is the same exam the Department of Transportation requires for commercial vehicle drivers. We do it Monday through Sunday, walk-in, in southwest Houston, with parking for large vehicles.\n\n**What to bring on exam day**\n- Photo ID\n- A list of the medications you take\n- Glasses or hearing aids if you use them\n- If you have diabetes, high blood pressure or sleep apnea, recent documents or results from your treatment\n\n**How long it takes and how long the certificate lasts**\nThe exam takes 30 to 45 minutes. A standard certificate is valid for 2 years; if you have controlled high blood pressure or diabetes without insulin, the doctor may issue it for 1 year. We recommend renewing at least 2 weeks before it expires so you don't lose work days. If your employer also requires a drug and alcohol test, we can do it in the same visit.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
     "icon": "Truck",
     "image": "/images/services/examen-dot.webp",
     "category": "examenes",
     "keywords": [
       "examen dot houston",
+      "examen medico dot houston",
+      "examen fisico dot cerca de mi",
+      "examenes medicos dot cerca de mi",
       "examen fisico dot houston español",
       "examen cdl houston",
       "dot physical houston español"
     ],
     "keywordsEn": [
       "dot physical houston",
+      "dot physical near me",
       "dot exam houston",
       "cdl physical houston",
+      "cdl medical exam houston",
       "dot medical exam houston"
     ],
     "features": [
       "Certificado DOT el mismo día",
-      "Para licencia CDL",
-      "Proceso rápido",
+      "Para licencia CDL nueva o renovación",
+      "Examen de 30 a 45 minutos",
+      "Sin cita previa",
       "Atención en español"
     ],
     "featuresEn": [
       "Same-day DOT certificate",
-      "For CDL license",
-      "Fast process",
+      "For new or renewal CDL license",
+      "30 to 45 minute exam",
+      "No appointment needed",
       "Care in Spanish"
     ],
+    "relatedPosts": ["examen-dot-cdl-camioneros-houston"],
     "highlighted": true,
     "order": 20
   },
