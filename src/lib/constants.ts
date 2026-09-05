@@ -266,13 +266,13 @@ export const SERVICES: Service[] = [
   {
     "id": "ginecologia",
     "slug": "ginecologia",
-    "title": "Atención Ginecológica: Papanicolaou y Cultivos",
-    "titleEn": "Gynecology Care: Pap Smear & Cultures",
+    "title": "Ginecología en Español: Papanicolaou y Cultivos",
+    "titleEn": "Gynecology in Spanish: Pap Smear & Cultures",
     "shortTitle": "Ginecología",
-    "description": "Atención ginecológica en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. En español, con precios accesibles.",
-    "descriptionEn": "Gynecology care in Houston, TX: Pap smear, vaginal cultures and infection treatment. In Spanish, with affordable pricing.",
-    "longDescription": "Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Cruz #3 ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.\n\n**¿Qué incluye?**\n- Papanicolaou y chequeo ginecológico\n- Cultivos vaginales para identificar infecciones\n- Tratamiento de infecciones vaginales (hongos, bacterias)\n- Evaluación de molestias y flujo anormal\n- Referencias cuando se necesita un especialista\n\n**No te quedes con la duda**\nComezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.\n\n**Ginecología en una clínica hispana cerca de ti**\nSi buscas ginecología en Houston, en nuestra clínica hispana te atendemos cerca de ti: en español, sin cita previa y con precios accesibles, en el suroeste de Houston.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
-    "longDescriptionEn": "Your health as a woman deserves a space of trust. At Clínica Hispana Cruz #3 we offer gynecology care in Spanish, with the privacy and respect you deserve.\n\n**What's included?**\n- Pap smear and gynecological checkup\n- Vaginal cultures to identify infections\n- Treatment of vaginal infections (yeast, bacteria)\n- Evaluation of discomfort and abnormal discharge\n- Referrals when a specialist is needed\n\n**Don't stay in doubt**\nItching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.\n\n**Gynecology at a Hispanic clinic near you**\nIf you are looking for gynecology care in Houston, our Hispanic clinic is near you: care in Spanish, walk-ins welcome and affordable pricing, on the southwest side of Houston.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
+    "description": "Ginecología en español en Houston, TX: examen de papanicolaou, cultivos vaginales y tratamiento de infecciones. Sin cita, sin seguro y con precios accesibles.",
+    "descriptionEn": "Spanish-speaking gynecology in Houston, TX: Pap smear, vaginal cultures and infection treatment. Walk in, no insurance needed, affordable pricing.",
+    "longDescription": "Tu salud como mujer merece un espacio de confianza. En Clínica Hispana Cruz #3 ofrecemos atención ginecológica en español, con la privacidad y el respeto que mereces.\n\n**¿Qué incluye?**\n- Examen de papanicolaou y chequeo ginecológico\n- Cultivos vaginales para identificar infecciones\n- Tratamiento de infecciones vaginales (hongos, bacterias)\n- Evaluación de molestias y flujo anormal\n- Orden de mamografía y referencias cuando se necesita un especialista\n\n**Examen de papanicolaou en Houston**\nEl papanicolaou detecta células anormales en el cuello uterino antes de que se conviertan en cáncer. Se recomienda a partir de los 21 años: cada 3 años entre los 21 y los 29, y cada 3 a 5 años entre los 30 y los 65, según si se combina con la prueba de VPH. Si tuviste un resultado anormal antes, el médico puede indicarte controles más frecuentes.\n\n**¿Cómo es el examen y cómo prepararte?**\nDura pocos minutos y puede causar una molestia leve, no dolor. Conviene hacerlo fuera de los días de sangrado menstrual y evitar relaciones sexuales, duchas vaginales, óvulos o cremas durante las 48 horas previas. La muestra se procesa en laboratorio y el resultado tarda unos días; te avisamos cuando esté listo y te explicamos qué significa en español. Pregunta por nuestro paquete Chequeo Completo de Mujer, que incluye papanicolaou, consulta ginecológica y orden de mamografía.\n\n**No te quedes con la duda**\nComezón, ardor, flujo diferente o mal olor son señales de que algo necesita atención. Un cultivo permite un diagnóstico correcto y un tratamiento que sí resuelve.\n\n**Ginecología en una clínica hispana cerca de ti**\nSi buscas ginecología en Houston, en nuestra clínica hispana te atendemos cerca de ti: en español, sin cita previa y con precios accesibles, en el suroeste de Houston.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
+    "longDescriptionEn": "Your health as a woman deserves a space of trust. At Clínica Hispana Cruz #3 we offer gynecology care in Spanish, with the privacy and respect you deserve.\n\n**What's included?**\n- Pap smear and gynecological checkup\n- Vaginal cultures to identify infections\n- Treatment of vaginal infections (yeast, bacteria)\n- Evaluation of discomfort and abnormal discharge\n- Mammogram order and referrals when a specialist is needed\n\n**Pap smear in Houston**\nA Pap smear detects abnormal cells in the cervix before they turn into cancer. It is recommended from age 21: every 3 years between 21 and 29, and every 3 to 5 years between 30 and 65, depending on whether it is combined with HPV testing. If you had an abnormal result before, the doctor may recommend more frequent checks.\n\n**What the exam is like and how to prepare**\nIt takes a few minutes and may cause mild discomfort, not pain. It is best done outside your period, avoiding intercourse, douching, vaginal suppositories or creams for 48 hours beforehand. The sample is processed at a lab and the result takes a few days; we let you know when it is ready and explain what it means in Spanish. Ask about our Complete Women's Checkup package, which includes a Pap smear, gynecology consultation and mammogram order.\n\n**Don't stay in doubt**\nItching, burning, unusual discharge or odor are signs that something needs attention. A culture allows an accurate diagnosis and treatment that truly resolves it.\n\n**Gynecology at a Hispanic clinic near you**\nIf you are looking for gynecology care in Houston, our Hispanic clinic is near you: care in Spanish, walk-ins welcome and affordable pricing, on the southwest side of Houston.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
     "icon": "Heart",
     "image": "/images/services/ginecologia.webp",
     "category": "salud-mujer",
@@ -280,6 +280,9 @@ export const SERVICES: Service[] = [
       "ginecologia en houston",
       "ginecologo houston español",
       "papanicolaou houston",
+      "papanicolau houston español",
+      "examen de papanicolau cerca de mi",
+      "chequeo ginecologico cerca de mi",
       "cultivo vaginal houston",
       "infeccion vaginal tratamiento houston"
     ],
@@ -287,21 +290,26 @@ export const SERVICES: Service[] = [
       "gynecology houston",
       "gynecologist houston spanish",
       "pap smear houston",
+      "pap smear near me",
+      "womens checkup houston",
       "vaginal culture houston",
       "vaginal infection treatment houston"
     ],
     "features": [
-      "Papanicolaou y chequeo ginecológico",
+      "Examen de papanicolaou y chequeo ginecológico",
       "Cultivos vaginales",
       "Tratamiento de infecciones vaginales",
+      "Orden de mamografía",
       "Atención privada en español"
     ],
     "featuresEn": [
       "Pap smear and gynecological checkup",
       "Vaginal cultures",
       "Treatment of vaginal infections",
+      "Mammogram order",
       "Private care in Spanish"
     ],
+    "relatedPosts": ["salud-mujer-houston-servicios-ginecologia"],
     "highlighted": true,
     "order": 6
   },
@@ -434,40 +442,50 @@ export const SERVICES: Service[] = [
   {
     "id": "salud-hombre",
     "slug": "salud-hombre",
-    "title": "Exámenes del Hombre: PSA y Testosterona",
-    "titleEn": "Men's Health Exams: PSA & Testosterone",
+    "title": "Salud del Hombre: Examen de Próstata (PSA) y Testosterona",
+    "titleEn": "Men's Health: Prostate (PSA) & Testosterone Exams",
     "shortTitle": "Salud del Hombre",
-    "description": "Exámenes del hombre en Houston, TX: PSA y testosterona. Laboratorio y atención en español, con precios accesibles.",
-    "descriptionEn": "Men's health exams in Houston, TX: PSA and testosterone. Lab work and care in Spanish, with affordable pricing.",
-    "longDescription": "La salud del hombre muchas veces se posterga. En Clínica Hispana Cruz #3 facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.\n\n**¿Qué incluye?**\n- Examen de antígeno prostático (PSA)\n- Medición del nivel de testosterona\n- Chequeo general y de signos vitales\n- Evaluación de síntomas urinarios o de energía\n- Referencia a especialista si se requiere\n\n**Por qué es importante**\nEl PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
-    "longDescriptionEn": "Men's health is often postponed. At Clínica Hispana Cruz #3 we make it easy to get the exams that help catch important changes early, with results explained in Spanish.\n\n**What's included?**\n- Prostate antigen (PSA) test\n- Testosterone level measurement\n- General checkup and vital signs\n- Evaluation of urinary or energy symptoms\n- Referral to a specialist if needed\n\n**Why it matters**\nPSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
+    "description": "Examen de próstata (PSA) y prueba de testosterona en Houston, TX. Chequeo del hombre en español, sin cita ni seguro y con precios accesibles.",
+    "descriptionEn": "Prostate exam (PSA) and testosterone test in Houston, TX. Men's checkup in Spanish, walk in, no insurance needed, affordable pricing.",
+    "longDescription": "La salud del hombre muchas veces se posterga. En Clínica Hispana Cruz #3 facilitamos los exámenes que ayudan a detectar a tiempo cambios importantes, con resultados explicados en español.\n\n**¿Qué incluye?**\n- Examen de próstata mediante antígeno prostático (PSA) en sangre\n- Medición del nivel de testosterona\n- Chequeo general y de signos vitales\n- Evaluación de síntomas urinarios, de energía o sexuales\n- Referencia a especialista si se requiere\n\n**Examen de próstata en Houston, en español**\nEl examen de próstata más común es el PSA (antígeno prostático específico), un análisis de sangre sencillo que ayuda a vigilar la salud de la próstata y detectar cambios a tiempo. Se recomienda conversarlo con el médico a partir de los 50 años, o desde los 40 a 45 si tienes antecedentes familiares de cáncer de próstata. Si notas dificultad para orinar, chorro débil o te levantas varias veces por la noche, no lo dejes pasar: te atendemos sin cita y te explicamos el resultado en tu idioma.\n\n**Testosterona baja: cuándo revisarla**\nCansancio persistente, ánimo bajo, pérdida de masa muscular o cambios en el deseo o el rendimiento sexual pueden estar relacionados con testosterona baja. Se diagnostica con un análisis de sangre; si el nivel está bajo, el médico te explica las opciones de tratamiento y seguimiento.\n\n**Por qué es importante**\nEl PSA ayuda a vigilar la salud de la próstata y la testosterona influye en la energía, el ánimo y la salud general. Un control sencillo te da tranquilidad. Pregunta por nuestros paquetes de examen para hombres y chequeo de próstata, que combinan laboratorio y consulta médica a un precio accesible.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
+    "longDescriptionEn": "Men's health is often postponed. At Clínica Hispana Cruz #3 we make it easy to get the exams that help catch important changes early, with results explained in Spanish.\n\n**What's included?**\n- Prostate exam through a prostate-specific antigen (PSA) blood test\n- Testosterone level measurement\n- General checkup and vital signs\n- Evaluation of urinary, energy or sexual symptoms\n- Referral to a specialist if needed\n\n**Prostate exam in Houston, in Spanish**\nThe most common prostate exam is the PSA (prostate-specific antigen), a simple blood test that helps monitor prostate health and catch changes early. It is recommended to discuss it with your doctor from age 50, or from 40 to 45 if you have a family history of prostate cancer. If you notice difficulty urinating, a weak stream or getting up several times at night, don't put it off: we see you walk-in and explain the result in your language.\n\n**Low testosterone: when to check it**\nPersistent fatigue, low mood, loss of muscle mass or changes in sexual desire or performance may be related to low testosterone. It is diagnosed with a blood test; if the level is low, the doctor explains treatment and follow-up options.\n\n**Why it matters**\nPSA helps monitor prostate health, and testosterone influences energy, mood and overall health. A simple check gives you peace of mind. Ask about our men's exam and prostate checkup packages, which combine lab work and a medical consultation at an affordable price.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
     "icon": "Activity",
     "image": "/images/services/salud-hombre.webp",
     "category": "medicina-general",
     "keywords": [
       "examen del hombre houston",
+      "examen de prostata houston español",
+      "examen de prostata cerca de mi",
       "prueba psa houston",
       "examen de prostata houston",
-      "examen de testosterona houston"
+      "examen de testosterona houston",
+      "testosterona baja houston",
+      "chequeo del hombre houston"
     ],
     "keywordsEn": [
       "mens health houston",
-      "psa test houston",
       "prostate exam houston",
-      "testosterone test houston"
+      "prostate exam near me",
+      "psa test houston",
+      "testosterone test houston",
+      "low testosterone houston",
+      "mens checkup houston"
     ],
     "features": [
-      "Antígeno prostático (PSA)",
+      "Examen de próstata (PSA) en sangre",
       "Nivel de testosterona",
       "Chequeo general del hombre",
+      "Sin cita ni seguro",
       "Resultados explicados en español"
     ],
     "featuresEn": [
-      "Prostate antigen (PSA)",
+      "Prostate exam (PSA) blood test",
       "Testosterone level",
       "General men's checkup",
+      "No appointment or insurance needed",
       "Results explained in Spanish"
     ],
+    "relatedPosts": ["salud-hombre-houston-chequeos-preventivos"],
     "highlighted": true,
     "order": 10
   },

@@ -162,30 +162,54 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "ginecologia": {
     "faqs": [
       {
-        "question": "¿Necesito cita para el papanicolaou?",
-        "answer": "No es obligatorio, atendemos sin cita; pero puedes llamarnos para reservar un horario cómodo."
+        "question": "¿Cada cuánto debo hacerme el papanicolaou?",
+        "answer": "A partir de los 21 años. Entre los 21 y los 29, cada 3 años; entre los 30 y los 65, cada 3 a 5 años según si se combina con la prueba de VPH. Si tuviste un resultado anormal, el médico puede indicar controles más frecuentes."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿El examen de papanicolaou duele?",
+        "answer": "No debería doler. Dura pocos minutos y puede causar una molestia leve. Nuestro personal te explica cada paso en español y cuida tu privacidad."
+      },
+      {
+        "question": "¿Puedo hacerme el papanicolaou si tengo la regla?",
+        "answer": "Es mejor hacerlo fuera de los días de sangrado. También conviene evitar relaciones sexuales, duchas vaginales, óvulos o cremas durante las 48 horas previas para que la muestra sea confiable."
+      },
+      {
+        "question": "¿Cuándo llegan los resultados del papanicolaou?",
+        "answer": "La muestra se procesa en laboratorio y el resultado tarda unos días. Te avisamos cuando esté listo y te explicamos qué significa y si necesitas algún seguimiento."
+      },
+      {
+        "question": "¿Necesito cita para el papanicolaou?",
+        "answer": "No es obligatorio, atendemos sin cita de lunes a domingo de 9 AM a 9 PM; pero puedes llamarnos para reservar un horario cómodo."
       },
       {
         "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregunta por nuestro paquete Chequeo Completo de Mujer en la página de promociones."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do I need an appointment for a Pap smear?",
-        "answer": "It's not required, we welcome walk-ins; but you can call us to reserve a convenient time."
+        "question": "How often should I get a Pap smear?",
+        "answer": "Starting at age 21. Between 21 and 29, every 3 years; between 30 and 65, every 3 to 5 years depending on whether it is combined with HPV testing. If you had an abnormal result, the doctor may recommend more frequent checks."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Does a Pap smear hurt?",
+        "answer": "It shouldn't hurt. It takes a few minutes and may cause mild discomfort. Our staff explains each step in Spanish and protects your privacy."
+      },
+      {
+        "question": "Can I get a Pap smear during my period?",
+        "answer": "It is best done outside your period. Also avoid intercourse, douching, vaginal suppositories or creams for 48 hours beforehand so the sample is reliable."
+      },
+      {
+        "question": "When do Pap smear results come back?",
+        "answer": "The sample is processed at a lab and the result takes a few days. We let you know when it is ready and explain what it means and whether you need any follow-up."
+      },
+      {
+        "question": "Do I need an appointment for a Pap smear?",
+        "answer": "It's not required, we welcome walk-ins Monday to Sunday from 9 AM to 9 PM; but you can call us to reserve a convenient time."
       },
       {
         "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask about our Complete Women's Checkup package on the promotions page."
       }
     ]
   },
@@ -298,8 +322,20 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "salud-hombre": {
     "faqs": [
       {
+        "question": "¿A qué edad debo hacerme el examen de próstata?",
+        "answer": "Por lo general se recomienda conversarlo con el médico a partir de los 50 años, o desde los 40 a 45 si tienes antecedentes familiares de cáncer de próstata. Si ya tienes síntomas urinarios, no esperes a esa edad."
+      },
+      {
+        "question": "¿El examen de próstata es un análisis de sangre?",
+        "answer": "Sí. El PSA (antígeno prostático específico) se mide con una muestra de sangre y no requiere preparación especial. Según el resultado y tus síntomas, el médico puede recomendar una evaluación adicional."
+      },
+      {
+        "question": "¿Cuáles son los síntomas de testosterona baja?",
+        "answer": "Cansancio persistente, ánimo bajo, pérdida de masa muscular y cambios en el deseo o el rendimiento sexual. Se diagnostica con un análisis de sangre y te explicamos el resultado y las opciones en español."
+      },
+      {
         "question": "¿Qué incluye el examen del hombre?",
-        "answer": "Incluye antígeno prostático (PSA), nivel de testosterona y un chequeo general, con resultados explicados en español."
+        "answer": "Incluye examen de próstata (PSA), nivel de testosterona y un chequeo general con signos vitales, con resultados explicados en español. Pregunta por nuestros paquetes para hombres en la página de promociones."
       },
       {
         "question": "¿Necesito cita previa?",
@@ -312,8 +348,20 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     ],
     "faqsEn": [
       {
+        "question": "At what age should I get a prostate exam?",
+        "answer": "It is usually recommended to discuss it with your doctor from age 50, or from 40 to 45 if you have a family history of prostate cancer. If you already have urinary symptoms, don't wait until then."
+      },
+      {
+        "question": "Is the prostate exam a blood test?",
+        "answer": "Yes. PSA (prostate-specific antigen) is measured from a blood sample and needs no special preparation. Depending on the result and your symptoms, the doctor may recommend further evaluation."
+      },
+      {
+        "question": "What are the symptoms of low testosterone?",
+        "answer": "Persistent fatigue, low mood, loss of muscle mass and changes in sexual desire or performance. It is diagnosed with a blood test and we explain the result and your options in Spanish."
+      },
+      {
         "question": "What does the men's exam include?",
-        "answer": "It includes prostate antigen (PSA), testosterone level and a general checkup, with results explained in Spanish."
+        "answer": "It includes a prostate exam (PSA), testosterone level and a general checkup with vital signs, with results explained in Spanish. Ask about our men's packages on the promotions page."
       },
       {
         "question": "Do I need an appointment?",
