@@ -304,36 +304,42 @@ export const SERVICES: Service[] = [
   {
     "id": "prueba-embarazo",
     "slug": "prueba-embarazo",
-    "title": "Examen y Diagnóstico de Embarazo",
-    "titleEn": "Pregnancy Testing & Confirmation",
+    "title": "Prueba de Embarazo de Sangre y Orina",
+    "titleEn": "Pregnancy Test: Blood & Urine",
     "shortTitle": "Prueba de Embarazo",
-    "description": "Examen y diagnóstico de embarazo en Houston, TX. Pruebas confiables y orientación en español, con precios accesibles.",
-    "descriptionEn": "Pregnancy testing and confirmation in Houston, TX. Reliable tests and guidance in Spanish, with affordable pricing.",
-    "longDescription": "Si crees que podrías estar embarazada, una prueba confiable te da tranquilidad y claridad. En Clínica Hispana Cruz #3 realizamos pruebas de embarazo y te orientamos sobre lo que sigue, en español y sin juicios.\n\n**¿Qué incluye?**\n- Prueba de embarazo (orina o sangre)\n- Confirmación médica del resultado\n- Orientación sobre tus siguientes pasos\n- Información sobre control prenatal y referencias\n\n**Con confianza y respeto**\nTe explicamos el resultado con claridad y te acompañamos en la decisión que tomes, siempre con respeto y privacidad.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
-    "longDescriptionEn": "If you think you might be pregnant, a reliable test gives you peace of mind and clarity. At Clínica Hispana Cruz #3 we perform pregnancy tests and guide you on what comes next, in Spanish and without judgment.\n\n**What's included?**\n- Pregnancy test (urine or blood)\n- Medical confirmation of the result\n- Guidance on your next steps\n- Information on prenatal care and referrals\n\n**With trust and respect**\nWe explain the result clearly and support you in whatever decision you make, always with respect and privacy.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
+    "description": "Prueba de embarazo de sangre y orina en Houston, TX. Sin cita ni seguro, resultado confirmado por personal médico y orientación en español, a precios accesibles.",
+    "descriptionEn": "Blood and urine pregnancy test in Houston, TX. Walk in, no insurance needed, result confirmed by medical staff with guidance in Spanish and affordable pricing.",
+    "longDescription": "Si crees que podrías estar embarazada, una prueba confiable te da tranquilidad y claridad. En Clínica Hispana Cruz #3 realizamos pruebas de embarazo de orina y de sangre sin cita previa, y te orientamos sobre lo que sigue, en español y sin juicios.\n\n**¿Qué incluye?**\n- Prueba de embarazo de orina con resultado en minutos\n- Prueba de embarazo de sangre (hCG cuantitativa) cuando se necesita mayor precisión\n- Confirmación médica del resultado\n- Orientación sobre tus siguientes pasos\n- Información sobre control prenatal y referencias\n\n**Prueba de orina o prueba de sangre: ¿cuál me conviene?**\nLa prueba de orina detecta la hormona del embarazo (hCG) y es confiable desde el primer día de retraso menstrual; el resultado lo tienes en la misma visita. La prueba de sangre mide la cantidad exacta de hCG, puede detectar el embarazo unos días antes que la de orina y sirve para confirmar un resultado dudoso o dar seguimiento cuando el médico lo indica. Si no sabes cuál elegir, te ayudamos a decidir según tus fechas y tu situación.\n\n**¿Dónde hacerme una prueba de embarazo de sangre en Houston?**\nEn nuestra clínica tomamos la muestra en el momento, sin orden médica ni seguro. Te explicamos el resultado en español y, si es positivo, te orientamos sobre el inicio del control prenatal.\n\n**Con confianza y respeto**\nTe explicamos el resultado con claridad y te acompañamos en la decisión que tomes, siempre con respeto y privacidad.\n\n**¿Por qué elegir Clínica Hispana Cruz #3?**\nSomos una clínica hispana y latina que te atiende 100% en español, sin cita previa y con precios accesibles, sin necesidad de seguro médico. Encuéntranos como tu centro médico cerca de ti en 5411 S Braeswood Blvd, Houston, TX 77096, con horario de lunes a domingo de 9 AM a 9 PM. Nuestro equipo trata a cada paciente con respeto, tiempo y explicaciones claras.\n\n**Formas de pago**\nNo necesitas seguro médico. Manejamos precios accesibles y transparentes, y aceptamos efectivo y tarjetas. Pregúntanos por el costo de tu servicio antes de tu visita.\n\n**Áreas que servimos**\nAtendemos a pacientes de Houston, TX y todo el suroeste de la ciudad: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton y comunidades cercanas.",
+    "longDescriptionEn": "If you think you might be pregnant, a reliable test gives you peace of mind and clarity. At Clínica Hispana Cruz #3 we perform urine and blood pregnancy tests with no appointment needed, and guide you on what comes next, in Spanish and without judgment.\n\n**What's included?**\n- Urine pregnancy test with results in minutes\n- Blood pregnancy test (quantitative hCG) when more precision is needed\n- Medical confirmation of the result\n- Guidance on your next steps\n- Information on prenatal care and referrals\n\n**Urine test or blood test: which one do I need?**\nThe urine test detects the pregnancy hormone (hCG) and is reliable from the first day of a missed period; you get the result during the same visit. The blood test measures the exact hCG level, can detect pregnancy a few days earlier than a urine test, and is used to confirm an unclear result or follow up when the doctor recommends it. If you are not sure which one to choose, we help you decide based on your dates and situation.\n\n**Where to get a blood pregnancy test in Houston?**\nAt our clinic we draw the sample on the spot, with no doctor's order or insurance required. We explain the result in Spanish and, if it is positive, guide you on starting prenatal care.\n\n**With trust and respect**\nWe explain the result clearly and support you in whatever decision you make, always with respect and privacy.\n\n**Why choose Clínica Hispana Cruz #3?**\nWe are a Hispanic and Latino clinic that cares for you 100% in Spanish, with no appointment needed and affordable pricing, no insurance required. Find your medical center near you at 5411 S Braeswood Blvd, Houston, TX 77096, open Monday through Sunday from 9 AM to 9 PM. Our team treats every patient with respect, time and clear explanations.\n\n**Payment**\nYou don't need health insurance. We offer affordable, transparent pricing and accept cash and cards. Ask us about the cost of your service before your visit.\n\n**Areas we serve**\nWe care for patients across Houston, TX and the entire southwest side of the city: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and nearby communities.",
     "icon": "Heart",
     "image": "/images/services/prueba-embarazo.webp",
     "category": "salud-mujer",
     "keywords": [
       "prueba de embarazo houston",
+      "prueba de embarazo de sangre houston",
+      "prueba de embarazo cerca de mi",
       "examen de embarazo houston",
       "confirmar embarazo houston",
       "test de embarazo español houston"
     ],
     "keywordsEn": [
       "pregnancy test houston",
+      "blood pregnancy test houston",
+      "pregnancy test near me",
       "pregnancy confirmation houston",
       "confirm pregnancy houston",
       "pregnancy testing houston"
     ],
     "features": [
-      "Prueba de embarazo confiable",
+      "Prueba de orina con resultado en minutos",
+      "Prueba de sangre (hCG cuantitativa)",
       "Confirmación médica",
       "Orientación sobre próximos pasos",
       "Atención en español"
     ],
     "featuresEn": [
-      "Reliable pregnancy test",
+      "Urine test with results in minutes",
+      "Blood test (quantitative hCG)",
       "Medical confirmation",
       "Guidance on next steps",
       "Care in Spanish"

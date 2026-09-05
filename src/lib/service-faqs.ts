@@ -192,8 +192,16 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "prueba-embarazo": {
     "faqs": [
       {
-        "question": "¿Qué tan confiable es la prueba de embarazo?",
-        "answer": "Nuestras pruebas son confiables y las confirma personal médico; también podemos orientarte sobre los siguientes pasos."
+        "question": "¿Cuál es la diferencia entre la prueba de embarazo de orina y la de sangre?",
+        "answer": "La de orina detecta la hormona hCG y da resultado en minutos; es confiable desde el primer día de retraso. La de sangre mide la cantidad exacta de hCG, detecta el embarazo unos días antes y se usa para confirmar un resultado dudoso."
+      },
+      {
+        "question": "¿Desde cuándo puedo hacerme la prueba de embarazo?",
+        "answer": "La prueba de orina es confiable a partir del primer día de retraso menstrual. La prueba de sangre puede detectar el embarazo unos días antes del retraso. Si tienes dudas sobre tus fechas, te orientamos en la consulta."
+      },
+      {
+        "question": "¿Necesito orden médica o seguro para la prueba de sangre?",
+        "answer": "No. Puedes venir sin orden médica y sin seguro. Tomamos la muestra en el momento y personal médico te explica el resultado en español."
       },
       {
         "question": "¿Necesito cita previa?",
@@ -206,8 +214,16 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     ],
     "faqsEn": [
       {
-        "question": "How reliable is the pregnancy test?",
-        "answer": "Our tests are reliable and confirmed by medical staff; we can also guide you on next steps."
+        "question": "What is the difference between a urine and a blood pregnancy test?",
+        "answer": "The urine test detects the hCG hormone and gives a result in minutes; it is reliable from the first day of a missed period. The blood test measures the exact hCG level, detects pregnancy a few days earlier, and is used to confirm an unclear result."
+      },
+      {
+        "question": "How early can I take a pregnancy test?",
+        "answer": "The urine test is reliable from the first day of a missed period. The blood test can detect pregnancy a few days before a missed period. If you are unsure about your dates, we guide you during the visit."
+      },
+      {
+        "question": "Do I need a doctor's order or insurance for the blood test?",
+        "answer": "No. You can come in without a doctor's order and without insurance. We draw the sample on the spot and medical staff explain the result in Spanish."
       },
       {
         "question": "Do I need an appointment?",
