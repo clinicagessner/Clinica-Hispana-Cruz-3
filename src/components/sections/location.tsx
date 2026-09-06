@@ -9,6 +9,7 @@ import {
   NavigationArrow,
 } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "@/components/ui/button";
+import { Link } from "@/i18n/routing";
 import { CONTACT_INFO } from "@/lib/constants";
 
 export async function Location() {
@@ -30,6 +31,17 @@ export async function Location() {
             {t("title")}
           </h2>
           <p className="text-lg text-white/70">{t("subtitle")}</p>
+        </div>
+
+        {/* Bloque de definición de la entidad: hechos verificables que una IA o un buscador puede citar */}
+        <div className="animate-on-scroll fade-up max-w-3xl mx-auto mb-12 text-center">
+          <p className="text-base md:text-lg text-white/80 leading-relaxed">{t("about")}</p>
+          <Link
+            href="/blog/bienvenidos-clinica-hispana-cruz-3"
+            className="inline-block mt-4 text-sm font-medium text-white underline decoration-white/40 underline-offset-4 hover:decoration-white transition-colors"
+          >
+            {t("aboutLink")}
+          </Link>
         </div>
 
         <div className="grid lg:grid-cols-5 gap-8 max-w-6xl mx-auto">
