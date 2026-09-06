@@ -13,7 +13,19 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Cada cuánto debo hacerme exámenes de control?",
-        "answer": "Depende de tu condición; por lo general cada 3 a 6 meses para diabetes, presión o colesterol. Te damos un plan de seguimiento personalizado."
+        "answer": "Depende de tu condición. En diabetes, A1C cada 3 meses hasta llegar a la meta y luego cada 6; en presión alta, cada 1 a 3 meses al ajustar el tratamiento; en colesterol, cada 6 a 12 meses. Te damos un plan por escrito."
+      },
+      {
+        "question": "¿La prueba de A1C necesita ayuno?",
+        "answer": "No. La A1C mide el promedio de azúcar de los últimos 3 meses y se puede hacer a cualquier hora. Para el perfil de colesterol conviene un ayuno de 8 a 12 horas."
+      },
+      {
+        "question": "¿Con qué paquete me conviene empezar?",
+        "answer": "Con el Chequeo General Completo: incluye examen general de sangre, A1C, examen de orina y consulta médica. Consulta el precio vigente en la página de promociones."
+      },
+      {
+        "question": "¿Surten mis medicamentos en la clínica?",
+        "answer": "Sí. Al terminar la consulta puedes surtir o resurtir tu receta en nuestra farmacia, con genéricos cuando existen para reducir el costo."
       },
       {
         "question": "¿Necesito cita previa?",
@@ -27,7 +39,19 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "How often should I get control labs?",
-        "answer": "It depends on your condition; usually every 3 to 6 months for diabetes, blood pressure or cholesterol. We give you a personalized follow-up plan."
+        "answer": "It depends on your condition. For diabetes, A1C every 3 months until you reach your goal and then every 6; for high blood pressure, every 1 to 3 months while adjusting treatment; for cholesterol, every 6 to 12 months. We give you a written plan."
+      },
+      {
+        "question": "Does the A1C test require fasting?",
+        "answer": "No. A1C measures your average sugar over the last 3 months and can be done at any time. For the cholesterol panel, 8 to 12 hours of fasting is recommended."
+      },
+      {
+        "question": "Which package should I start with?",
+        "answer": "The Complete General Checkup: it includes a general blood panel, A1C, urinalysis and a medical consultation. Check the current price on the promotions page."
+      },
+      {
+        "question": "Do you fill my medications at the clinic?",
+        "answer": "Yes. When your visit ends you can fill or refill your prescription at our pharmacy, with generics when available to lower the cost."
       },
       {
         "question": "Do I need an appointment?",
@@ -43,29 +67,53 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Qué prueba se usa para revisar la tiroides?",
-        "answer": "Usamos principalmente la TSH y, si es necesario, T3 y T4 para evaluar cómo funciona tu tiroides."
+        "answer": "Un análisis de sangre. La TSH es la prueba principal; la T4 libre, la T3 y los anticuerpos completan el estudio cuando el médico lo considera necesario."
+      },
+      {
+        "question": "¿Necesito ayuno para el examen de tiroides?",
+        "answer": "No. Las pruebas de tiroides no requieren ayuno. Puedes venir a cualquier hora, sin cita y sin orden médica."
+      },
+      {
+        "question": "¿Cuándo debo revisarme la tiroides?",
+        "answer": "Si tienes cansancio persistente, cambios de peso sin explicación, caída del cabello, frío o calor excesivo, palpitaciones o nerviosismo. También si tienes familiares con problemas de tiroides."
+      },
+      {
+        "question": "¿Cada cuánto se controla la tiroides con tratamiento?",
+        "answer": "Al iniciar o cambiar la dosis, cada 6 u 8 semanas hasta estabilizarla. Después, cada 6 a 12 meses. El médico te indica el calendario según tu caso."
+      },
+      {
+        "question": "¿En cuánto tiempo entregan los resultados?",
+        "answer": "Varía según el examen. Te indicamos el plazo al tomar la muestra y te explicamos el resultado en español cuando esté listo."
       },
       {
         "question": "¿Necesito cita previa?",
         "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
-      },
-      {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
       }
     ],
     "faqsEn": [
       {
-        "question": "What test is used to check the thyroid?",
-        "answer": "We mainly use TSH and, if needed, T3 and T4 to evaluate how your thyroid is working."
+        "question": "Which test is used to check the thyroid?",
+        "answer": "A blood test. TSH is the main test; free T4, T3 and antibodies complete the workup when the doctor considers it necessary."
+      },
+      {
+        "question": "Do I need to fast for a thyroid test?",
+        "answer": "No. Thyroid tests don't require fasting. You can come at any time, walk-in and without a doctor's order."
+      },
+      {
+        "question": "When should I get my thyroid checked?",
+        "answer": "If you have persistent fatigue, unexplained weight changes, hair loss, feeling too cold or too hot, palpitations or nervousness. Also if you have relatives with thyroid problems."
+      },
+      {
+        "question": "How often is the thyroid monitored on treatment?",
+        "answer": "When starting or changing the dose, every 6 to 8 weeks until it stabilizes. After that, every 6 to 12 months. The doctor sets the schedule for your case."
+      },
+      {
+        "question": "How soon are results ready?",
+        "answer": "It depends on the test. We tell you the turnaround when we draw the sample and explain the result in Spanish when it is ready."
       },
       {
         "question": "Do I need an appointment?",
         "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
-      },
-      {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
       }
     ]
   },
@@ -611,29 +659,53 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿El electrocardiograma duele?",
-        "answer": "No, es un estudio rápido y sin dolor; solo se colocan electrodos en la piel por unos minutos."
+        "answer": "No. Solo se colocan electrodos adhesivos en la piel; no hay agujas ni radiación. Puedes sentir un poco de frío por el gel o un leve tirón al retirarlos."
+      },
+      {
+        "question": "¿Cuánto dura el electrocardiograma?",
+        "answer": "El registro tarda unos segundos y toda la visita alrededor de 10 a 15 minutos, incluida la explicación del resultado."
+      },
+      {
+        "question": "¿Necesito ayuno o alguna preparación?",
+        "answer": "No. No hace falta ayuno ni preparación. Solo necesitas descubrir el pecho para colocar los electrodos."
+      },
+      {
+        "question": "¿Me dan el resultado el mismo día?",
+        "answer": "Sí. El médico revisa el trazado en la misma visita y te lo explica en español. Si hace falta un estudio adicional, te referimos a cardiología."
+      },
+      {
+        "question": "¿Sirve para un examen de trabajo o de deporte?",
+        "answer": "Sí. Es uno de los estudios que suelen pedir en exámenes laborales, deportivos y antes de una cirugía. Te entregamos el resultado para que lo lleves donde lo requieran."
       },
       {
         "question": "¿Necesito cita previa?",
         "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
-      },
-      {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
       }
     ],
     "faqsEn": [
       {
-        "question": "Does the EKG hurt?",
-        "answer": "No, it's a fast, painless test; electrodes are simply placed on the skin for a few minutes."
+        "question": "Does an EKG hurt?",
+        "answer": "No. Adhesive electrodes are simply placed on the skin; there are no needles and no radiation. You may feel a bit of cold from the gel or a slight pull when they are removed."
+      },
+      {
+        "question": "How long does the EKG take?",
+        "answer": "The recording takes a few seconds and the whole visit about 10 to 15 minutes, including the explanation of the result."
+      },
+      {
+        "question": "Do I need to fast or prepare?",
+        "answer": "No. No fasting or preparation is needed. You only need to uncover your chest so the electrodes can be placed."
+      },
+      {
+        "question": "Do I get the result the same day?",
+        "answer": "Yes. The doctor reviews the tracing during the same visit and explains it in Spanish. If further testing is needed, we refer you to cardiology."
+      },
+      {
+        "question": "Is it valid for a work or sports exam?",
+        "answer": "Yes. It is one of the tests commonly requested for work, sports and pre-surgery exams. We give you the result to take wherever it is required."
       },
       {
         "question": "Do I need an appointment?",
         "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
-      },
-      {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
       }
     ]
   },
@@ -725,29 +797,53 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿El médico está autorizado por USCIS?",
-        "answer": "Sí, el examen lo realiza un médico autorizado (civil surgeon) y te entregamos el Formulario I-693 sellado."
+        "answer": "Sí. El examen lo realiza un médico autorizado por USCIS (civil surgeon), que es el único que puede firmar el Formulario I-693, y te lo entregamos sellado en sobre oficial."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Cuánto dura el examen de inmigración?",
+        "answer": "Entre 1 y 2 horas: revisión de documentos, examen físico, laboratorio y vacunas. Si te faltan vacunas de varias dosis, puede hacer falta una segunda visita."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Qué debo traer al examen I-693?",
+        "answer": "Pasaporte o identificación con foto, tu registro de vacunas si lo tienes, documentos médicos relevantes, los formularios de USCIS de tu caso y lentes o audífonos si los usas."
+      },
+      {
+        "question": "¿Necesito cita para el examen de inmigración?",
+        "answer": "No, atendemos sin cita. Si tu entrevista con USCIS está cerca, llámanos para coordinar y asegurar el turno con el médico autorizado."
+      },
+      {
+        "question": "¿Puedo abrir el sobre del formulario I-693?",
+        "answer": "No. USCIS rechaza los sobres abiertos o dañados. Entrégalo cerrado tal como te lo damos."
+      },
+      {
+        "question": "¿Las vacunas están incluidas en el precio?",
+        "answer": "No. El precio incluye el examen, el formulario y la asesoría; las vacunas se cobran por separado según las que necesites. Trae tu registro para no repetir las que ya tienes."
       }
     ],
     "faqsEn": [
       {
-        "question": "Is the doctor authorized by USCIS?",
-        "answer": "Yes, the exam is performed by an authorized civil surgeon and we give you the sealed Form I-693."
+        "question": "Is the physician authorized by USCIS?",
+        "answer": "Yes. The exam is performed by a USCIS-designated civil surgeon, the only physician who can sign Form I-693, and we hand it to you sealed in the official envelope."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "How long does the immigration exam take?",
+        "answer": "1 to 2 hours: document review, physical exam, lab work and vaccines. If you are missing multi-dose vaccines, a second visit may be needed."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "What should I bring to the I-693 exam?",
+        "answer": "Passport or photo ID, your vaccination records if you have them, relevant medical documents, the USCIS forms for your case, and glasses or hearing aids if you use them."
+      },
+      {
+        "question": "Do I need an appointment for the immigration exam?",
+        "answer": "No, we see you walk-in. If your USCIS interview is coming up soon, call us to coordinate and secure your slot with the civil surgeon."
+      },
+      {
+        "question": "Can I open the I-693 envelope?",
+        "answer": "No. USCIS rejects opened or damaged envelopes. Submit it sealed exactly as we give it to you."
+      },
+      {
+        "question": "Are vaccines included in the price?",
+        "answer": "No. The price includes the exam, the form and guidance; vaccines are charged separately depending on which ones you need. Bring your records so you don't repeat vaccines you already had."
       }
     ]
   },
@@ -785,29 +881,53 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Quién aplica el suero vitaminado?",
-        "answer": "Lo aplica y supervisa personal médico, tras una breve evaluación para elegir el suero adecuado para ti."
+        "answer": "Personal médico de la clínica, después de una evaluación breve de tu presión, antecedentes y alergias para confirmar que es adecuado para ti."
+      },
+      {
+        "question": "¿Cuánto dura la aplicación?",
+        "answer": "Por lo general entre 30 y 60 minutos, mientras descansas. Al terminar puedes volver a tus actividades normales."
+      },
+      {
+        "question": "¿Duele o tiene efectos secundarios?",
+        "answer": "Solo el pinchazo para canalizar la vena. Algunas personas notan sabor metálico o sensación de frío en el brazo durante la aplicación; son molestias leves y pasajeras."
+      },
+      {
+        "question": "¿Cada cuánto puedo ponerme un suero?",
+        "answer": "Depende de tu necesidad y de la evaluación médica. Muchas personas lo usan de forma ocasional; para cansancio persistente conviene buscar la causa con un análisis de sangre."
+      },
+      {
+        "question": "¿Necesito un análisis antes de la inyección de B12?",
+        "answer": "No es obligatorio, pero es recomendable medir tu nivel de B12 para saber si la necesitas. El paquete General de Sangre + Vitamina B12 incluye el análisis y la inyección."
       },
       {
         "question": "¿Necesito cita previa?",
         "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
-      },
-      {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
       }
     ],
     "faqsEn": [
       {
-        "question": "Who administers the vitamin IV?",
-        "answer": "It's administered and monitored by medical staff, after a brief evaluation to choose the right drip for you."
+        "question": "Who gives the vitamin drip?",
+        "answer": "The clinic's medical staff, after a brief check of your blood pressure, history and allergies to confirm it is right for you."
+      },
+      {
+        "question": "How long does the session take?",
+        "answer": "Usually 30 to 60 minutes while you rest. Afterwards you can return to your normal activities."
+      },
+      {
+        "question": "Does it hurt or have side effects?",
+        "answer": "Only the needle stick to access the vein. Some people notice a metallic taste or a cool feeling in the arm during the drip; these are mild and pass quickly."
+      },
+      {
+        "question": "How often can I get a drip?",
+        "answer": "It depends on your needs and the medical evaluation. Many people use it occasionally; for persistent fatigue it is better to find the cause with a blood test."
+      },
+      {
+        "question": "Do I need a blood test before the B12 injection?",
+        "answer": "It is not required, but measuring your B12 level is recommended to know whether you need it. Our Blood Panel + Vitamin B12 package includes the test and the injection."
       },
       {
         "question": "Do I need an appointment?",
         "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
-      },
-      {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
       }
     ]
   },
@@ -965,32 +1085,56 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Puedo surtir mi receta en la clínica?",
-        "answer": "Sí, al terminar tu consulta surtimos tu receta en nuestra farmacia, sin tener que ir a otro lugar."
+        "answer": "Sí. Al terminar tu consulta la receta pasa a nuestra farmacia y te llevas el medicamento en la misma visita, con las indicaciones explicadas en español."
       },
       {
-        "question": "¿Necesito cita previa?",
-        "answer": "No. Atendemos sin cita de lunes a domingo de 9 AM a 9 PM. También puedes llamarnos para reservar un horario."
+        "question": "¿Tienen medicamentos genéricos?",
+        "answer": "Sí. Cuando existe versión genérica te la ofrecemos para reducir el costo. Tiene la misma sustancia activa y el mismo efecto que el medicamento de marca."
       },
       {
-        "question": "¿Atienden a pacientes sin seguro?",
-        "answer": "Sí. No necesitas seguro médico; manejamos precios accesibles y transparentes. Pregúntanos por el costo antes de tu visita."
+        "question": "¿Surten recetas de otros médicos?",
+        "answer": "Llámanos antes de venir con el nombre del medicamento y te confirmamos si podemos surtirla. Las recetas emitidas en la clínica se surten siempre."
+      },
+      {
+        "question": "¿Puedo resurtir mi medicamento de presión o diabetes?",
+        "answer": "Sí, sin cita. El médico revisa cómo vas, ajusta la dosis si hace falta y la farmacia te entrega el medicamento en la misma visita."
+      },
+      {
+        "question": "¿Necesito seguro para comprar en la farmacia?",
+        "answer": "No. Manejamos precios de pago directo, aceptamos efectivo y tarjetas, y te decimos el costo antes de pagar."
+      },
+      {
+        "question": "¿Cuál es el horario de la farmacia?",
+        "answer": "El mismo de la clínica: lunes a domingo de 9 AM a 9 PM."
       }
     ],
     "faqsEn": [
       {
         "question": "Can I fill my prescription at the clinic?",
-        "answer": "Yes, after your visit we fill your prescription at our pharmacy, with no need to go elsewhere."
+        "answer": "Yes. When your visit ends the prescription goes to our pharmacy and you take your medication home the same visit, with instructions explained in Spanish."
       },
       {
-        "question": "Do I need an appointment?",
-        "answer": "No. We welcome walk-ins Monday to Sunday from 9 AM to 9 PM. You can also call us to reserve a time."
+        "question": "Do you have generic medications?",
+        "answer": "Yes. When a generic version exists we offer it to lower the cost. It has the same active ingredient and the same effect as the brand-name drug."
       },
       {
-        "question": "Do you accept patients without insurance?",
-        "answer": "Yes. You don't need insurance; we offer affordable, transparent pricing. Ask us about the cost before your visit."
+        "question": "Do you fill prescriptions from other doctors?",
+        "answer": "Call us before coming with the name of the medication and we will confirm whether we can fill it. Prescriptions issued at the clinic are always filled."
+      },
+      {
+        "question": "Can I refill my blood pressure or diabetes medication?",
+        "answer": "Yes, no appointment needed. The doctor checks how you are doing, adjusts the dose if needed and the pharmacy hands you the medication in the same visit."
+      },
+      {
+        "question": "Do I need insurance to buy at the pharmacy?",
+        "answer": "No. We offer self-pay pricing, accept cash and cards, and tell you the cost before you pay."
+      },
+      {
+        "question": "What are the pharmacy hours?",
+        "answer": "The same as the clinic: Monday through Sunday, 9 AM to 9 PM."
       }
     ]
-  }
+  },
 };
 
 export function getServiceFAQs(slug: string, locale: string) {
