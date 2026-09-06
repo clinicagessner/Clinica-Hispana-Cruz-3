@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Montserrat, Source_Sans_3 } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
+import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { ScrollToTop } from "@/components/layout/scroll-to-top";
@@ -128,6 +129,12 @@ export function generateStaticParams() {
 
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params;
+
+  // Rutas con punto (p. ej. /archivo.txt) no pasan por el proxy de next-intl y llegaban aquí
+  // con el nombre de archivo como locale, devolviendo la home con 200 (soft 404).
+  if (!routing.locales.includes(locale as (typeof routing.locales)[number])) {
+    notFound();
+  }
 
   // Enable static rendering
   setRequestLocale(locale);
