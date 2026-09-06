@@ -40,6 +40,11 @@ export const CONTACT_INFO: ContactInfo = {
 
 // TODO(randy): PENDIENTE — URLs reales de redes sociales de Cruz #3 (footer y JSON-LD
 // las omiten automáticamente mientras estén vacías)
+// Última actualización de contenido estático (home, servicios, promociones). Se usa como
+// <lastmod> del sitemap en vez de la fecha del build, que cambiaba en cada deploy.
+// Actualizar cuando cambie el contenido de SERVICES/PROMOTIONS o de las páginas fijas.
+export const CONTENT_LAST_MODIFIED = "2026-09-05";
+
 export const SOCIAL_LINKS: SocialLinks = {
   facebook: "https://www.facebook.com/clinicahispanacruz3",
   instagram: "https://www.instagram.com/clinicahispanacruz3/",

@@ -142,21 +142,27 @@ export default async function BlogPostPage({ params }: Props) {
               <div className="flex flex-wrap items-center gap-4 text-sm text-white/70">
                 <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
                   <CalendarDots className="w-4 h-4" weight="fill" />
-                  {new Date(post.date).toLocaleDateString(locale, {
-                    year: "numeric",
-                    month: "long",
-                    day: "numeric",
-                  })}
+                  <time dateTime={post.date}>
+                    {new Date(post.date).toLocaleDateString(locale, {
+                      timeZone: "UTC",
+                      year: "numeric",
+                      month: "long",
+                      day: "numeric",
+                    })}
+                  </time>
                 </span>
                 {post.dateModified && post.dateModified !== post.date && (
                   <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
                     <CalendarDots className="w-4 h-4" weight="regular" />
                     {t("updated")}{" "}
-                    {new Date(post.dateModified).toLocaleDateString(locale, {
-                      year: "numeric",
-                      month: "long",
-                      day: "numeric",
-                    })}
+                    <time dateTime={post.dateModified}>
+                      {new Date(post.dateModified).toLocaleDateString(locale, {
+                        timeZone: "UTC",
+                        year: "numeric",
+                        month: "long",
+                        day: "numeric",
+                      })}
+                    </time>
                   </span>
                 )}
                 {post.readTime && (
@@ -228,6 +234,7 @@ export default async function BlogPostPage({ params }: Props) {
                         </h3>
                         <p className="text-sm text-muted-foreground">
                           {new Date(relatedPost.date).toLocaleDateString(locale, {
+                            timeZone: "UTC",
                             year: "numeric",
                             month: "long",
                             day: "numeric",

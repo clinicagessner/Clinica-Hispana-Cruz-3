@@ -109,6 +109,7 @@ export default async function BlogPage({ params }: Props) {
                       <span className="flex items-center gap-1">
                         <CalendarDots className="w-4 h-4" />
                         {new Date(featuredPost.date).toLocaleDateString(locale, {
+                          timeZone: "UTC",
                           year: "numeric",
                           month: "long",
                           day: "numeric",
@@ -164,6 +165,7 @@ export default async function BlogPage({ params }: Props) {
                       <span className="flex items-center gap-1">
                         <CalendarDots className="w-4 h-4" />
                         {new Date(post.date).toLocaleDateString(locale, {
+                          timeZone: "UTC",
                           year: "numeric",
                           month: "short",
                           day: "numeric",
