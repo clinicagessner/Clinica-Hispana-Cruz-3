@@ -86,7 +86,14 @@ export async function JsonLdMedicalClinic() {
           SOCIAL_LINKS.x,
           SOCIAL_LINKS.linkedin,
           SOCIAL_LINKS.google,
+          SOCIAL_LINKS.yelp,
         ].filter(Boolean),
+        // Cruz (Airline Dr), Cruz 2, Cruz 3 y Cruz 4 comparten dueño; el sitio de Airline es el principal del grupo
+        parentOrganization: {
+          "@type": "MedicalOrganization",
+          name: "Grupo de Clínicas Hispana Cruz de Houston",
+          url: "https://www.clinicahispanacruz.com",
+        },
         areaServed: {
           "@type": "City",
           name: "Houston",

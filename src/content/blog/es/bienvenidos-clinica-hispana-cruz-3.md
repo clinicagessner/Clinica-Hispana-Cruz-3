@@ -28,6 +28,8 @@ Somos una clínica hispana creada para las familias latinas de Houston que busca
 
 No somos una sala de emergencias ni un hospital: somos el lugar al que puede venir cuando tiene gripe, necesita controlar su diabetes o su presión, requiere un examen de sangre, un papanicolaou, un certificado médico para el trabajo o un examen de inmigración. Todo en un mismo sitio y en español.
 
+**Parte del grupo de Clínicas Hispana Cruz de Houston.** Somos la tercera sede de un grupo de cuatro clínicas hispanas con el mismo dueño y la misma forma de trabajar: [Clínica Hispana Cruz](https://www.clinicahispanacruz.com) en Airline Dr, al norte de Houston; [Clínica Hispana Cruz 2](https://www.hispanac2.com) en Kuykendahl Rd; Clínica Hispana Cruz #3 en S Braeswood Blvd; y [Clínica Hispana Cruz 4](https://www.clinicahispanacruz4.com) en Beechnut St. Si vive más cerca de otra sede, puede atenderse allí con la misma atención en español. El WhatsApp (281) 741-2157 es compartido por las cuatro clínicas.
+
 ## Datos básicos de la clínica
 
 | Dato | Detalle |

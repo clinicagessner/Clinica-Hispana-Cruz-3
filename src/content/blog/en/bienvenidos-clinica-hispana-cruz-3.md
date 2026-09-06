@@ -28,6 +28,8 @@ We are a Hispanic clinic built for the Latino families of Houston who want medic
 
 We are not an emergency room or a hospital: we are the place to come when you have the flu, need to manage your diabetes or blood pressure, need a blood test, a Pap smear, a medical certificate for work or an immigration exam. All in one place, in Spanish.
 
+**Part of the Clínicas Hispana Cruz group in Houston.** We are the third location of a group of four Hispanic clinics with the same owner and the same way of working: [Clínica Hispana Cruz](https://www.clinicahispanacruz.com) on Airline Dr, north Houston; [Clínica Hispana Cruz 2](https://www.hispanac2.com) on Kuykendahl Rd; Clínica Hispana Cruz #3 on S Braeswood Blvd; and [Clínica Hispana Cruz 4](https://www.clinicahispanacruz4.com) on Beechnut St. If another location is closer to you, you can be seen there with the same care in Spanish. The WhatsApp line (281) 741-2157 is shared by all four clinics.
+
 ## Clinic at a glance
 
 | Item | Detail |
