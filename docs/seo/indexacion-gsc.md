@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 1 — 📨 ENVIADA 05/10/2026
+## Tanda 1  ✅ PEDIDA 05/10/2026
 
-- [ ] https://www.clinicahispanacruz3.com  — cambiada 2026-10-04 · rastreada 2026-09-30 · indexada · 5604 impr.
-- [ ] https://www.clinicahispanacruz3.com/services/examen-dot  — cambiada 2026-10-04 · rastreada 2026-07-21 · indexada · 221 impr.
-- [ ] https://www.clinicahispanacruz3.com/blog  — cambiada 2026-09-06 · rastreada 2026-08-19 · indexada · 46 impr.
-- [ ] https://www.clinicahispanacruz3.com/services/salud-hombre  — cambiada 2026-09-05 · rastreada 2026-09-01 · indexada · 43 impr.
-- [ ] https://www.clinicahispanacruz3.com/services/examenes-inmigracion  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 38 impr.
-- [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-10-04 · rastreada 2026-09-28 · indexada · 1111 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/promociones  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 24 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/examen-dot  — cambiada 2026-10-04 · rastreada 2026-09-21 · indexada · 14 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 9 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-09-06 · rastreada 2026-07-22 · indexada · 3 impr.
+- [x] https://www.clinicahispanacruz3.com  — cambiada 2026-10-04 · rastreada 2026-09-30 · indexada · 5604 impr.
+- [x] https://www.clinicahispanacruz3.com/services/examen-dot  — cambiada 2026-10-04 · rastreada 2026-07-21 · indexada · 221 impr.
+- [x] https://www.clinicahispanacruz3.com/blog  — cambiada 2026-09-06 · rastreada 2026-08-19 · indexada · 46 impr.
+- [x] https://www.clinicahispanacruz3.com/services/salud-hombre  — cambiada 2026-09-05 · rastreada 2026-09-01 · indexada · 43 impr.
+- [x] https://www.clinicahispanacruz3.com/services/examenes-inmigracion  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 38 impr.
+- [x] https://www.clinicahispanacruz3.com/en  — cambiada 2026-10-04 · rastreada 2026-09-28 · indexada · 1111 impr.
+- [x] https://www.clinicahispanacruz3.com/en/promociones  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 24 impr.
+- [x] https://www.clinicahispanacruz3.com/en/services/examen-dot  — cambiada 2026-10-04 · rastreada 2026-09-21 · indexada · 14 impr.
+- [x] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 9 impr.
+- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-09-06 · rastreada 2026-07-22 · indexada · 3 impr.
 
 ## Tanda 2
 
