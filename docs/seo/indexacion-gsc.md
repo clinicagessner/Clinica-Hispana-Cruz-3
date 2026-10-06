@@ -6,11 +6,22 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-05; URL Inspection API, datos de hoy 2026-10-05):** 84 de 84 URLs del sitemap indexadas.
+**Estado (actualizado 2026-10-06; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 84 de 84 URLs del sitemap indexadas.
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 16 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 6 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
+
+## Tanda 2  📨 ENVIADA 06/10/2026
+
+- [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-09-06 · rastreada 2026-07-22 · indexada · 2 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 2 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 1 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 1 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 0 impr.
+
+## Historial (tandas pedidas)
 
 ## Tanda 1  ✅ PEDIDA 05/10/2026
 
@@ -24,12 +35,3 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispanacruz3.com/en/services/examen-dot  — cambiada 2026-10-04 · rastreada 2026-09-21 · indexada · 14 impr.
 - [x] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 9 impr.
 - [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-09-06 · rastreada 2026-07-22 · indexada · 3 impr.
-
-## Tanda 2
-
-- [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-09-06 · rastreada 2026-07-22 · indexada · 2 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 2 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 1 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 1 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 0 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 0 impr.
