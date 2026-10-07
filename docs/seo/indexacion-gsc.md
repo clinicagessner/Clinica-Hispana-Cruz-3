@@ -12,14 +12,14 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 2  📨 ENVIADA 06/10/2026
+## Tanda 2  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-09-06 · rastreada 2026-07-22 · indexada · 2 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 2 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 1 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 1 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 0 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 0 impr.
+- [x] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-09-06 · rastreada 2026-07-22 · indexada · 2 impr.
+- [x] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 2 impr.
+- [x] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 1 impr.
+- [x] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 1 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog  — cambiada 2026-09-06 · rastreada 2026-07-21 · indexada · 0 impr.
+- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-09-05 · rastreada 2026-07-21 · indexada · 0 impr.
 
 ## Tanda 3
 
