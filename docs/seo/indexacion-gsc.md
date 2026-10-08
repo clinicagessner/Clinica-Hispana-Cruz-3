@@ -6,13 +6,13 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-07; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 84 de 86 URLs del sitemap indexadas · 2 sin indexar (2 sin datos).
+**Estado (actualizado 2026-10-08; URL Inspection API, datos ANTIGUOS del 2026-10-05: antiguos (2026-10-05): --sin-fetch):** 84 de 86 URLs del sitemap indexadas · 2 sin indexar (2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 2 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 0 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 3  📨 ENVIADA 07/10/2026
+## Tanda 3  📨 ENVIADA 08/10/2026
 
 - [ ] https://www.clinicahispanacruz3.com/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
