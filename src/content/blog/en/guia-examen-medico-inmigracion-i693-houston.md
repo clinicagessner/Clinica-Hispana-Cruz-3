@@ -1,160 +1,66 @@
 ---
 slug: "guia-examen-medico-inmigracion-i693-houston"
-title: "Complete Guide: I-693 Immigration Medical Exam in Houston TX"
-description: "Everything you need to know about the I-693 medical exam for a Green Card in Houston TX. Requirements, vaccines, costs, documents, and what to expect from USCIS-certified Civil Surgeons."
+title: "I-693 Medical Exam for Families in Southwest Houston"
+description: "Adjusting status as a family? How to prepare for the I-693 immigration medical exam near Meyerland in southwest Houston: shots, TB screening, sealed form."
 date: "2026-03-18"
-dateModified: "2026-03-21"
+dateModified: "2026-10-09"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/examenes-inmigracion.webp"
 featured: false
 category: "Immigration"
-readTime: 8
+readTime: 5
 keywords:
-  - "immigration medical exam Houston"
-  - "I-693 exam Houston TX"
-  - "civil surgeon Houston"
-  - "Green Card medical exam Houston"
-  - "USCIS medical exam Houston"
+  - "family I-693 exam Houston"
+  - "adjustment of status medical Meyerland"
+  - "USCIS civil surgeon southwest Houston"
+  - "vaccine records for green card"
+  - "bilingual immigration physical Bellaire"
 ---
 
-# Complete Guide: I-693 Immigration Medical Exam in Houston TX
+Once a family in southwest Houston gets the go-ahead to file for adjustment of status, the paperwork piles up fast: birth certificates, certified translations, passport photos, fee receipts. Buried in that pile is Form I-693, the medical report USCIS expects from anyone seeking permanent residence without leaving the country. If you live in Westbury, Fondren or Bellaire and several relatives are filing together, a little planning keeps the medical exam from becoming the piece that holds everyone up.
 
-If you are in the process of obtaining your Green Card or adjusting your immigration status, you will need to complete **Form I-693** — the official medical examination required by USCIS. In this guide, we explain everything you need to know to complete this process in Houston, TX.
+## One exam per person, not per household
 
-## What Is Form I-693?
+Every applicant needs a separate I-693. Two parents and two kids on the same case means four forms, four vaccine histories and four evaluations. Bring each person's documents in their own folder, labeled with the name exactly as it's spelled on the passport or application. That small step avoids mix-ups with hyphenated last names or middle names that appear on one record but not another.
 
-Form I-693, known as the "Report of Medical Examination and Vaccination Record," is an official medical document that certifies you do not have any health conditions that would bar you from immigrating to the United States. It is a mandatory requirement for most Green Card applications.
+Before you come in, check with your immigration attorney or case preparer about whether you're filing the form with your I-485 or responding to a request from USCIS. The current filing instructions live on the [USCIS I-693 page](https://www.uscis.gov/i-693), and since they get updated from time to time, it's worth a fresh read.
 
-## Who Can Perform the I-693 Exam?
+## Who is allowed to complete the form
 
-Only physicians designated as **Civil Surgeons** by USCIS are authorized to perform this examination. At [Clínica Hispana Cruz #3](/services/examenes-inmigracion), we have certified Civil Surgeons who perform these exams every day in Houston.
+The signature on the form has to belong to a Civil Surgeon designated by USCIS; nobody else qualifies. A letter from your regular doctor won't do, and neither will a checkup from your home country. Our [immigration exam](/services/examenes-inmigracion) service is set up specifically for this step: the medical team reviews your history, performs the evaluation and fills out the form according to USCIS rules.
 
-## What Does the Immigration Medical Exam Include?
+## Tracking down vaccination records
 
-### Complete Physical Examination
-- Full medical history review
-- Vision and hearing evaluation
-- Mental health screening
-- Head-to-toe physical examination
+This is where many families get stuck. USCIS requires proof of certain vaccines based on each applicant's age and the current requirements, so the list isn't identical for everyone. A few places to look:
 
-### Laboratory Tests
-- Blood test for syphilis (RPR/VDRL)
-- Tuberculosis test (TB skin test or IGRA blood test)
-- Additional tests as required by USCIS guidelines
+- **Old shot cards from your home country.** A record from Mexico, El Salvador or Colombia can count if the dates are readable.
+- **Your kids' school.** Texas schools keep immunization records on file and can usually print a copy.
+- **Other clinics or the health department** where anyone in the family got vaccinated in the U.S.
 
-Our [clinical laboratory](/services/examenes-sangre) performs all of these tests on-site, so you will not need to go anywhere else to complete the lab requirements for the I-693.
+If something is missing, the medical team will tell you which doses you still need for your case, and you can get them on-site through our [vaccination](/services/vacunas) service. For school-age kids, it can make sense to knock out their [school physical](/services/examen-fisico-escolar) during the same trip.
 
-### Required Vaccinations
-USCIS requires that all applicants be up to date with the vaccination schedule recommended by the Advisory Committee on Immunization Practices (ACIP). Below are the most commonly required vaccines:
+## What the evaluation covers
 
-- **Hepatitis A:** 2-dose series; protects against viral liver infection
-- **Hepatitis B:** 3-dose series; required for all applicants
-- **Influenza (flu):** One annual dose; required during flu season
-- **Measles, Mumps, and Rubella (MMR):** 2 doses; especially important for those born before 1957
-- **Tetanus, Diphtheria, and Pertussis (Tdap/Td):** Booster every 10 years
-- **Varicella (chickenpox):** 2 doses if you did not have the illness as a child
-- **Meningococcal:** Required for certain age groups
-- **Pneumococcal:** For older adults or those with chronic conditions
-- **COVID-19:** Complete schedule per current USCIS guidelines
-- **HPV (Human Papillomavirus):** For applicants ages 11 to 26
+Not every part applies the same way to every family member, but in general you can expect:
 
-If you have already received some vaccines, bring your vaccination card or medical records. The Civil Surgeon will determine which vaccines are missing and only administer the ones you actually need.
+- **A health history review**, including past illnesses, hospital stays, medications and mental health. Be straightforward; your answers become part of your immigration file.
+- **A physical exam** covering eyes, ears, skin, heart, lungs and other body systems.
+- **Tuberculosis screening** according to USCIS requirements for the applicant's age, done through our [TB testing](/services/prueba-tuberculosis) service.
+- **Blood tests** USCIS requires for certain age groups, such as syphilis screening, collected with support from our [lab work](/services/examenes-sangre) service.
+- **A vaccine review** comparing your records against what USCIS asks for.
 
-## How Much Does the I-693 Exam Cost in Houston?
+If any result calls for a closer look, the medical team walks you through the next step and helps arrange a referral when one is needed.
 
-Costs vary by clinic. At Clínica Hispana Cruz #3, we offer competitive pricing that includes:
-- Complete physical examination
-- Completed and signed Form I-693
-- Full consultation in Spanish or English
+## After the visit: the sealed envelope
 
-Vaccines are billed separately based on which ones you need.
+The completed form is handed to you in a sealed envelope, and that seal is what makes it valid for USCIS. Don't open it, peel it back or fold it. Keep it somewhere dry with the rest of your filing packet. If you're given anything outside the envelope, such as a copy of your vaccine record, make a photocopy for your own files.
 
-## What Documents Should I Bring?
+If your attorney is mailing the packet, give them the envelope exactly as you received it. If you're bringing it to a USCIS appointment, slip it into a stiff folder so it arrives flat.
 
-1. **Valid photo ID** (passport, country ID, or driver's license)
-2. **Vaccination records** (if available)
-3. **Medical history** (if you have chronic conditions)
-4. **USCIS case documents** related to your case
+## Don't put your own health on hold
 
-## How Long Does the Process Take?
+The I-693 is not a full checkup. Its job is to satisfy immigration requirements. If the exam flagged high blood pressure or elevated blood sugar, follow up through our [chronic condition care](/services/condiciones-cronicas). A green card process can stretch out, and walking into your interview with your health under control is one less thing to worry about.
 
-At our Houston clinic, the examination is typically completed in **1-2 hours**. If you need additional vaccines, a follow-up visit may be needed to complete the series.
+## Finding us
 
-Form I-693 is valid for **2 years** from the date of the Civil Surgeon's signature, or 4 years if vaccinations were administered during that period.
-
-## Common Mistakes to Avoid
-
-Many applicants make errors that delay their immigration process or invalidate their I-693. These are the most frequent ones:
-
-### 1. Not bringing vaccination records
-If you don't bring proof of previous vaccines, the Civil Surgeon will be required to repeat them, which increases the cost and the number of visits. Find your vaccination card before your appointment.
-
-### 2. Choosing a doctor not authorized by USCIS
-Only **designated Civil Surgeons** may sign the I-693. If another physician performs the exam, USCIS will reject it. Always verify that the clinic appears on the official USCIS list.
-
-### 3. Opening the sealed envelope
-Once the Civil Surgeon seals the envelope containing the form, you **must not open it**. If the envelope arrives opened or damaged, USCIS will reject it and you will have to repeat the exam.
-
-### 4. Submitting the form after it has expired
-The I-693 is valid for 2 years from the Civil Surgeon's signature date, and 4 years if vaccines were administered during that period. Plan your timeline carefully to avoid repeating the process.
-
-### 5. Not disclosing prior medical conditions
-Concealing health conditions can lead to more serious complications during the process. Health problems do not necessarily prevent immigration; there are waivers available for many conditions.
-
-### 6. Waiting until the last minute
-In Houston, clinics with Civil Surgeons may have wait times, especially during high-demand periods. Schedule your appointment at least 2–3 weeks before your USCIS interview.
-
-## What Happens if My I-693 is Rejected?
-
-If USCIS rejects your I-693 form, don't panic. There are several common reasons and solutions for each:
-
-### The form is incomplete or has errors
-USCIS may return the form if sections are blank, signatures are missing, or information is incorrect. In this case, you will need to return to the Civil Surgeon to have it corrected or completed. At Clínica Hispana Cruz #3, we carefully review the form before sealing it.
-
-### The envelope arrived opened or damaged
-You will need to repeat the full medical exam. Make sure to keep the envelope in a safe place and do not open it under any circumstances.
-
-### The form is expired
-If you submitted the I-693 after its expiration date, you will need a new exam. Keep track of the form's signature date and calculate the deadlines with your immigration attorney.
-
-### A medical condition requires additional evaluation
-In some cases, USCIS may request additional specialist evaluations. The Civil Surgeon will guide you through the next steps, and in many cases it is possible to request a medical waiver from USCIS.
-
-If your form was rejected, contact us. We can help you understand why and schedule a new exam or correct the issue as quickly as possible.
-
-## Tips for Your Appointment
-
-### Before Your Visit
-- Gather all vaccination records
-- List all medications you currently take
-- Prepare your medical history information
-
-### During the Exam
-- Be honest about your health history
-- Ask questions if you don't understand something
-- Our staff speaks Spanish
-
-### After the Exam
-- Keep a copy of the form
-- Do not open the sealed envelope
-- Submit the form with your USCIS application
-
-## Why Choose Clínica Hispana Cruz #3?
-
-- **USCIS-certified Civil Surgeons** with experience
-- **100% Spanish-language service**
-- **Same-day results** in most cases
-- **Competitive, transparent pricing**
-- **Convenient location** in Houston TX
-- **Walk-in appointments** available
-
-## Schedule Your Exam Today
-
-Don't let the medical exam delay your immigration process. Contact us today to schedule your [I-693 immigration exam](/services/examenes-inmigracion).
-
-**Clínica Hispana Cruz #3**
-- Phone: (832) 323-2330
-- Address: 5411 S Braeswood Blvd, Houston, TX 77096
-- Hours: Monday-Sunday 9AM-9PM
-
-*This article is for informational purposes only and does not constitute legal advice. Consult a licensed immigration attorney for questions about your specific case.*
+Clínica Hispana Cruz #3 is at 5411 S Braeswood Blvd in the Meyerland area, a short drive from Bellaire Blvd and the 610 Loop. Because the doors stay open 9:00 AM to 9:00 PM on Saturdays and Sundays too, and the line simply moves first come, first served, bringing the kids on a day off from school is easy. Parking is free, the entrance is wheelchair accessible, and you can message us on WhatsApp if you're unsure what to bring. Deals on other services are posted on our [promotions](/promociones) page.
