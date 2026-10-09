@@ -1,4 +1,4 @@
-import { SERVICES, PROMOTIONS, SITE_CONFIG, CONTACT_INFO, SOCIAL_LINKS, CONTENT_LAST_MODIFIED } from "@/lib/constants";
+import { SERVICES, PROMOTIONS, SITE_CONFIG, CONTACT_INFO, SOCIAL_LINKS, CONTENT_LAST_MODIFIED, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getBlogPosts } from "@/lib/blog";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
@@ -43,20 +43,21 @@ export function buildLlmsTxt(): string {
     `> ${SITE_CONFIG.name} is a Spanish-speaking primary care and minor urgent care clinic at ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip} (southwest Houston, Braeswood near Meyerland). Open every day 9:00 AM–9:00 PM. Walk-ins welcome, no health insurance required, self-pay pricing. Care is provided 100% in Spanish; staff is bilingual (Spanish/English).`
   );
   lines.push("");
-  lines.push(`Site language: Spanish is the default (no URL prefix). English pages use the /en prefix, e.g. ${BASE}/en/services/examen-dot`);
-  lines.push(`Content last updated: ${CONTENT_LAST_MODIFIED}. Full version: ${BASE}/llms-full.txt`);
+  lines.push(`Site language: Spanish is the default (no URL prefix). English pages use the /en prefix, e.g. [${BASE}/en/services/examen-dot](${BASE}/en/services/examen-dot)`);
+  lines.push(`Content last updated: ${CONTENT_LAST_MODIFIED}. Full version: [${BASE}/llms-full.txt](${BASE}/llms-full.txt)`);
   lines.push("");
   lines.push("## Key facts");
   lines.push(`- Address: ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}`);
+  lines.push(`- Directions: [Google Maps](${CONTACT_INFO.googleMapsUrl})`);
   lines.push(`- Phone: ${CONTACT_INFO.phoneFormatted.replace("+1 ", "")}`);
-  lines.push(`- WhatsApp (chat only, shared by all Clínicas Cruz locations): ${CONTACT_INFO.whatsappDisplay}`);
+  lines.push(`- WhatsApp (chat only, shared by all Clínicas Cruz locations): [${CONTACT_INFO.whatsappDisplay}](https://wa.me/${CONTACT_INFO.whatsapp})`);
   lines.push(`- Email: ${CONTACT_INFO.email}`);
   lines.push("- Hours: Monday–Sunday, 9:00 AM–9:00 PM");
   lines.push("- Appointments: not required (walk-in); phone reservations available");
-  lines.push("- Insurance: not required; cash and credit/debit cards accepted; payment plans available");
+  lines.push("- Insurance: not required; cash and credit/debit cards accepted");
   lines.push("- Languages: Spanish (primary), English");
-  lines.push("- Google rating: 4.9+ stars, hundreds of reviews");
-  lines.push("- Access: free parking, wheelchair accessible, bus access");
+  lines.push(`- Google rating: ${GOOGLE_REVIEWS_DATA.averageRating.toFixed(1)} of 5 (${GOOGLE_REVIEWS_DATA.totalReviews} reviews)`);
+  lines.push("- Access: free parking, wheelchair-accessible entrance and restroom");
   lines.push("- Areas served: Meyerland, Braeswood, Westbury, Bellaire, Sharpstown, Gulfton and southwest Houston");
   lines.push("- Lab, ultrasound and EKG are performed on site; lab result turnaround varies by test");
   lines.push("");
@@ -72,7 +73,7 @@ export function buildLlmsTxt(): string {
     lines.push(`### ${group.label}`);
     for (const s of group.services) {
       const en = getLocalizedService(s, "en");
-      lines.push(`- [${en.title}](${BASE}/services/${s.slug}): ${en.description}`);
+      lines.push(`- [${en.title}](${BASE}/en/services/${s.slug}) ([español](${BASE}/services/${s.slug})): ${en.description}`);
     }
   }
   lines.push("");
@@ -87,7 +88,7 @@ export function buildLlmsTxt(): string {
   }
   lines.push("");
   lines.push("## Sister clinics (same owner, Clínicas Hispana Cruz group, Houston)");
-  for (const c of SISTER_CLINICS) lines.push(`- ${c.name}: ${c.url}`);
+  for (const c of SISTER_CLINICS) lines.push(`- [${c.name}](${c.url})`);
   lines.push(`- The WhatsApp line ${CONTACT_INFO.whatsappDisplay} is shared by all four clinics`);
   lines.push("");
   lines.push("## Profiles");
@@ -101,10 +102,10 @@ export function buildLlmsTxt(): string {
     ["X", SOCIAL_LINKS.x],
     ["YouTube", SOCIAL_LINKS.youtube],
   ];
-  for (const [label, url] of profiles) if (url) lines.push(`- ${label}: ${url}`);
+  for (const [label, url] of profiles) if (url) lines.push(`- [${label}](${url})`);
   lines.push("");
   lines.push("## Website");
-  lines.push(`${BASE} (sitemap: ${BASE}/sitemap.xml)`);
+  lines.push(`[${BASE}](${BASE}) (sitemap: [${BASE}/sitemap.xml](${BASE}/sitemap.xml))`);
   lines.push("");
   return lines.join("\n");
 }
@@ -125,7 +126,7 @@ export function buildLlmsFullTxt(): string {
       const url = `${BASE}${locale === "en" ? "/en" : ""}/services/${s.slug}`;
       parts.push("");
       parts.push(`## ${l.title} (${locale})`);
-      parts.push(`URL: ${url}`);
+      parts.push(`URL: [${url}](${url})`);
       parts.push("");
       parts.push(l.longDescription);
       const faqs = getServiceFAQs(s.slug, locale);
@@ -145,7 +146,7 @@ export function buildLlmsFullTxt(): string {
       const url = `${BASE}${locale === "en" ? "/en" : ""}/blog/${post.slug}`;
       parts.push("");
       parts.push(`## ${post.title} (${locale})`);
-      parts.push(`URL: ${url}`);
+      parts.push(`URL: [${url}](${url})`);
       parts.push(`Published: ${post.date}${post.dateModified ? ` · Updated: ${post.dateModified}` : ""} · Author: ${post.author}`);
       parts.push("");
       parts.push(post.content);
