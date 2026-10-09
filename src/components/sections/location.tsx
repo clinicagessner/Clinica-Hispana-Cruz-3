@@ -35,6 +35,7 @@ export async function Location() {
 
         {/* Bloque de definición de la entidad: hechos verificables que una IA o un buscador puede citar */}
         <div className="animate-on-scroll fade-up max-w-3xl mx-auto mb-12 text-center">
+          <h3 className="font-heading font-bold text-xl md:text-2xl text-white mb-3">{t("aboutTitle")}</h3>
           <p className="text-base md:text-lg text-white/80 leading-relaxed">{t("about")}</p>
           <Link
             href="/blog/bienvenidos-clinica-hispana-cruz-3"
