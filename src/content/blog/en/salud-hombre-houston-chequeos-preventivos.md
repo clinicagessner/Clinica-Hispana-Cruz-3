@@ -1,6 +1,6 @@
 ---
 slug: "salud-hombre-houston-chequeos-preventivos"
-title: "Men's Health in Houston: Preventive Checkups That Can Save Your Life"
+title: "Men's Health in Houston: Preventive Checkups"
 description: "Medical checkups for men in Houston TX with care in Spanish. Prostate (PSA), blood pressure, diabetes, cholesterol and more at Clínica Hispana Cruz #3."
 date: "2026-07-19"
 dateModified: "2026-10-09"

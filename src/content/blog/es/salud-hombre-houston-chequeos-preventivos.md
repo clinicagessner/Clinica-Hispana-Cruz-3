@@ -1,7 +1,7 @@
 ---
 slug: "salud-hombre-houston-chequeos-preventivos"
-title: "Salud del Hombre en Houston: Chequeos Preventivos que Pueden Salvarle la Vida"
-description: "Chequeos médicos para hombres en Houston TX con atención en español. Próstata (PSA), presión arterial, diabetes, colesterol y más en Clínica Hispana Cruz #3."
+title: "Salud del hombre en Houston: chequeos preventivos"
+description: "Chequeos para hombres en Houston TX, en español: próstata (PSA), presión arterial, diabetes, colesterol y más en Clínica Hispana Cruz #3."
 date: "2026-07-19"
 dateModified: "2026-10-09"
 author: "Clínica Hispana Cruz #3"

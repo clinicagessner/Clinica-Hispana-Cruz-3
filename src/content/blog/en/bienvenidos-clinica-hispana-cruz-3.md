@@ -1,7 +1,7 @@
 ---
 slug: "bienvenidos-clinica-hispana-cruz-3"
 title: "Clínica Hispana Cruz #3: Who We Are and How We Work"
-description: "Meet Clínica Hispana Cruz #3 in Houston, TX: a Spanish-speaking medical clinic at 5411 S Braeswood Blvd, open every day 9 AM to 9 PM, walk-ins welcome, no insurance required."
+description: "Meet Clínica Hispana Cruz #3 at 5411 S Braeswood Blvd, Houston: Spanish-speaking care every day 9 AM to 9 PM, walk-ins welcome, no insurance needed."
 date: "2026-03-16"
 dateModified: "2026-10-09"
 author: "Clínica Hispana Cruz #3"
