@@ -54,11 +54,11 @@ export const SOCIAL_LINKS: SocialLinks = {
   yelp: "https://www.yelp.com/biz/cl%C3%ADnica-hispana-cruz-3-houston-2",
 };
 
-// Google Reviews data - fallback cuando la Places API no responde
-// (valores reales del listado al 2026-07-03; en vivo se actualizan solos)
+// Google Reviews fallback (la Places API New provee los datos en vivo).
+// Valores verificados contra la web en producción (Places) el 9 oct 2026.
 export const GOOGLE_REVIEWS_DATA = {
-  totalReviews: 365,
-  averageRating: 4.9,
+  totalReviews: 422,
+  averageRating: 5.0,
   placeId: "ChIJIb8rwELrQIYR6O6DRfXZI4o",
 };
 

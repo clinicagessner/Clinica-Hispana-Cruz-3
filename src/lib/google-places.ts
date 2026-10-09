@@ -17,13 +17,14 @@ export interface GooglePlaceData {
 }
 
 // Places API (New) — https://places.googleapis.com/v1/places/{placeId}
-// (la legacy maps/api/place/details ya no se puede habilitar en proyectos nuevos)
-interface PlacesNewResponse {
+// La key del proyecto solo tiene habilitada la API nueva (la legacy devuelve REQUEST_DENIED).
+interface PlacesV1Response {
   rating?: number;
   userRatingCount?: number;
   reviews?: Array<{
-    rating: number;
-    text?: { text?: string };
+    rating?: number;
+    text?: { text?: string; languageCode?: string };
+    originalText?: { text?: string };
     relativePublishTimeDescription?: string;
     publishTime?: string;
     authorAttribution?: {
@@ -44,39 +45,50 @@ async function fetchGooglePlaceDetails(): Promise<GooglePlaceData | null> {
     return null;
   }
 
-  try {
-    const url = `https://places.googleapis.com/v1/places/${placeId}?languageCode=es`;
+  // Sin try/catch aquí: si falla, la promesa se rechaza y unstable_cache no
+  // guarda el fallo (se reintenta en la próxima petición).
+  {
+    const url = new URL(`https://places.googleapis.com/v1/places/${placeId}`);
+    url.searchParams.set("fields", "rating,userRatingCount,reviews");
+    url.searchParams.set("languageCode", "es");
 
-    const response = await fetch(url, {
-      headers: {
-        "X-Goog-Api-Key": apiKey,
-        "X-Goog-FieldMask": "rating,userRatingCount,reviews",
-      },
-      next: { revalidate: 604800 }, // Cache for 1 week (las reseñas cambian poco)
+    const response = await fetch(url.toString(), {
+      headers: { "X-Goog-Api-Key": apiKey },
+      // unstable_cache (abajo) es la única capa de caché; sin esto el fetch
+      // guardaría su propia copia en el Data Cache y podría servir datos viejos.
+      cache: "no-store",
     });
 
-    const data: PlacesNewResponse = await response.json();
+    if (!response.ok) {
+      throw new Error(`HTTP error: ${response.status}`);
+    }
 
-    if (!response.ok || data.error) {
-      console.error(
-        "Google Places API (New) error:",
-        response.status,
-        data.error?.status,
-        data.error?.message
-      );
-      return null;
+    const data: PlacesV1Response = await response.json();
+
+    if (data.error) {
+      throw new Error(`Google Places API error: ${data.error.status} ${data.error.message}`);
+    }
+
+    // Places omite `reviews` en silencio si el proyecto de la clave pierde la
+    // facturación: se trata como fallo para no cachear una respuesta vacía.
+    if (!data.reviews?.length) {
+      throw new Error("Google Places API: respuesta sin reseñas");
     }
 
     // Filter: only 5-star reviews with text
     const filteredReviews = (data.reviews ?? [])
-      .filter((review) => review.rating === 5 && (review.text?.text ?? "").trim().length > 0)
+      .filter(
+        (review) =>
+          review.rating === 5 && (review.text?.text ?? "").trim().length > 0
+      )
       .map((review) => ({
         author_name: review.authorAttribution?.displayName ?? "Paciente",
-        rating: review.rating,
+        rating: review.rating ?? 5,
         text: review.text?.text ?? "",
         time: review.publishTime ? Math.floor(Date.parse(review.publishTime) / 1000) : 0,
         relative_time_description: review.relativePublishTimeDescription ?? "",
-        profile_photo_url: review.authorAttribution?.photoUri || "/images/avatars/default.webp",
+        profile_photo_url:
+          review.authorAttribution?.photoUri || "/images/avatars/default.webp",
         author_url: review.authorAttribution?.uri,
       }));
 
@@ -85,18 +97,26 @@ async function fetchGooglePlaceDetails(): Promise<GooglePlaceData | null> {
       totalReviews: data.userRatingCount ?? 0,
       reviews: filteredReviews,
     };
-  } catch (error) {
-    console.error("Error fetching Google Place details:", error);
-    return null;
   }
 }
 
-// Cached version - revalidates weekly
-export const getGooglePlaceData = unstable_cache(
+// Cached version - revalidates every week. Solo se cachean respuestas buenas.
+// v3: clave renombrada para no heredar una entrada cacheada con el fallo
+// (la Data Cache de Vercel sobrevive a los deploys).
+const getCachedGooglePlaceData = unstable_cache(
   fetchGooglePlaceDetails,
-  ["google-place-data"],
+  ["google-place-data-v3"],
   {
     revalidate: 604800, // 1 week
     tags: ["google-reviews"],
   }
 );
+
+export async function getGooglePlaceData(): Promise<GooglePlaceData | null> {
+  try {
+    return await getCachedGooglePlaceData();
+  } catch (error) {
+    console.error("Error fetching Google Place details:", error);
+    return null;
+  }
+}
