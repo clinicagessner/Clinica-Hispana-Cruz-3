@@ -290,5 +290,11 @@
     "formSubtitle": "Leave us your details and we'll contact you to schedule your appointment.",
     "metaTitle": "Medical Promotions & Package Prices in Houston TX",
     "metaDescription": "Prices and promotions for medical packages at Clínica Hispana Cruz #3, Houston TX: general checkup, women's and men's checkups, hormone panel, intimate health and more. No insurance, walk-ins welcome, 100% in Spanish."
+  },
+  "medicalReview": {
+    "heading": "Medical review",
+    "reviewedBy": "Content reviewed by the {name} medical team.",
+    "published": "Published on",
+    "lastReviewed": "Last reviewed:"
   }
 }

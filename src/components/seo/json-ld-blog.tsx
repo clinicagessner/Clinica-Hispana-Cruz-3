@@ -1,4 +1,4 @@
-import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
+import { SITE_CONFIG } from "@/lib/constants";
 import type { BlogPost } from "@/types";
 
 type Props = {
@@ -12,6 +12,8 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
     locale === "en"
       ? `${SITE_CONFIG.baseUrl}/en/blog/${post.slug}`
       : `${SITE_CONFIG.baseUrl}/blog/${post.slug}`;
+
+  const clinicId = `${SITE_CONFIG.baseUrl}/#clinic`;
 
   const blogPostingSchema = {
     "@context": "https://schema.org",
@@ -33,22 +35,16 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
       name: post.author,
       url: SITE_CONFIG.baseUrl,
     },
-    publisher: {
-      "@type": "MedicalClinic",
-      name: SITE_CONFIG.name,
-      logo: {
-        "@type": "ImageObject",
-        url: `${SITE_CONFIG.baseUrl}${SITE_CONFIG.logoUrl}`,
-      },
-      address: {
-        "@type": "PostalAddress",
-        streetAddress: CONTACT_INFO.address,
-        addressLocality: CONTACT_INFO.city,
-        addressRegion: CONTACT_INFO.state,
-        postalCode: CONTACT_INFO.zip,
-        addressCountry: "US",
-      },
+    reviewedBy: {
+      "@type": "Organization",
+      "@id": clinicId,
+      name:
+        locale === "es"
+          ? `Equipo médico de ${SITE_CONFIG.name}`
+          : `${SITE_CONFIG.name} medical team`,
     },
+    publisher: { "@id": clinicId },
+    lastReviewed: post.dateModified || post.date,
     inLanguage: locale === "es" ? "es-MX" : "en-US",
     wordCount: post.content.split(/\s+/).length,
     articleSection: post.category || "Salud",

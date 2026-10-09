@@ -290,5 +290,11 @@
     "formSubtitle": "Déjenos sus datos y le contactamos para agendar su cita.",
     "metaTitle": "Promociones y Precios de Paquetes Médicos en Houston TX",
     "metaDescription": "Precios y promociones de paquetes médicos en Clínica Hispana Cruz #3, Houston TX: chequeo general, chequeos para mujeres y hombres, perfil hormonal, salud íntima y más. Sin seguro, sin cita previa y 100% en español."
+  },
+  "medicalReview": {
+    "heading": "Revisión médica",
+    "reviewedBy": "Contenido revisado por el equipo médico de {name}.",
+    "published": "Publicado el",
+    "lastReviewed": "Última revisión:"
   }
 }
