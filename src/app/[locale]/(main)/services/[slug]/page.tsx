@@ -39,7 +39,7 @@ import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
 import { ADS_LANDING_SLUGS, seoTitle, social } from "@/lib/seo";
-import { getBlogPost } from "@/lib/blog";
+import { getBlogPost, getPostsForService } from "@/lib/blog";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
 const iconMap: Record<string, React.ElementType> = {
@@ -133,15 +133,25 @@ export default async function ServicePage({ params }: Props) {
   const service = getLocalizedService(rawService, locale);
   const IconComponent = iconMap[service.icon] || Stethoscope;
 
-  // Get related services (same category, excluding current)
-  const relatedServices = SERVICES.filter(
-    (s) => s.category === rawService.category && s.id !== rawService.id
-  ).slice(0, 3).map((s) => getLocalizedService(s, locale));
+  // Relacionados rotativos (§12 B1): los 3 siguientes de la misma categoría a
+  // partir de este servicio, dando la vuelta; así cada servicio recibe enlaces
+  // de sus vecinos y no solo los 3 primeros de cada categoría.
+  const sameCategory = SERVICES.filter((s) => s.category === rawService.category);
+  const pos = sameCategory.findIndex((s) => s.id === rawService.id);
+  const rotated = [...sameCategory.slice(pos + 1), ...sameCategory.slice(0, pos)];
+  const nextInCatalog = SERVICES[(SERVICES.findIndex((s) => s.id === rawService.id) + 1) % SERVICES.length];
+  const relatedPool = rotated.length >= 3 ? rotated : [...rotated, nextInCatalog].filter((s) => s.id !== rawService.id);
+  const relatedServices = relatedPool.slice(0, 3).map((s) => getLocalizedService(s, locale));
+  const servicePosts = getPostsForService(rawService.slug, locale);
 
   // Posts del blog enlazados desde el servicio (enlazado interno servicio -> artículo)
-  const relatedPosts = (rawService.relatedPosts ?? [])
-    .map((postSlug) => getBlogPost(postSlug, locale))
-    .filter((post) => post !== null);
+  // (los de `relatedPosts` del servicio y los que lo citan en POST_SERVICES, sin repetir)
+  const relatedPosts = [
+    ...(rawService.relatedPosts ?? []).map((postSlug) => getBlogPost(postSlug, locale)),
+    ...servicePosts,
+  ]
+    .filter((post) => post !== null)
+    .filter((post, i, all) => all.findIndex((p) => p!.slug === post!.slug) === i);
 
   const localePath = locale === "en" ? "/en" : "";
   const breadcrumbs = [
