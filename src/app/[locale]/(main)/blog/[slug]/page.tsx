@@ -287,11 +287,11 @@ function convertMarkdownTables(markdown: string): string {
 }
 
 function parseMarkdown(markdown: string, localePath = ""): string {
-  let html = convertMarkdownTables(markdown)
+  // El H1 ya lo pinta la página: una línea "# Título" al inicio del cuerpo sobra
+  let html = convertMarkdownTables(markdown.replace(/^\s*# .*(\n+|$)/, ""))
     // Headers
     .replace(/^### (.*$)/gim, '<h3>$1</h3>')
     .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-    .replace(/^# (.*$)/gim, '<h1>$1</h1>')
     // Bold
     .replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>')
     // Italic
@@ -324,7 +324,9 @@ function parseMarkdown(markdown: string, localePath = ""): string {
     .replace(/<\/li><\/p>/g, '</li></ul>')
     .replace(/<\/li><br><li>/g, '</li><li>')
     .replace(/<br><ul>/g, '</p><ul>')
-    .replace(/<\/ul><br>/g, '</ul><p>');
+    .replace(/<\/ul><br>/g, '</ul><p>')
+    .replace(/<p><div class="overflow-x-auto">/g, '<div class="overflow-x-auto">')
+    .replace(/<\/table><\/div><\/p>/g, '</table></div>');
 
   return html;
 }
