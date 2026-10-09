@@ -38,6 +38,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
+import { ADS_LANDING_SLUGS, seoTitle, social } from "@/lib/seo";
 import { getBlogPost } from "@/lib/blog";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
@@ -94,31 +95,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const service = getLocalizedService(rawService, locale);
   const localePath = locale === "en" ? "/en" : "";
 
+  // Landings de Google Ads: su <title> no se toca sin aprobación (regla 5 de
+  // HERMES.md); conservan la plantilla del layout. El resto, ≤60 (seoTitle).
+  const isAdsLanding = ADS_LANDING_SLUGS.includes(slug);
+  const pageTitle = isAdsLanding ? `${service.title} | Clínica Hispana Cruz #3 Houston` : seoTitle(service.title);
+  const pageUrl = `${SITE_CONFIG.baseUrl}${localePath}/services/${slug}`;
+
   return {
-    title: service.title,
+    title: isAdsLanding ? service.title : { absolute: pageTitle },
     description: service.description,
     keywords: service.keywords,
     alternates: {
-      canonical: `${SITE_CONFIG.baseUrl}${localePath}/services/${slug}`,
+      canonical: pageUrl,
       languages: {
         es: `/services/${slug}`,
         en: `/en/services/${slug}`,
         "x-default": `/services/${slug}`,
       },
     },
-    openGraph: {
-      title: `${service.title} | ${SITE_CONFIG.name}`,
-      description: service.description,
-      url: `${SITE_CONFIG.baseUrl}${localePath}/services/${slug}`,
-      images: [
-        {
-          url: `${SITE_CONFIG.baseUrl}${service.image}`,
-          width: 1200,
-          height: 630,
-          alt: service.title,
-        },
-      ],
-    },
+    ...social(pageTitle, service.description, pageUrl, `${SITE_CONFIG.baseUrl}${service.image}`),
   };
 }
 
