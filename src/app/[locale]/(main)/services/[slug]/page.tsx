@@ -39,7 +39,7 @@ import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
 import { getBlogPost } from "@/lib/blog";
-import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ } from "@/components/seo/json-ld";
+import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
 
 const iconMap: Record<string, React.ElementType> = {
   Stethoscope,
@@ -431,7 +431,9 @@ export default async function ServicePage({ params }: Props) {
         description={service.description}
         image={service.image}
         url={`${SITE_CONFIG.baseUrl}${localePath}/services/${service.slug}`}
+        slug={service.slug}
       />
+      <JsonLdMedicalClinicRef />
       {getServiceFAQs(rawService.slug, locale).length > 0 && (
         <JsonLdFAQ questions={getServiceFAQs(rawService.slug, locale)} />
       )}

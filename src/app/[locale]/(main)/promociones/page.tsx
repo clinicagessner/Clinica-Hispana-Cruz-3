@@ -8,6 +8,7 @@ import {
   JsonLdBreadcrumb,
   JsonLdCollectionPage,
   JsonLdFAQ,
+  JsonLdMedicalClinicRef,
 } from "@/components/seo/json-ld";
 import { getLocalizedPromotions } from "@/lib/promotions";
 import { CONTACT_INFO, GOOGLE_REVIEWS_DATA, SITE_CONFIG } from "@/lib/constants";
@@ -111,6 +112,7 @@ export default async function PromotionsPage({ params }: Props) {
 
   return (
     <>
+      <JsonLdMedicalClinicRef />
       <JsonLdCollectionPage
         name={t("pageTitle")}
         description={t("pageSubtitle")}
