@@ -3,7 +3,7 @@ slug: "bienvenidos-clinica-hispana-cruz-3"
 title: "Clínica Hispana Cruz #3: Who We Are and How We Work"
 description: "Meet Clínica Hispana Cruz #3 in Houston, TX: a Spanish-speaking medical clinic at 5411 S Braeswood Blvd, open every day 9 AM to 9 PM, walk-ins welcome, no insurance required."
 date: "2026-03-16"
-dateModified: "2026-09-05"
+dateModified: "2026-10-09"
 author: "Clínica Hispana Cruz #3"
 image: "/images/blog/welcome.webp"
 featured: false
@@ -68,7 +68,7 @@ Free parking, wheelchair access and bus access. We serve patients from Meyerland
 - [Thyroid](/services/tiroides)
 - [Allergies](/services/alergias)
 - [Respiratory illnesses](/services/enfermedades-respiratorias)
-- [Men's health: prostate exam and testosterone](/services/salud-hombre)
+- [Men's health: prostate (PSA) exam](/services/salud-hombre)
 
 **Women's health**
 - [Gynecology and Pap smear](/services/ginecologia)
@@ -87,7 +87,7 @@ Free parking, wheelchair access and bus access. We serve patients from Meyerland
 
 **Exams and certificates**
 - [School and sports physical](/services/examen-fisico-escolar)
-- [DOT physical for CDL license](/services/examen-dot)
+- [DOT physical for CDL drivers](/services/examen-dot)
 - [I-693 immigration medical exam](/services/examenes-inmigracion)
 - [Drug and alcohol testing](/services/examen-alcohol-drogas)
 
@@ -109,7 +109,7 @@ Many people go to the emergency room for situations that aren't emergencies, and
 
 | Situation | Emergency room | Clínica Hispana Cruz #3 |
 |---|---|---|
-| Flu, fever, cough, infection | Long wait, high cost | Same-day care at an affordable price |
+| Flu, fever, cough, infection | Long wait, high cost | Walk-in care at an affordable price |
 | Diabetes or blood pressure management | Generally not available | Yes, with ongoing follow-up |
 | Immigration or DOT exam | Not available | Yes, with certificate |
 | Blood tests | Only in an emergency | Yes, no doctor's order needed |
@@ -123,7 +123,7 @@ For chest pain, severe trouble breathing, signs of a stroke or a serious acciden
 No. You can walk in Monday through Sunday from 9 AM to 9 PM. If you'd rather secure a time, call us and we'll reserve one for you.
 
 ### Do you see patients without health insurance?
-Yes. No insurance is needed. We offer self-pay pricing, accept cash and cards, and offer payment plans for treatments that require them.
+Yes. No insurance is needed. We offer self-pay pricing, and accept cash and cards. You hear the cost before you pay.
 
 ### Do you see children?
 Yes. We care for the whole family, including children: sick visits, vaccines, and school and sports physicals.
@@ -132,7 +132,7 @@ Yes. We care for the whole family, including children: sick visits, vaccines, an
 Yes. Our staff is bilingual. We serve in Spanish first and in English whenever the patient prefers it.
 
 ### How long do lab results take?
-It depends on the test. Some are ready the same day and others take a few days because they are processed at a reference lab. We tell you the turnaround when we take the sample.
+It depends on the test. Some come back quickly at the clinic and others are processed at a reference lab. We tell you the turnaround when we take the sample.
 
 ## Visit us
 

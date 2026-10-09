@@ -57,7 +57,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       "doctor hispano Houston",
       "clínica médica Houston TX",
       "medicina familiar Houston",
-      "urgencias menores Houston",
       "laboratorio clínico Houston",
       "Hispanic clinic Houston",
       "Spanish speaking doctor Houston",

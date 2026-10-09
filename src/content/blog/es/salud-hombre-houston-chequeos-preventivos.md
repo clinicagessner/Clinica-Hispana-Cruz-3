@@ -1,8 +1,9 @@
 ---
 slug: "salud-hombre-houston-chequeos-preventivos"
 title: "Salud del Hombre en Houston: Chequeos Preventivos que Pueden Salvarle la Vida"
-description: "Chequeos médicos para hombres en Houston TX con atención en español. Próstata (PSA), presión arterial, diabetes, testosterona y más en Clínica Hispana Cruz #3."
+description: "Chequeos médicos para hombres en Houston TX con atención en español. Próstata (PSA), presión arterial, diabetes, colesterol y más en Clínica Hispana Cruz #3."
 date: "2026-07-19"
+dateModified: "2026-10-09"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -12,7 +13,7 @@ keywords:
   - "chequeo médico hombres Houston"
   - "examen próstata PSA Houston"
   - "salud del hombre en español"
-  - "examen testosterona Houston TX"
+  - "chequeo de colesterol hombres Houston"
   - "clínica hispana para hombres Houston"
 ---
 
@@ -55,7 +56,7 @@ El [electrocardiograma](/services/electrocardiograma) evalúa el ritmo y la acti
 Diagnóstico y [control de condiciones crónicas](/services/condiciones-cronicas) con seguimiento continuo, ajuste de medicamentos y orientación sobre alimentación, todo en español.
 
 ### Infecciones Urinarias
-Ardor al orinar, urgencia frecuente o molestias pueden indicar una infección. Ofrecemos diagnóstico y [tratamiento de infecciones urinarias](/services/infecciones-urinarias) el mismo día.
+Ardor al orinar, urgencia frecuente o molestias pueden indicar una infección. Con el examen de orina en la clínica y, si hay infección, sale con su tratamiento el mismo día: así funciona el [tratamiento de infecciones urinarias](/services/infecciones-urinarias) para hombres que no pueden faltar otra jornada al trabajo.
 
 ### Salud Sexual e ITS
 Realizamos [pruebas de enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual) de forma completamente confidencial. Muchas ITS no dan síntomas — hacerse la prueba es la única forma de saber.

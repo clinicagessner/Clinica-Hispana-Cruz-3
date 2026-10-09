@@ -24,7 +24,7 @@ const conditions = [
 ];
 
 const features = [
-  { icon: CheckCircle, text: "Laboratorio con resultados el mismo día" },
+  { icon: CheckCircle, text: "Laboratorio en la clínica" },
   { icon: CalendarCheck, text: "Seguimiento médico continuo" },
   { icon: CheckCircle, text: "Atención 100% en español" },
   { icon: Phone, text: "Sin cita previa necesaria" },
