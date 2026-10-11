@@ -38,3 +38,27 @@ export function social(title: string, description: string, url: string, image: s
 // Servicios que son landing de Google Ads (RED.md): título, H1 y meta solo con
 // aprobación del usuario.
 export const ADS_LANDING_SLUGS = ["ginecologia", "condiciones-cronicas"];
+
+// Título y meta aprobados para las landings de Ads ("procede cruz-3", 2026-10-10).
+// Solo cambian el <title> y la meta; el H1 y el texto visible siguen siendo service.title/description.
+export const ADS_LANDING_META: Record<string, Partial<Record<"es" | "en", { title?: string; description?: string }>>> = {
+  "condiciones-cronicas": {
+    "es": {
+      "title": "Control de Diabetes, Presión y Colesterol | Clínica Cruz",
+      "description": "Control de diabetes, presión alta y colesterol en Houston, TX: laboratorio con A1C, ajuste de medicamentos y farmacia en la clínica. Sin cita, en español."
+    },
+    "en": {
+      "title": "Diabetes, Blood Pressure & Cholesterol Care | Clínica Cruz",
+      "description": "Diabetes, high blood pressure and cholesterol care in Houston, TX: A1C lab work, medication adjustment and on-site pharmacy. Walk-in, in Spanish."
+    }
+  },
+  "ginecologia": {
+    "es": {
+      "title": "Ginecología en Español: Papanicolaou y Cultivos | Cruz #3",
+      "description": "Ginecología en español en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. Sin cita, sin seguro y con precios accesibles."
+    },
+    "en": {
+      "title": "Gynecology in Spanish: Pap Smear & Cultures | Clínica Cruz"
+    }
+  }
+};

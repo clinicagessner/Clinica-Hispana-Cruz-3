@@ -38,7 +38,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
-import { ADS_LANDING_SLUGS, seoTitle, social } from "@/lib/seo";
+import { ADS_LANDING_META, ADS_LANDING_SLUGS, seoTitle, social } from "@/lib/seo";
 import { getBlogPost, getPostsForService } from "@/lib/blog";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalClinicRef, JsonLdMedicalWebPage } from "@/components/seo/json-ld";
 import { MedicalReview } from "@/components/seo/medical-review";
@@ -100,12 +100,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Landings de Google Ads: su <title> no se toca sin aprobación (regla 5 de
   // HERMES.md); conservan la plantilla del layout. El resto, ≤60 (seoTitle).
   const isAdsLanding = ADS_LANDING_SLUGS.includes(slug);
-  const pageTitle = isAdsLanding ? `${service.title} | Clínica Hispana Cruz #3 Houston` : seoTitle(service.title);
+  const adsMeta = ADS_LANDING_META[slug]?.[locale === "en" ? "en" : "es"];
+  const pageTitle = adsMeta?.title ?? (isAdsLanding ? `${service.title} | Clínica Hispana Cruz #3 Houston` : seoTitle(service.title));
+  const metaDescription = adsMeta?.description ?? service.description;
   const pageUrl = `${SITE_CONFIG.baseUrl}${localePath}/services/${slug}`;
 
   return {
-    title: isAdsLanding ? service.title : { absolute: pageTitle },
-    description: service.description,
+    title: isAdsLanding && !adsMeta?.title ? service.title : { absolute: pageTitle },
+    description: metaDescription,
     keywords: service.keywords,
     alternates: {
       canonical: pageUrl,
@@ -115,7 +117,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         "x-default": `/services/${slug}`,
       },
     },
-    ...social(pageTitle, service.description, pageUrl, `${SITE_CONFIG.baseUrl}${service.image}`),
+    ...social(pageTitle, metaDescription, pageUrl, `${SITE_CONFIG.baseUrl}${service.image}`),
   };
 }
 
