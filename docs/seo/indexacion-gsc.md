@@ -17,16 +17,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz3.com/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
 
-## Tanda 4 — cambios del 2026-10-09 (cierre B0-B4: landings de Google Ads (schema, FAQ, footer y entidad globales))
+## Tanda 4 — cambios del 2026-10-09 y 2026-10-10 (cierre B0-B4 + "procede cruz-3": título/meta de las landings de Ads)
 
-- [ ] https://www.clinicahispanacruz3.com/  — cambiada 2026-10-09
-- [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-10-09
-- [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-10-09
-- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-10-09
-- [ ] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-09
-- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-09
-
-## Tanda 13 — cambios del 2026-10-10 (procede cruz-3: título/meta de landings de Ads)
+- [ ] https://www.clinicahispanacruz3.com/  — cambiada 2026-10-10
+- [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-10-10
+- [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-10-10
+- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-10-10
+- [ ] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-10
+- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-10
 
 ## Tanda 14
 
