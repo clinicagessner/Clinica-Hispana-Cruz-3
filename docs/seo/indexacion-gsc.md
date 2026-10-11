@@ -12,10 +12,10 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 3  📨 ENVIADA 10/10/2026
+## Tanda 3  ✅ PEDIDA 11/10/2026
 
-- [ ] https://www.clinicahispanacruz3.com/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanacruz3.com/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-06 · sin datos de inspección · 0 impr.
 
 ## Tanda 4 — cambios del 2026-10-09 y 2026-10-10 (cierre B0-B4 + "procede cruz-3": título/meta de las landings de Ads)
 
