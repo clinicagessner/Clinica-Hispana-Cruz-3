@@ -12,14 +12,14 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 4 — cambios del 2026-10-09 y 2026-10-10 (cierre B0-B4 + "procede cruz-3": título/meta de las landings de Ads)  📨 ENVIADA 13/10/2026
+## Tanda 4 — cambios del 2026-10-09 y 2026-10-10 (cierre B0-B4 + "procede cruz-3": título/meta de las landings de Ads)  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.clinicahispanacruz3.com/  — cambiada 2026-10-10
-- [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-10-10
-- [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-10-10
-- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-10-10
-- [ ] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-10
-- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-10
+- [x] https://www.clinicahispanacruz3.com/  — cambiada 2026-10-10
+- [x] https://www.clinicahispanacruz3.com/en  — cambiada 2026-10-10
+- [x] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-10-10
+- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-10-10
+- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-10
+- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-10
 
 ## Tanda 5
 
