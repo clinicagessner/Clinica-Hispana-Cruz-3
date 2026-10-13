@@ -68,6 +68,7 @@ export function getRelatedPosts(slug: string, locale: string = "es", limit: numb
 export const POST_SERVICES: Record<string, string[]> = {
   "atencion-medica-sin-seguro-houston": ["condiciones-cronicas", "examen-fisico-escolar", "farmacia"],
   "bienvenidos-clinica-hispana-cruz-3": ["suturas-heridas", "unas-encarnadas", "alergias", "curacion-heridas"],
+  "diabetes-infecciones-urinarias-prevencion": ["infecciones-urinarias", "condiciones-cronicas", "examenes-sangre"],
   "control-diabetes-houston-guia-pacientes": ["condiciones-cronicas", "examenes-sangre", "electrocardiograma"],
   "examen-dot-cdl-camioneros-houston": ["examen-dot", "examen-alcohol-drogas", "prueba-tuberculosis"],
   "gripe-diabetes-presion-alta-primer-sintoma": ["enfermedades-respiratorias", "prueba-strep", "vacunas"],
