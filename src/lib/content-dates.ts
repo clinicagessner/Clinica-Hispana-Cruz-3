@@ -6,6 +6,7 @@
 export const SERVICES_LAST_REVIEWED = "2026-10-09";
 export const SERVICE_DATES: Record<string, string> = {
   farmacia: "2026-10-15",
+  "infecciones-urinarias": "2026-10-15",
   "condiciones-cronicas": "2026-10-15",
   tiroides: "2026-10-15",
   "enfermedades-transmision-sexual": "2026-10-15",

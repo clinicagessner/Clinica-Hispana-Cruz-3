@@ -3,7 +3,7 @@ slug: "diabetes-infecciones-urinarias-prevencion"
 title: "Diabetes e infecciones urinarias: por qué y cómo evitarlas"
 description: "Con diabetes, el azúcar alta facilita las infecciones de orina y a veces casi no dan síntomas. Señales discretas, prevención y cuándo venir a Cruz #3."
 date: "2026-10-13"
-dateModified: "2026-10-13"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -64,7 +64,7 @@ No existe una fórmula que evite todas las infecciones, pero estas medidas ayuda
 
 Con diabetes conviene no "esperar a ver" una molestia urinaria. Venga a consulta si nota ardor, ganas frecuentes, sangre en la orina, dolor en la parte baja del vientre o cualquiera de las señales discretas de la tabla.
 
-Cuando llega con una molestia así al área de [infecciones urinarias](/services/infecciones-urinarias), le hacemos el examen de orina en la clínica y, si hay infección, sale con su tratamiento el mismo día; antes de indicarlo, el equipo médico repasa la lista de lo que usted toma para el azúcar, los valores de sus riñones si trae análisis recientes y cuántas veces le ha ocurrido lo mismo en el último año. Cuando hace falta saber exactamente qué bacteria es, se envía un urocultivo, cuyo resultado tarda unos días; si aparece algo que cambie el plan, se le avisa.
+Cuando llega con una molestia así al área de [infecciones urinarias](/services/infecciones-urinarias), le hacemos el examen de orina en la clínica y, si hay infección, ese mismo día enviamos su receta a la farmacia que usted elija; antes de indicar el tratamiento, el equipo médico repasa la lista de lo que usted toma para el azúcar, los valores de sus riñones si trae análisis recientes y cuántas veces le ha ocurrido lo mismo en el último año. Cuando hace falta saber exactamente qué bacteria es, se envía un urocultivo, cuyo resultado tarda unos días; si aparece algo que cambie el plan, se le avisa.
 
 Una infección suele mover la glucosa, así que también puede ser buen momento para revisar el panorama completo. En nuestro [laboratorio de análisis de sangre](/services/examenes-sangre) se puede medir el A1C y la función de los riñones, y si sus números vienen fuera de meta, el programa de [control de diabetes, presión alta y colesterol](/services/condiciones-cronicas) le ayuda a ajustar el plan con seguimiento. Para las mujeres con comezón o flujo, el servicio de [ginecología](/services/ginecologia) permite revisar si se trata de un hongo y tratarlo.
 

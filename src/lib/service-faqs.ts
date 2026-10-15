@@ -347,7 +347,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Me arde al orinar y voy al baño a cada rato, ¿qué me hacen en la visita?",
-        "answer": "El equipo médico te pregunta por tus molestias, revisa si tienes fiebre o dolor en la espalda y te hace el examen de orina en la clínica y, si hay infección, sales con tu tratamiento el mismo día, junto con indicaciones claras sobre cómo tomarlo, cuánta agua beber y qué señales te obligan a regresar."
+        "answer": "El equipo médico te pregunta por tus molestias, revisa si tienes fiebre o dolor en la espalda y te hace el examen de orina en la clínica y, si hay infección, ese mismo día enviamos tu receta electrónica a la farmacia que elijas, junto con indicaciones claras sobre cómo tomar el tratamiento, cuánta agua beber y qué señales te obligan a regresar."
       },
       {
         "question": "¿Por qué a veces piden un urocultivo y cuándo debo volver?",
@@ -361,7 +361,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "It burns when I pee and I keep running to the bathroom. What happens at the visit?",
-        "answer": "The medical team asks about your symptoms, checks for fever or back pain, and runs a urine test at the clinic and, if there is an infection, you leave with your treatment the same day, along with clear instructions on how to take it, how much water to drink and which warning signs mean you should come back."
+        "answer": "The medical team asks about your symptoms, checks for fever or back pain, and runs a urine test at the clinic and, if there is an infection, we send your prescription electronically to the pharmacy you choose that same day, along with clear instructions on how to take the treatment, how much water to drink and which warning signs mean you should come back."
       },
       {
         "question": "Why would I need a urine culture, and when should I return?",

@@ -3,7 +3,7 @@ slug: "diabetes-infecciones-urinarias-prevencion"
 title: "Diabetes and Urinary Infections: Why and How to Prevent"
 description: "High blood sugar makes urinary infections more likely, and with diabetes they can be quiet. Subtle signs, prevention tips and when to visit Cruz #3."
 date: "2026-10-13"
-dateModified: "2026-10-13"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -64,7 +64,7 @@ No routine prevents every infection, but these steps make a real difference:
 
 With diabetes, a urinary complaint isn't something to "wait and see." Come in if you notice burning, frequent urges, blood in the urine, lower belly pain or any of the quiet signs in the table above.
 
-When you come to our [urinary infection care](/services/infecciones-urinarias) area with this kind of complaint, we run a urine test at the clinic and, if there is an infection, you leave with your treatment the same day; before choosing it, the medical team reviews the list of what you take for your sugar, your kidney numbers if you bring recent lab work and how many times this has happened in the past year. When it's important to know exactly which bacteria is involved, a urine culture is sent out; that result takes a few days, and you'll be contacted if it changes the plan.
+When you come to our [urinary infection care](/services/infecciones-urinarias) area with this kind of complaint, we run a urine test at the clinic and, if there is an infection, we send your prescription to the pharmacy you choose that same day; before choosing the treatment, the medical team reviews the list of what you take for your sugar, your kidney numbers if you bring recent lab work and how many times this has happened in the past year. When it's important to know exactly which bacteria is involved, a urine culture is sent out; that result takes a few days, and you'll be contacted if it changes the plan.
 
 An infection tends to throw glucose off, so it can also be a good moment to look at the bigger picture. Our [blood testing lab](/services/examenes-sangre) can check your A1C and kidney function, and if your numbers are off target, our [diabetes, blood pressure and cholesterol program](/services/condiciones-cronicas) helps you adjust your plan with follow-up visits. For women dealing with itching or discharge, our [gynecology service](/services/ginecologia) can check whether it's a yeast infection and treat it.
 

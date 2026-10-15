@@ -3,7 +3,7 @@ slug: "salud-hombre-houston-chequeos-preventivos"
 title: "Men's Health in Houston: Preventive Checkups"
 description: "Medical checkups for men in Houston TX with care in Spanish. Prostate (PSA), blood pressure, diabetes, cholesterol and more at Clínica Hispana Cruz #3."
 date: "2026-07-19"
-dateModified: "2026-10-09"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/salud-hombre.webp"
 featured: false
@@ -56,7 +56,7 @@ An [electrocardiogram](/services/electrocardiograma) evaluates your heart's rhyt
 Diagnosis and [chronic condition management](/services/condiciones-cronicas) with ongoing follow-up, medication adjustments and nutrition guidance, all in Spanish.
 
 ### Urinary Tract Infections
-Burning when urinating, frequent urgency or discomfort can indicate an infection. With a urine test at the clinic and, if there is an infection, you leave with your treatment the same day, which is how our [urinary infection treatment](/services/infecciones-urinarias) works for men who can't miss another shift.
+Burning when urinating, frequent urgency or discomfort can indicate an infection. With a urine test at the clinic and, if there is an infection, your prescription is sent to your pharmacy the same day, which is how our [urinary infection treatment](/services/infecciones-urinarias) works for men who can't miss another shift.
 
 ### Sexual Health and STDs
 We perform [sexually transmitted disease testing](/services/enfermedades-transmision-sexual) in complete confidentiality. Many STDs cause no symptoms — getting tested is the only way to know.
