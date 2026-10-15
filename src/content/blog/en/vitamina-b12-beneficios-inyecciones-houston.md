@@ -3,7 +3,7 @@ slug: "vitamina-b12-beneficios-inyecciones-houston"
 title: "Low on Vitamin B12? Test Before You Get a Shot"
 description: "Who tends to run low on vitamin B12, how a blood test confirms it, and when injections make sense. Bilingual care near Meyerland in southwest Houston."
 date: "2026-08-18"
-dateModified: "2026-10-09"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/sueros-vitaminados.webp"
 featured: false
@@ -62,7 +62,7 @@ Finding low B12 is only half the job. The other half is figuring out why, becaus
 - If it's an **absorption issue** (age, surgery, medications or pernicious anemia), the medical team may recommend B12 injections, since a shot skips the gut entirely.
 - If you take **metformin** or acid reducers, don't stop them on your own. Your diabetes follow-up can continue through our [chronic condition care](/services/condiciones-cronicas), where the plan gets adjusted if needed.
 
-B12 injections are given only when the medical team orders them after reviewing your results. And if the medical team indicates a medication during that consultation, it's handed to you on-site at the clinic's [pharmacy](/services/farmacia).
+B12 injections are given only when the medical team orders them after reviewing your results. And if the medical team indicates a medication during that consultation, they send an [e-prescription](/services/farmacia) to the pharmacy you prefer.
 
 ## Food sources worth knowing
 

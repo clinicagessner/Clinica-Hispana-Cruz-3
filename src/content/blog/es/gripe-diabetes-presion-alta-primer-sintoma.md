@@ -3,7 +3,7 @@ slug: "gripe-diabetes-presion-alta-primer-sintoma"
 title: "Diabetes, presión alta y gripe: qué hacer al primer síntoma"
 description: "Si tiene diabetes o presión alta, la gripe puede complicarse más. Qué vigilar en casa, cuándo venir a Cruz #3 en Meyerland y cuándo ir a urgencias."
 date: "2026-10-06"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/enfermedades-respiratorias.webp"
 featured: false
@@ -64,7 +64,7 @@ Muchos pacientes de Meyerland y Braeswood nos cuentan que esperaron "a ver si se
 
 En Cruz #3 hacemos la [prueba rápida de flu y de COVID](/services/enfermedades-respiratorias), y el resultado sale en unos minutos. Con ese dato y con su historial, el equipo médico revisa cómo está su respiración, su presión y su glucosa en el momento, y decide el tratamiento. Si usted ya lleva su control con nosotros en el programa de [diabetes, presión alta y colesterol](/services/condiciones-cronicas), tenemos a mano sus lecturas anteriores, lo que ayuda a ver si algo se salió de lo habitual.
 
-Los medicamentos indicados en la consulta se entregan en la clínica: así evita una segunda parada con fiebre y regresa directo a su casa a recuperarse. Si la evaluación lo requiere, también podemos tomar una muestra en nuestro [laboratorio de análisis de sangre](/services/examenes-sangre).
+Si necesita medicamento, enviamos la receta electrónica a la farmacia que usted elija, cerca de su casa, para que la recoja cuando le quede mejor y vuelva pronto a descansar. Si la evaluación lo requiere, también podemos tomar una muestra en nuestro [laboratorio de análisis de sangre](/services/examenes-sangre).
 
 ## Cuándo no hay que esperar: urgencias o 911
 

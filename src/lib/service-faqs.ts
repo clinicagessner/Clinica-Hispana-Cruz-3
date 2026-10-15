@@ -471,7 +471,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Qué pasa si una de mis pruebas sale positiva?",
-        "answer": "El equipo médico te explica qué infección es, cómo se trata y qué cuidados tomar mientras completas el tratamiento, incluido cuándo es seguro volver a tener relaciones. Muchas de estas infecciones se curan con medicamentos que te llevas desde la clínica. Si quieres revisar varias infecciones a la vez, consulta el paquete de diagnóstico de ETS en [promociones](/promociones)."
+        "answer": "El equipo médico te explica qué infección es, cómo se trata y qué cuidados tomar mientras completas el tratamiento, incluido cuándo es seguro volver a tener relaciones. Muchas de estas infecciones se curan con medicamentos, y la receta se envía de forma electrónica a la farmacia que elijas. Si quieres revisar varias infecciones a la vez, consulta el paquete de diagnóstico de ETS en [promociones](/promociones)."
       }
     ],
     "faqsEn": [
@@ -852,22 +852,22 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "farmacia": {
     "faqs": [
       {
-        "question": "¿Puedo llevarme los medicamentos al terminar la consulta?",
-        "answer": "Sí: cuando terminas tu visita en la sede de S Braeswood, los medicamentos indicados en la consulta se entregan en la clínica junto con las instrucciones por escrito en español sobre la dosis y el horario, así que no necesitas manejar a otra farmacia ni hacer otra parada antes de empezar el tratamiento."
+        "question": "¿A qué farmacia mandan mi receta?",
+        "answer": "A la que tú elijas. Al terminar tu visita en la sede de S Braeswood te preguntamos cuál te queda más cómoda, cerca de tu casa o de tu trabajo, y enviamos la receta de forma electrónica. La clínica no tiene farmacia propia, así que no recoges medicamentos aquí: pasas por tu farmacia cuando te quede mejor."
       },
       {
-        "question": "¿También tienen medicamentos de venta libre?",
-        "answer": "Sí, hay productos de venta libre para molestias comunes como dolor, fiebre, gripe o alergias. Si no sabes cuál te conviene o ya tomas otros medicamentos, pregunta al personal antes de llevártelo, porque algunas combinaciones no son buenas para la presión alta, el estómago o el embarazo, y conviene elegir con esa información."
+        "question": "¿Qué datos de mi farmacia tengo que dar?",
+        "answer": "Basta con el nombre de la farmacia y la calle o la intersección donde está; si no la recuerdas, búscala en el celular durante la consulta. Si ya compras ahí tus medicamentos de siempre, elige esa misma, porque así tienen tu lista completa y pueden avisarte si una combinación no te conviene."
       },
       {
         "question": "¿Qué hago si olvido una dosis o el medicamento me cae mal?",
-        "answer": "Revisa las indicaciones escritas que recibiste con tu tratamiento, donde viene qué hacer si se te pasa una toma. Si tienes náusea fuerte, ronchas o cualquier reacción que te preocupe, deja de tomarlo y escríbenos por WhatsApp o ven a revisarte. Si se te hinchan la cara o los labios o te cuesta respirar, llama al 911."
+        "answer": "Repasa las indicaciones que te explicamos en la consulta y la etiqueta del frasco, donde viene qué hacer si se te pasa una toma. Si tienes náusea fuerte, ronchas o cualquier reacción que te preocupe, deja de tomarlo y escríbenos por WhatsApp o ven a revisarte. Si se te hinchan la cara o los labios o te cuesta respirar, llama al 911."
       }
     ],
     "faqsEn": [
       {
-        "question": "Do I need to stop at another pharmacy after my visit?",
-        "answer": "Usually not. The medications indicated during your visit are handed to you at the clinic before you leave, together with written instructions on the dose, the timing and whether to take them with food, so you can start treatment without an extra stop on the way home to Meyerland or Bellaire."
+        "question": "Where do you send my prescription?",
+        "answer": "To the pharmacy you choose. Before you leave the S Braeswood office we ask which one is most convenient, near home or work, and send the prescription electronically. The clinic has no pharmacy of its own, so you pick up your medicine there whenever it suits you, without carrying a paper prescription around Meyerland or Bellaire."
       },
       {
         "question": "Can the staff tell me if a cold medicine is safe with my blood pressure pills?",

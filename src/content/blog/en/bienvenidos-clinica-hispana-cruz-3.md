@@ -3,7 +3,7 @@ slug: "bienvenidos-clinica-hispana-cruz-3"
 title: "Clínica Hispana Cruz #3: Who We Are and How We Work"
 description: "Meet Clínica Hispana Cruz #3 at 5411 S Braeswood Blvd, Houston: Spanish-speaking care every day 9 AM to 9 PM, walk-ins welcome, no insurance needed."
 date: "2026-03-16"
-dateModified: "2026-10-09"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/blog/welcome.webp"
 featured: false
@@ -99,7 +99,7 @@ Free parking, wheelchair access and bus access. We serve patients from Meyerland
 - [Minor surgery](/services/cirugias-menores)
 - [Abscess drainage](/services/drenaje-abscesos)
 - [Ingrown toenails](/services/unas-encarnadas)
-- [Pharmacy](/services/farmacia)
+- [E-prescriptions](/services/farmacia)
 
 See the full list on our [services](/services) page.
 

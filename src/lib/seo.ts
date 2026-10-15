@@ -45,11 +45,11 @@ export const ADS_LANDING_META: Record<string, Partial<Record<"es" | "en", { titl
   "condiciones-cronicas": {
     "es": {
       "title": "Control de Diabetes, Presión y Colesterol | Cruz #3",
-      "description": "Control de diabetes, presión alta y colesterol en Houston, TX: laboratorio con A1C, ajuste de medicamentos y farmacia en la clínica. Sin cita, en español."
+      "description": "Control de diabetes, presión alta y colesterol en Houston, TX: laboratorio con A1C, ajuste de medicamentos y receta electrónica. Sin cita, en español."
     },
     "en": {
       "title": "Diabetes, Blood Pressure & Cholesterol Care | Cruz #3",
-      "description": "Diabetes, high blood pressure and cholesterol care in Houston, TX: A1C lab work, medication adjustment and on-site pharmacy. Walk-in, in Spanish."
+      "description": "Diabetes, high blood pressure and cholesterol care in Houston, TX: A1C lab work, medication adjustment and e-prescriptions. Walk-in, in Spanish."
     }
   },
   "ginecologia": {

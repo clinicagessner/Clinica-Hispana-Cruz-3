@@ -3,7 +3,7 @@ slug: "control-diabetes-houston-guia-pacientes"
 title: "Diabetes y calor en Houston: guía si trabajas afuera"
 description: "Si tienes diabetes y trabajas en construcción, jardinería o techos en el suroeste de Houston, aprende a cuidar tu azúcar con el calor y cuándo revisarte."
 date: "2026-03-19"
-dateModified: "2026-10-09"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
@@ -67,7 +67,7 @@ Trabajar duro no reemplaza el seguimiento. En el servicio de [condiciones cróni
 4. **Revisión de pies** en cada visita.
 5. **Ojos**: cuando hace falta un examen de retina, se orienta la referencia.
 
-Si nunca has entendido bien qué significan tus números, lee nuestra guía sobre [análisis de sangre para quienes trabajan por turnos](/blog/laboratorio-clinico-houston-analisis-sangre), que explica qué estudios piden ayuno y cuáles no. Si el plan cambia una dosis o agrega una pastilla nueva para controlar el azúcar o la presión, los medicamentos indicados en la consulta se entregan en la clínica, y así regresas a la obra el lunes con todo lo necesario para cumplir el tratamiento desde el primer turno.
+Si nunca has entendido bien qué significan tus números, lee nuestra guía sobre [análisis de sangre para quienes trabajan por turnos](/blog/laboratorio-clinico-houston-analisis-sangre), que explica qué estudios piden ayuno y cuáles no. Si el plan cambia una dosis o agrega una pastilla nueva para controlar el azúcar o la presión, enviamos la receta electrónica a la farmacia que te quede de camino, y así regresas a la obra el lunes con todo lo necesario para cumplir el tratamiento desde el primer turno.
 
 ## Señales para dejar la herramienta y venir
 

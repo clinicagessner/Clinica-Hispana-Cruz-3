@@ -3,7 +3,7 @@ slug: "control-diabetes-houston-guia-pacientes"
 title: "Diabetes and Houston Heat: A Guide for Outdoor Workers"
 description: "Have diabetes and work construction, roofing or landscaping in southwest Houston? How heat affects blood sugar, what to carry and which checkups matter."
 date: "2026-03-19"
-dateModified: "2026-10-09"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
@@ -67,7 +67,7 @@ A physical job doesn't replace follow-up care. Through [chronic condition manage
 4. **A foot check** at every visit.
 5. **Eyes**: when you need a retinal exam, the team helps set up the referral.
 
-If your lab numbers have always been a mystery, our article on [blood work for shift workers](/blog/laboratorio-clinico-houston-analisis-sangre) explains which tests need fasting and which don't. Medications prescribed during your visit are dispensed right at the clinic, so you can leave with what you need for the work week.
+If your lab numbers have always been a mystery, our article on [blood work for shift workers](/blog/laboratorio-clinico-houston-analisis-sangre) explains which tests need fasting and which don't. If a new medication is prescribed, we send it electronically to a pharmacy on your route, so you can pick it up before the work week starts.
 
 ## When to put the tools down and come in
 

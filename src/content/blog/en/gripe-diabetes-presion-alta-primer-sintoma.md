@@ -3,7 +3,7 @@ slug: "gripe-diabetes-presion-alta-primer-sintoma"
 title: "Diabetes, High Blood Pressure and Flu: What to Do First"
 description: "Living with diabetes or high blood pressure makes the flu riskier. What to watch at home, when to visit Cruz #3 in Meyerland and when to go to the ER."
 date: "2026-10-06"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/enfermedades-respiratorias.webp"
 featured: false
@@ -64,7 +64,7 @@ Many patients from Meyerland and Braeswood tell us they waited "to see if it wou
 
 Your visit at Cruz #3 usually starts with a [rapid flu and COVID test](/services/enfermedades-respiratorias); the answer is back in minutes, while you are still in the exam room. With that result and your history, the medical team checks your breathing, blood pressure and glucose on the spot and decides on treatment. If you already follow up with us in our [diabetes, blood pressure and cholesterol program](/services/condiciones-cronicas), your earlier readings are on file, which helps show whether something is off from your usual numbers.
 
-Any medication prescribed during your visit is handed to you at the clinic, which saves a feverish extra stop on the way back home to bed. If your evaluation calls for it, we can also draw a sample at our [blood testing lab](/services/examenes-sangre).
+If you need medication, we send the prescription electronically to the pharmacy you choose near home, so you can pick it up when it suits you and get back to resting. If your evaluation calls for it, we can also draw a sample at our [blood testing lab](/services/examenes-sangre).
 
 ## When not to wait: ER or 911
 

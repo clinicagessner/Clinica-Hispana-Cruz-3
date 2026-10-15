@@ -4,7 +4,12 @@
 // Fecha del catálogo según el historial de git; las excepciones van en
 // SERVICE_DATES con su propia fecha. Se sube solo cuando cambia el texto.
 export const SERVICES_LAST_REVIEWED = "2026-10-09";
-export const SERVICE_DATES: Record<string, string> = {};
+export const SERVICE_DATES: Record<string, string> = {
+  farmacia: "2026-10-15",
+  "condiciones-cronicas": "2026-10-15",
+  tiroides: "2026-10-15",
+  "enfermedades-transmision-sexual": "2026-10-15",
+};
 
 export function serviceLastReviewed(slug: string): string {
   return SERVICE_DATES[slug] ?? SERVICES_LAST_REVIEWED;

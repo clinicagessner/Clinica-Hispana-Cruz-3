@@ -3,7 +3,7 @@ slug: "vitamina-b12-beneficios-inyecciones-houston"
 title: "¿Te falta vitamina B12? Mídela antes de inyectarte"
 description: "Quién puede tener la vitamina B12 baja, cómo se confirma con un análisis de sangre y cuándo se indican inyecciones. En español en Meyerland, Houston."
 date: "2026-08-18"
-dateModified: "2026-10-09"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/sueros-vitaminados.webp"
 featured: false
@@ -62,7 +62,7 @@ Encontrar la B12 baja es solo la mitad del trabajo. La otra mitad es averiguar p
 - Si el problema es la **absorción** (por edad, cirugía, medicamentos o anemia perniciosa), el equipo médico puede indicar inyecciones de B12, ya que así la vitamina no depende del intestino.
 - Si tomas **metformina** o medicinas para la acidez, no las suspendas por tu cuenta. Tu control de diabetes puede seguir en el servicio de [condiciones crónicas](/services/condiciones-cronicas), donde se ajusta el plan si hace falta.
 
-Las inyecciones de B12 se aplican solo cuando el equipo médico las indica tras revisar tus resultados. Y si el equipo médico te indica algún medicamento en esa consulta, te lo entregan ahí mismo, en la [farmacia](/services/farmacia) de la sede.
+Las inyecciones de B12 se aplican solo cuando el equipo médico las indica tras revisar tus resultados. Y si el equipo médico te indica algún medicamento en esa consulta, envía tu [receta electrónica](/services/farmacia) a la farmacia que prefieras.
 
 ## Dónde encontrar B12 en tu comida
 

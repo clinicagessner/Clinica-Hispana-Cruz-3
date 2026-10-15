@@ -3,7 +3,7 @@ slug: "bienvenidos-clinica-hispana-cruz-3"
 title: "Clínica Hispana Cruz #3: Quiénes Somos y Cómo Trabajamos"
 description: "Conoce Clínica Hispana Cruz #3, en 5411 S Braeswood Blvd, Houston: atención en español todos los días de 9 AM a 9 PM, sin cita previa y sin seguro."
 date: "2026-03-16"
-dateModified: "2026-10-09"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Cruz #3"
 image: "/images/blog/welcome.webp"
 featured: false
@@ -99,7 +99,7 @@ Contamos con estacionamiento gratuito, acceso para sillas de ruedas y acceso en 
 - [Cirugías menores](/services/cirugias-menores)
 - [Drenaje de abscesos](/services/drenaje-abscesos)
 - [Uñas encarnadas](/services/unas-encarnadas)
-- [Farmacia](/services/farmacia)
+- [Receta electrónica](/services/farmacia)
 
 Puede ver la lista completa en nuestra página de [servicios](/services).
 
