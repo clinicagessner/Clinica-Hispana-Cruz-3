@@ -12,13 +12,25 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
+## Tanda 13 — cambios del 2026-10-15 (receta electrónica (sin farmacia))
+
+- [ ] https://www.clinicahispanacruz3.com/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz3.com/en/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz3.com/services/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz3.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz3.com/services/tiroides  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz3.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
+- [ ] https://www.clinicahispanacruz3.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
+
 ## Tanda 5
 
 - [ ] https://www.clinicahispanacruz3.com/blog/bienvenidos-clinica-hispana-cruz-3  — cambiada 2026-10-09 · rastreada 2026-09-06 · indexada · 531 impr.
 - [ ] https://www.clinicahispanacruz3.com/promociones  — cambiada 2026-10-09 · rastreada 2026-10-01 · indexada · 473 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/examen-alcohol-drogas  — cambiada 2026-10-09 · rastreada 2026-10-06 · indexada · 327 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/examen-dot  — cambiada 2026-10-09 · rastreada 2026-10-06 · indexada · pedida 2026-10-05 · 253 impr.
-- [ ] https://www.clinicahispanacruz3.com/services/farmacia  — cambiada 2026-10-09 · rastreada 2026-09-21 · indexada · 161 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/prueba-embarazo  — cambiada 2026-10-09 · rastreada 2026-09-11 · indexada · 149 impr.
 - [ ] https://www.clinicahispanacruz3.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-09 · rastreada 2026-09-11 · indexada · 145 impr.
 - [ ] https://www.clinicahispanacruz3.com/services  — cambiada 2026-10-09 · rastreada 2026-09-13 · indexada · 142 impr.
@@ -27,7 +39,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 6
 
-- [ ] https://www.clinicahispanacruz3.com/services/tiroides  — cambiada 2026-10-09 · rastreada 2026-09-10 · indexada · 78 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/ultrasonido  — cambiada 2026-10-09 · rastreada 2026-09-28 · indexada · 75 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/electrocardiograma  — cambiada 2026-10-09 · rastreada 2026-09-28 · indexada · 70 impr.
 - [ ] https://www.clinicahispanacruz3.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-09 · rastreada 2026-09-02 · indexada · 56 impr.
@@ -45,7 +56,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz3.com/services/prueba-strep  — cambiada 2026-10-09 · rastreada 2026-09-02 · indexada · 19 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/unas-encarnadas  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 19 impr.
 - [ ] https://www.clinicahispanacruz3.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-09 · rastreada 2026-09-21 · indexada · 17 impr.
-- [ ] https://www.clinicahispanacruz3.com/services/infecciones-urinarias  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 17 impr.
 - [ ] https://www.clinicahispanacruz3.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-09 · rastreada 2026-07-31 · indexada · 16 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/enfermedades-respiratorias  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 16 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/examen-fisico-escolar  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 13 impr.
@@ -55,7 +65,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [ ] https://www.clinicahispanacruz3.com/services/alergias  — cambiada 2026-10-09 · rastreada 2026-09-19 · indexada · 12 impr.
 - [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 11 impr.
-- [ ] https://www.clinicahispanacruz3.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 11 impr.
 - [ ] https://www.clinicahispanacruz3.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 10 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/curacion-heridas  — cambiada 2026-10-09 · rastreada 2026-07-27 · indexada · 6 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/suturas-heridas  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 3 impr.
@@ -74,7 +83,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz3.com/en/services/examen-dot  — cambiada 2026-10-09 · rastreada 2026-09-21 · indexada · pedida 2026-10-05 · 17 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/alergias  — cambiada 2026-10-09 · rastreada 2026-10-07 · indexada · 15 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/drenaje-abscesos  — cambiada 2026-10-09 · rastreada 2026-09-19 · indexada · 14 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/farmacia  — cambiada 2026-10-09 · rastreada 2026-09-24 · indexada · 12 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-09 · rastreada 2026-07-22 · indexada · 10 impr.
 
 ## Tanda 10
@@ -93,8 +101,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 11
 
 - [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-10-09 · rastreada 2026-10-06 · indexada · pedida 2026-10-06 · 3 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-09 · rastreada 2026-09-20 · indexada · 3 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/infecciones-urinarias  — cambiada 2026-10-09 · rastreada 2026-09-23 · indexada · 3 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-09 · rastreada 2026-09-15 · indexada · 2 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · pedida 2026-10-06 · 2 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · pedida 2026-10-06 · 1 impr.
@@ -105,7 +111,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 12
 
-- [ ] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · pedida 2026-10-06 · 1 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog  — cambiada 2026-10-09 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 0 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-13 · sin datos de inspección · 0 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 0 impr.
