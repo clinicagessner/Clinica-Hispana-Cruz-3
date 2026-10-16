@@ -62,3 +62,22 @@ export const ADS_LANDING_META: Record<string, Partial<Record<"es" | "en", { titl
     }
   }
 };
+
+// <title> y meta de servicios que no son landing de Ads (análisis diario 2026-10-16):
+// solo cambia lo que muestra Google; el H1 y el texto visible siguen igual.
+export const SERVICE_META: Record<string, Partial<Record<"es" | "en", { title?: string; description?: string }>>> = {
+  "examen-dot": {
+    "es": {
+      "title": "Examen Físico DOT en Houston: Examen Médico CDL | Cruz #3",
+      "description": "Exámenes médicos DOT para conductores CDL en Houston, TX: examen físico sin cita, en español, con certificado el mismo día y precios accesibles."
+    },
+    "en": {
+      "title": "DOT Physical Exam in Houston: CDL Medical Exam | Cruz #3",
+      "description": "DOT physical and CDL medical exam for truck drivers in Houston, TX: walk in, care in Spanish, same-day certificate and affordable pricing."
+    }
+  },
+  "examenes-sangre": {
+    "es": { "title": "Exámenes y Análisis de Sangre en Houston | Cruz #3" },
+    "en": { "title": "Blood Tests and Lab Work in Houston | Cruz #3" }
+  }
+};
