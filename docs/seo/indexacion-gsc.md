@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 14 — cambios del 2026-10-16 (análisis diario: título/meta de examen DOT y título de exámenes de sangre)  📨 ENVIADA 16/10/2026
+## Tanda 14 — cambios del 2026-10-16 (análisis diario: título/meta de examen DOT y título de exámenes de sangre)  ✅ PEDIDA 16/10/2026
 
-- [ ] https://www.clinicahispanacruz3.com/services/examen-dot  — cambiada 2026-10-16
-- [ ] https://www.clinicahispanacruz3.com/en/services/examen-dot  — cambiada 2026-10-16
-- [ ] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-10-16
-- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-10-16
-- [ ] https://www.clinicahispanacruz3.com/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanacruz3.com/en/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanacruz3.com/services/infecciones-urinarias  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanacruz3.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com/services/examen-dot  — cambiada 2026-10-16
+- [x] https://www.clinicahispanacruz3.com/en/services/examen-dot  — cambiada 2026-10-16
+- [x] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-10-16
+- [x] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-10-16
+- [x] https://www.clinicahispanacruz3.com/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com/en/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com/services/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
 
 ## Tanda 13 — cambios del 2026-10-15 (receta electrónica (sin farmacia))
 
