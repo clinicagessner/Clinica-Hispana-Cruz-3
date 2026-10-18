@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 22 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  📨 ENVIADA 18/10/2026
+## Tanda 22 — cambios del 2026-10-16 (páginas cambiadas sin pedir)  ✅ PEDIDA 18/10/2026
 
-- [ ] https://www.clinicahispanacruz3.com/services/tiroides  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanacruz3.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanacruz3.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
-- [ ] https://www.clinicahispanacruz3.com  — cambiada 2026-10-16 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 3700 impr.
-- [ ] https://www.clinicahispanacruz3.com/blog/bienvenidos-clinica-hispana-cruz-3  — cambiada 2026-10-15 · rastreada 2026-10-14 · indexada · 417 impr.
-- [ ] https://www.clinicahispanacruz3.com/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · pedida 2026-10-11 · 269 impr.
-- [ ] https://www.clinicahispanacruz3.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-09-21 · indexada · 14 impr.
-- [ ] https://www.clinicahispanacruz3.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-15 · rastreada 2026-08-29 · indexada · 10 impr.
-- [ ] https://www.clinicahispanacruz3.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-07-21 · indexada · 9 impr.
+- [x] https://www.clinicahispanacruz3.com/services/tiroides  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
+- [x] https://www.clinicahispanacruz3.com  — cambiada 2026-10-16 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 3700 impr.
+- [x] https://www.clinicahispanacruz3.com/blog/bienvenidos-clinica-hispana-cruz-3  — cambiada 2026-10-15 · rastreada 2026-10-14 · indexada · 417 impr.
+- [x] https://www.clinicahispanacruz3.com/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · pedida 2026-10-11 · 269 impr.
+- [x] https://www.clinicahispanacruz3.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-09-21 · indexada · 14 impr.
+- [x] https://www.clinicahispanacruz3.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-15 · rastreada 2026-08-29 · indexada · 10 impr.
+- [x] https://www.clinicahispanacruz3.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-07-21 · indexada · 9 impr.
 
 ## Tanda 23
 
