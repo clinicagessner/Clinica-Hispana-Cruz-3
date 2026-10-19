@@ -12,14 +12,14 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 29 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  📨 ENVIADA 19/10/2026
-- [ ] https://www.clinicahispanacruz3.com/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · 266 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/bienvenidos-clinica-hispana-cruz-3  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 2916 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-08-20 · indexada · 130 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · pedida 2026-10-11 · 124 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-15 · rastreada 2026-07-22 · indexada · 11 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-09-20 · indexada · 7 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · 5 impr.
+## Tanda 29 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  ✅ PEDIDA 19/10/2026
+- [x] https://www.clinicahispanacruz3.com/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · 266 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/bienvenidos-clinica-hispana-cruz-3  — cambiada 2026-10-15 · rastreada 2026-10-04 · indexada · 2916 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-15 · rastreada 2026-08-20 · indexada · 130 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-15 · rastreada 2026-10-11 · indexada · pedida 2026-10-11 · 124 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-15 · rastreada 2026-07-22 · indexada · 11 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-09-20 · indexada · 7 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · 5 impr.
 
 ## Tanda 23
 
