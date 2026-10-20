@@ -76,6 +76,7 @@ export const POST_SERVICES: Record<string, string[]> = {
   "laboratorio-clinico-houston-analisis-sangre": ["examenes-sangre", "tiroides", "examen-heces"],
   "salud-hombre-houston-chequeos-preventivos": ["salud-hombre", "infecciones-urinarias", "ultrasonido"],
   "salud-mujer-houston-servicios-ginecologia": ["ginecologia", "prueba-embarazo", "anticonceptivos", "extraccion-implantes"],
+  "ultrasonido-tiroides-bulto-cuello-houston": ["ultrasonido", "tiroides", "examenes-sangre"],
   "vitamina-b12-beneficios-inyecciones-houston": ["examenes-sangre", "sueros-vitaminados", "enfermedades-transmision-sexual", "drenaje-abscesos", "cirugias-menores"],
 };
 
