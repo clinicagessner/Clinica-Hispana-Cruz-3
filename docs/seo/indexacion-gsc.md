@@ -12,9 +12,9 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 41 — cambios del 2026-10-21 (páginas cambiadas sin pedir)  📨 ENVIADA 21/10/2026
-- [ ] https://www.clinicahispanacruz3.com/blog/ultrasonido-tiroides-bulto-cuello-houston  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/ultrasonido-tiroides-bulto-cuello-houston  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
+## Tanda 41 — cambios del 2026-10-21 (páginas cambiadas sin pedir)  ✅ PEDIDA 21/10/2026
+- [x] https://www.clinicahispanacruz3.com/blog/ultrasonido-tiroides-bulto-cuello-houston  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/ultrasonido-tiroides-bulto-cuello-houston  — cambiada 2026-10-20 · sin datos de inspección · 0 impr.
 
 ## Tanda 36
 
