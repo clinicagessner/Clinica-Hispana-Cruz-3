@@ -3,7 +3,7 @@ slug: "diabetes-infecciones-urinarias-prevencion"
 title: "Diabetes e infecciones urinarias: por qué y cómo evitarlas"
 description: "Con diabetes, el azúcar alta facilita las infecciones de orina y a veces casi no dan síntomas. Señales discretas, prevención y cuándo venir a Cruz #3."
 date: "2026-10-13"
-dateModified: "2026-10-15"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -68,7 +68,7 @@ Cuando llega con una molestia así al área de [infecciones urinarias](/services
 
 Una infección suele mover la glucosa, así que también puede ser buen momento para revisar el panorama completo. En nuestro [laboratorio de análisis de sangre](/services/examenes-sangre) se puede medir el A1C y la función de los riñones, y si sus números vienen fuera de meta, el programa de [control de diabetes, presión alta y colesterol](/services/condiciones-cronicas) le ayuda a ajustar el plan con seguimiento. Para las mujeres con comezón o flujo, el servicio de [ginecología](/services/ginecologia) permite revisar si se trata de un hongo y tratarlo.
 
-Si un resultado lo requiere, el servicio de urología básica orienta la referencia a un urólogo, por ejemplo cuando la vejiga no se vacía bien o las infecciones se repiten pese al tratamiento.
+Cuando la vejiga no se vacía bien o las infecciones se repiten pese al tratamiento, conviene una valoración más detallada; el equipo médico le explica los siguientes pasos.
 
 ## Señales de alarma: vaya a urgencias o llame al 911
 

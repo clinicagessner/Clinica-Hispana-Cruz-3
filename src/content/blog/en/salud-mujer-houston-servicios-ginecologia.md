@@ -3,7 +3,7 @@ slug: "salud-mujer-houston-servicios-ginecologia"
 title: "Women's Checkups in Houston for Busy Moms"
 description: "For southwest Houston moms who keep pushing back their own checkup: what a women's exam covers, birth control options and how to fit a visit in your week."
 date: "2026-03-20"
-dateModified: "2026-10-09"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/ginecologia.webp"
 featured: false
@@ -56,7 +56,7 @@ A late period when you already have little ones can bring up every feeling at on
 
 ## When you need more than a basic visit
 
-The clinic provides basic gynecology. If your exam turns up something that calls for a colposcopy, a mammogram or a closer look, the team helps arrange the referral as part of your care, and in some cases the first step can be an [ultrasound](/services/ultrasonido) right here.
+The clinic provides basic gynecology in Spanish. If your exam turns up something that calls for a colposcopy, a mammogram or a closer look, the medical team walks you through the next steps, and in some cases the first step can be an [ultrasound](/services/ultrasonido) right here.
 
 ## Making room for it in your week
 

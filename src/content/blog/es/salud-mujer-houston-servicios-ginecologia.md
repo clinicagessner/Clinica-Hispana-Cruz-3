@@ -3,7 +3,7 @@ slug: "salud-mujer-houston-servicios-ginecologia"
 title: "Chequeo de la mujer en Houston para mamás ocupadas"
 description: "Para mamás del suroeste de Houston que siempre posponen su propia revisión: qué incluye un chequeo de la mujer, anticonceptivos y cómo hacerle espacio."
 date: "2026-03-20"
-dateModified: "2026-10-09"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/ginecologia.webp"
 featured: false
@@ -56,7 +56,7 @@ Un retraso cuando ya tienes hijos pequeños puede traer de todo: alegría, preoc
 
 ## Cuando hace falta ir más allá
 
-La clínica ofrece ginecología básica. Si en tu revisión aparece algo que requiere colposcopia, mastografía o un estudio más detallado, se orienta la referencia como parte del servicio, y en algunos casos se puede empezar con un [ultrasonido](/services/ultrasonido) en la misma sede.
+La clínica ofrece ginecología básica en español. Si en tu revisión aparece algo que requiere colposcopia, mastografía o un estudio más detallado, el equipo médico te explica los siguientes pasos, y en algunos casos se puede empezar con un [ultrasonido](/services/ultrasonido) en la misma sede.
 
 ## Cómo hacerle espacio en tu semana
 

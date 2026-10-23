@@ -3,7 +3,7 @@ slug: "diabetes-infecciones-urinarias-prevencion"
 title: "Diabetes and Urinary Infections: Why and How to Prevent"
 description: "High blood sugar makes urinary infections more likely, and with diabetes they can be quiet. Subtle signs, prevention tips and when to visit Cruz #3."
 date: "2026-10-13"
-dateModified: "2026-10-15"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -68,7 +68,7 @@ When you come to our [urinary infection care](/services/infecciones-urinarias) a
 
 An infection tends to throw glucose off, so it can also be a good moment to look at the bigger picture. Our [blood testing lab](/services/examenes-sangre) can check your A1C and kidney function, and if your numbers are off target, our [diabetes, blood pressure and cholesterol program](/services/condiciones-cronicas) helps you adjust your plan with follow-up visits. For women dealing with itching or discharge, our [gynecology service](/services/ginecologia) can check whether it's a yeast infection and treat it.
 
-If a result calls for it, our basic urology service guides a referral to a urologist, for example when the bladder doesn't empty well or infections keep returning despite treatment.
+When the bladder doesn't empty well or infections keep returning despite treatment, a more detailed evaluation is worthwhile; the medical team walks you through the next steps.
 
 ## Red flags with diabetes: the ER or 911, not the clinic
 

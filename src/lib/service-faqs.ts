@@ -171,7 +171,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Mi papanicolaou salió anormal, ¿quiere decir que tengo cáncer?",
-        "answer": "No. La mayoría de los resultados anormales son cambios leves en las células, muchas veces por el virus del papiloma humano, que se vigilan. El equipo médico te explica qué tipo de cambio apareció y qué sigue: repetir la prueba más adelante, agregar la prueba de VPH o hacer una colposcopia, para la cual se orienta la referencia."
+        "answer": "No. La mayoría de los resultados anormales son cambios leves en las células, muchas veces por el virus del papiloma humano, que se vigilan. El equipo médico te explica qué tipo de cambio apareció y qué sigue: repetir la prueba más adelante, agregar la prueba de VPH o hacer una colposcopia."
       }
     ],
     "faqsEn": [
@@ -185,7 +185,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "My Pap came back abnormal. Does that mean cancer?",
-        "answer": "No. Most abnormal results are mild cell changes, often caused by HPV, that just need to be monitored. The medical team explains what kind of change was found and the next step: repeating the Pap later, adding an HPV test, or a colposcopy, for which a referral is arranged."
+        "answer": "No. Most abnormal results are mild cell changes, often caused by HPV, that just need to be monitored. The medical team explains what kind of change was found and the next step: repeating the Pap later, adding an HPV test, or a colposcopy."
       }
     ]
   },
@@ -291,7 +291,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Mi PSA salió alto, ¿eso significa que tengo cáncer?",
-        "answer": "No necesariamente. El PSA también sube cuando la próstata crece de forma benigna o cuando está inflamada. El equipo médico revisa tu edad, tus molestias al orinar y resultados anteriores, puede repetir el análisis y, si el valor sigue alto, se orienta la referencia para una evaluación más detallada de la próstata."
+        "answer": "No necesariamente. El PSA también sube cuando la próstata crece de forma benigna o cuando está inflamada. El equipo médico revisa tu edad, tus molestias al orinar y resultados anteriores, puede repetir el análisis y, si el valor sigue alto, te explica los siguientes pasos."
       }
     ],
     "faqsEn": [
@@ -305,7 +305,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "My PSA came back high. Do I have cancer?",
-        "answer": "Not necessarily. PSA also rises with benign prostate enlargement or inflammation. The medical team reviews your age, any urinary symptoms and past results, may repeat the test, and if the number stays high, a referral is arranged for a more detailed prostate evaluation."
+        "answer": "Not necessarily. PSA also rises with benign prostate enlargement or inflammation. The medical team reviews your age, any urinary symptoms and past results, may repeat the test, and if the number stays high, walks you through the next steps."
       }
     ]
   },
