@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-04).
 <!-- /tandas:auto -->
 
-## Tanda 47 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026 (aplazada del 24/10 por el usuario)
+## Tanda 47 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
 
-- [ ] https://www.clinicahispanacruz3.com/  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz3.com/services/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz3.com/services/prueba-embarazo  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz3.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz3.com/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.clinicahispanacruz3.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/en  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.clinicahispanacruz3.com/en/services/prueba-embarazo  — cambiada 2026-10-23
 
 ## Tanda 48
 
