@@ -12,10 +12,10 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 52 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) 📨 ENVIADA 26/10/2026
+## Tanda 52 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) ✅ PEDIDA 26/10/2026
 
-- [ ] https://www.clinicahispanacruz3.com/en/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-23 · rastreada 2026-10-19 · indexada · pedida 2026-10-19 · 54 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-10-22 · indexada · 4 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-23 · rastreada 2026-10-19 · indexada · pedida 2026-10-19 · 54 impr.
+- [x] https://www.clinicahispanacruz3.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-10-22 · indexada · 4 impr.
 
 ## Tanda 48
 
