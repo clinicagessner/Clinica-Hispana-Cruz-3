@@ -6,25 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-27; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 90 de 92 URLs del sitemap indexadas · 2 sin indexar (2 sin datos).
+**Estado (actualizado 2026-10-28; URL Inspection API, datos ANTIGUOS del 2026-10-26: antiguos (2026-10-26): --sin-fetch):** 90 de 92 URLs del sitemap indexadas · 2 sin indexar (2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 29 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 30 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
 <!-- /tandas:auto -->
-
-## Tanda 57 — cambios del 2026-10-27 (post del blog semanal + servicios que lo enlazan)  ✅ PEDIDA 28/10/2026
-
-- [x] https://www.clinicahispanacruz3.com/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27
-- [x] https://www.clinicahispanacruz3.com/en/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27
-- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-27
-- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-27
-- [x] https://www.clinicahispanacruz3.com/services/electrocardiograma  — cambiada 2026-10-27
-
-## Tanda 57b — resto de los cambios del 2026-10-27 (cuota superada el 28/10)  NO PEDIR ANTES DEL 29/10/2026
-
-- [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-10-27
 
 ## Tanda 58
 
@@ -48,12 +35,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz3.com/en/services  — cambiada 2026-10-09 · rastreada 2026-09-12 · indexada · 40 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/vacunas  — cambiada 2026-10-09 · rastreada 2026-07-24 · indexada · 23 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/drenaje-abscesos  — cambiada 2026-10-09 · rastreada 2026-09-19 · indexada · 17 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-10-09 · rastreada 2026-10-06 · indexada · pedida 2026-10-06 · 12 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-10-07 · indexada · 11 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/examen-heces  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 11 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/prueba-tuberculosis  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 8 impr.
 
 ## Tanda 60
 
+- [ ] https://www.clinicahispanacruz3.com/en/services/prueba-tuberculosis  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 8 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/ultrasonido  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 7 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog  — cambiada 2026-10-09 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 6 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/examen-alcohol-drogas  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 6 impr.
@@ -162,3 +150,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinicahispanacruz3.com/en/blog/diabetes-infecciones-urinarias-prevencion  — cambiada 2026-10-23 · rastreada 2026-10-19 · indexada · pedida 2026-10-19 · 54 impr.
 - [x] https://www.clinicahispanacruz3.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-10-22 · indexada · 4 impr.
+
+## Tanda 57 — cambios del 2026-10-27 (post del blog semanal + servicios que lo enlazan)  ✅ PEDIDA 28/10/2026
+
+- [x] https://www.clinicahispanacruz3.com/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz3.com/en/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz3.com/services/electrocardiograma  — cambiada 2026-10-27
