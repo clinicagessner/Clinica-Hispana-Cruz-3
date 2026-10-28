@@ -12,13 +12,16 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 57 — cambios del 2026-10-27 (post del blog semanal + servicios que lo enlazan)  📨 ENVIADA 27/10/2026
+## Tanda 57 — cambios del 2026-10-27 (post del blog semanal + servicios que lo enlazan)  ✅ PEDIDA 28/10/2026
 
-- [ ] https://www.clinicahispanacruz3.com/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanacruz3.com/en/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-27
-- [ ] https://www.clinicahispanacruz3.com/services/electrocardiograma  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz3.com/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz3.com/en/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-27
+- [x] https://www.clinicahispanacruz3.com/services/electrocardiograma  — cambiada 2026-10-27
+
+## Tanda 57b — resto de los cambios del 2026-10-27 (cuota superada el 28/10)  NO PEDIR ANTES DEL 29/10/2026
+
 - [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-10-27
 - [ ] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-10-27
 - [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-10-27
