@@ -13,8 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-11).
 <!-- /tandas:auto -->
 
-## Tanda 58
+## Tanda 61 — cambios del 2026-11-02 (análisis diario: landing de Ads de ginecología alineada con los anuncios)  📨 ENVIADA 02/11/2026
 
+- [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-10-09 · rastreada 2026-09-28 · indexada · 488 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/anticonceptivos  — cambiada 2026-10-09 · rastreada 2026-09-15 · indexada · 65 impr.
 - [ ] https://www.clinicahispanacruz3.com/blog  — cambiada 2026-10-09 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 53 impr.
@@ -23,6 +25,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz3.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-09 · rastreada 2026-07-31 · indexada · 29 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/prueba-strep  — cambiada 2026-10-09 · rastreada 2026-09-02 · indexada · 25 impr.
 - [ ] https://www.clinicahispanacruz3.com/services/drenaje-abscesos  — cambiada 2026-10-09 · rastreada 2026-07-28 · indexada · 23 impr.
+
+## Tanda 58
+
 - [ ] https://www.clinicahispanacruz3.com/services/enfermedades-respiratorias  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 20 impr.
 - [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 17 impr.
 
