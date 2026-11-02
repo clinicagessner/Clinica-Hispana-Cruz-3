@@ -54,11 +54,12 @@ export const ADS_LANDING_META: Record<string, Partial<Record<"es" | "en", { titl
   },
   "ginecologia": {
     "es": {
-      "title": "Ginecología en Español: Papanicolaou y Cultivos | Cruz #3",
-      "description": "Ginecología en español en Houston, TX: papanicolaou, cultivos vaginales y tratamiento de infecciones. Sin cita, sin seguro y con precios accesibles."
+      "title": "Clínica para la Mujer y Ginecología en Houston | Cruz #3",
+      "description": "Ginecología cerca de Meyerland y Bellaire: papanicolaou, cultivos, ultrasonido pélvico e inyección anticonceptiva. Primera consulta gratis, con o sin cita."
     },
     "en": {
-      "title": "Gynecology in Spanish: Pap Smear & Cultures | Cruz #3"
+      "title": "Women's Clinic & Gynecology in Houston | Cruz #3",
+      "description": "Gynecology near Meyerland and Bellaire: Pap tests, cultures, pelvic ultrasound and contraceptive injection. First visit free; book ahead or walk in."
     }
   }
 };
