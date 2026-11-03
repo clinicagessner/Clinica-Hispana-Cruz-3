@@ -14,12 +14,23 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 64 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  📨 ENVIADA 03/11/2026
 
+- [ ] https://www.clinicahispanacruz3.com/blog/chequeo-adolescente-peso-presion-vacunas  — cambiada 2026-11-03 · post del blog semanal
+- [ ] https://www.clinicahispanacruz3.com/en/blog/chequeo-adolescente-peso-presion-vacunas  — cambiada 2026-11-03 · post del blog semanal
+- [ ] https://www.clinicahispanacruz3.com/services/examen-fisico-escolar  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [ ] https://www.clinicahispanacruz3.com/en/services/examen-fisico-escolar  — cambiada 2026-11-03 · enlaza el post nuevo del blog
 - [ ] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz3.com/  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-02
+
+## Tanda 70 — cambios del 2026-11-03 (pendientes para otro día: devueltas de la Tanda 64 o sin sitio por el post del blog semanal)
+
+- [ ] https://www.clinicahispanacruz3.com/services/vacunas  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [ ] https://www.clinicahispanacruz3.com/en/services/vacunas  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [ ] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-11-03 · enlaza el post nuevo del blog
 
 ## Tanda 68
 
@@ -30,7 +41,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz3.com/en/services  — cambiada 2026-10-09 · rastreada 2026-09-12 · indexada · 11 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog  — cambiada 2026-10-09 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 6 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/drenaje-abscesos  — cambiada 2026-10-09 · rastreada 2026-09-19 · indexada · 5 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/vacunas  — cambiada 2026-10-09 · rastreada 2026-07-24 · indexada · 4 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-09 · rastreada 2026-09-15 · indexada · 3 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/curacion-heridas  — cambiada 2026-10-09 · rastreada 2026-09-21 · indexada · 3 impr.
 
