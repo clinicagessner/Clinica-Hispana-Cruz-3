@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 64 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  📨 ENVIADA 03/11/2026
+## Tanda 64 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  ✅ PEDIDA 03/11/2026
 
-- [ ] https://www.clinicahispanacruz3.com/blog/chequeo-adolescente-peso-presion-vacunas  — cambiada 2026-11-03 · post del blog semanal
-- [ ] https://www.clinicahispanacruz3.com/en/blog/chequeo-adolescente-peso-presion-vacunas  — cambiada 2026-11-03 · post del blog semanal
-- [ ] https://www.clinicahispanacruz3.com/services/examen-fisico-escolar  — cambiada 2026-11-03 · enlaza el post nuevo del blog
-- [ ] https://www.clinicahispanacruz3.com/en/services/examen-fisico-escolar  — cambiada 2026-11-03 · enlaza el post nuevo del blog
-- [ ] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz3.com/  — cambiada 2026-11-02
-- [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz3.com/blog/chequeo-adolescente-peso-presion-vacunas  — cambiada 2026-11-03 · post del blog semanal
+- [x] https://www.clinicahispanacruz3.com/en/blog/chequeo-adolescente-peso-presion-vacunas  — cambiada 2026-11-03 · post del blog semanal
+- [x] https://www.clinicahispanacruz3.com/services/examen-fisico-escolar  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [x] https://www.clinicahispanacruz3.com/en/services/examen-fisico-escolar  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [x] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz3.com/  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-02
 
 ## Tanda 70 — cambios del 2026-11-03 (pendientes para otro día: devueltas de la Tanda 64 o sin sitio por el post del blog semanal)
 
