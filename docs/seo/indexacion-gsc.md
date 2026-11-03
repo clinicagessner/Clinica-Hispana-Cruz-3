@@ -6,26 +6,18 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-02; URL Inspection API, datos de hoy 2026-11-02):** 92 de 92 URLs del sitemap indexadas.
+**Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 92 de 92 URLs del sitemap indexadas.
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 19 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 61 — cambios del 2026-11-02 (análisis diario: landing de Ads de ginecología alineada con los anuncios + título de sueros)  ✅ PEDIDA 02/11/2026
+## Tanda 64 — cambios del 2026-11-02 (sueros solo B12 (orden de red))
 
-- [x] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-02 (antes 2026-10-09) · rastreada 2026-09-28 · indexada · 488 impr.
-- [x] https://www.clinicahispanacruz3.com/services/anticonceptivos  — cambiada 2026-10-09 · rastreada 2026-09-15 · indexada · 65 impr.
-- [x] https://www.clinicahispanacruz3.com/blog  — cambiada 2026-10-09 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 53 impr.
-- [x] https://www.clinicahispanacruz3.com/services/examen-heces  — cambiada 2026-10-09 · rastreada 2026-10-04 · indexada · 49 impr.
-- [x] https://www.clinicahispanacruz3.com/services/prueba-tuberculosis  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 34 impr.
-- [x] https://www.clinicahispanacruz3.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-09 · rastreada 2026-07-31 · indexada · 29 impr.
-- [x] https://www.clinicahispanacruz3.com/services/prueba-strep  — cambiada 2026-10-09 · rastreada 2026-09-02 · indexada · 25 impr.
-- [x] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [ ] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
 
-## Tanda 62
+## Tanda 65
 
 - [ ] https://www.clinicahispanacruz3.com  — cambiada 2026-11-02 · rastreada 2026-11-02 · indexada · pedida 2026-10-25 · 3756 impr.
 - [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 12 impr.
@@ -38,7 +30,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz3.com/en/services/drenaje-abscesos  — cambiada 2026-10-09 · rastreada 2026-09-19 · indexada · 5 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/vacunas  — cambiada 2026-10-09 · rastreada 2026-07-24 · indexada · 4 impr.
 
-## Tanda 63
+## Tanda 66
 
 - [ ] https://www.clinicahispanacruz3.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-09 · rastreada 2026-09-15 · indexada · 3 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/curacion-heridas  — cambiada 2026-10-09 · rastreada 2026-09-21 · indexada · 3 impr.
@@ -156,3 +148,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-10-27
 - [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-10-27
 - [x] https://www.clinicahispanacruz3.com/services/electrocardiograma  — cambiada 2026-10-27
+
+## Tanda 61 — cambios del 2026-11-02 (análisis diario: landing de Ads de ginecología alineada con los anuncios + título de sueros)  ✅ PEDIDA 02/11/2026
+
+- [x] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-02 (antes 2026-10-09) · rastreada 2026-09-28 · indexada · 488 impr.
+- [x] https://www.clinicahispanacruz3.com/services/anticonceptivos  — cambiada 2026-10-09 · rastreada 2026-09-15 · indexada · 65 impr.
+- [x] https://www.clinicahispanacruz3.com/blog  — cambiada 2026-10-09 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 53 impr.
+- [x] https://www.clinicahispanacruz3.com/services/examen-heces  — cambiada 2026-10-09 · rastreada 2026-10-04 · indexada · 49 impr.
+- [x] https://www.clinicahispanacruz3.com/services/prueba-tuberculosis  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 34 impr.
+- [x] https://www.clinicahispanacruz3.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-09 · rastreada 2026-07-31 · indexada · 29 impr.
+- [x] https://www.clinicahispanacruz3.com/services/prueba-strep  — cambiada 2026-10-09 · rastreada 2026-09-02 · indexada · 25 impr.
+- [x] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
