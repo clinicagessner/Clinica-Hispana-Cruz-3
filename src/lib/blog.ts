@@ -70,6 +70,7 @@ export const POST_SERVICES: Record<string, string[]> = {
   "bienvenidos-clinica-hispana-cruz-3": ["suturas-heridas", "unas-encarnadas", "alergias", "curacion-heridas"],
   "diabetes-corazon-riesgo-cardiovascular": ["condiciones-cronicas", "electrocardiograma", "examenes-sangre"],
   "diabetes-infecciones-urinarias-prevencion": ["infecciones-urinarias", "condiciones-cronicas", "examenes-sangre"],
+  "chequeo-adolescente-peso-presion-vacunas": ["examen-fisico-escolar", "vacunas", "examenes-sangre"],
   "control-diabetes-houston-guia-pacientes": ["condiciones-cronicas", "examenes-sangre", "electrocardiograma"],
   "examen-dot-cdl-camioneros-houston": ["examen-dot", "examen-alcohol-drogas", "prueba-tuberculosis"],
   "gripe-diabetes-presion-alta-primer-sintoma": ["enfermedades-respiratorias", "prueba-strep", "vacunas"],
