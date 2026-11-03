@@ -12,13 +12,10 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 64 — cambios del 2026-11-02 (sueros solo B12 (orden de red))
+## Tanda 64 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  📨 ENVIADA 03/11/2026
 
 - [ ] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
-
-## Tanda 67 — cambios del 2026-11-02 (anuncios = referencia (barrido completo))
-
 - [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-02
 - [ ] https://www.clinicahispanacruz3.com/  — cambiada 2026-11-02
