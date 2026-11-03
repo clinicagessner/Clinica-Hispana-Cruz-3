@@ -81,9 +81,9 @@ export const SERVICE_META: Record<string, Partial<Record<"es" | "en", { title?: 
     "es": { "title": "Exámenes y Análisis de Sangre en Houston | Cruz #3" },
     "en": { "title": "Blood Tests and Lab Work in Houston | Cruz #3" }
   },
-  // Análisis diario 2026-11-02: "sueros vitaminados houston" (pos. 19) y 608 impr. sin clics.
+  // 2026-11-03: promoción del flyer (50%, $149). Análisis diario 2026-11-02: "sueros vitaminados houston" (pos. 19) y 608 impr. sin clics.
   "sueros-vitaminados": {
-    "es": { "title": "Suero Vitaminado de B12 en Houston (Terapia IV) | Cruz #3" },
-    "en": { "title": "Vitamin B12 IV Drip in Houston (IV Therapy) | Cruz #3" }
+    "es": { "title": "Sueros Vitaminados con 50% de Descuento en Houston | Cruz #3" },
+    "en": { "title": "Vitamin IV Drips 50% Off in Houston (B12) | Cruz #3" }
   }
 };

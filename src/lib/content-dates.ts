@@ -11,6 +11,7 @@ export const SERVICE_DATES: Record<string, string> = {
   tiroides: "2026-10-15",
   "enfermedades-transmision-sexual": "2026-10-15",
   ginecologia: "2026-11-02",
+  "sueros-vitaminados": "2026-11-03",
 };
 
 export function serviceLastReviewed(slug: string): string {
