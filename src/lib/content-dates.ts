@@ -10,6 +10,7 @@ export const SERVICE_DATES: Record<string, string> = {
   "condiciones-cronicas": "2026-10-15",
   tiroides: "2026-10-15",
   "enfermedades-transmision-sexual": "2026-10-15",
+  ginecologia: "2026-11-02",
 };
 
 export function serviceLastReviewed(slug: string): string {
@@ -18,7 +19,7 @@ export function serviceLastReviewed(slug: string): string {
 
 // Última edición de contenido de las páginas fijas (historial de git).
 export const PAGE_DATES: Record<string, string> = {
-  "": "2026-10-09",
+  "": "2026-11-02",
   "/services": "2026-09-05",
   "/promociones": "2026-09-05",
   "/privacy": "2026-08-25",

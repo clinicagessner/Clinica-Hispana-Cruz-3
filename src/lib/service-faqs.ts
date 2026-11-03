@@ -172,6 +172,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "Mi papanicolaou salió anormal, ¿quiere decir que tengo cáncer?",
         "answer": "No. La mayoría de los resultados anormales son cambios leves en las células, muchas veces por el virus del papiloma humano, que se vigilan. El equipo médico te explica qué tipo de cambio apareció y qué sigue: repetir la prueba más adelante, agregar la prueba de VPH o hacer una colposcopia."
+      },
+      {
+        "question": "¿Qué opciones de anticoncepción hormonal hay en la clínica?",
+        "answer": "En la consulta de ginecología te explicamos las pastillas anticonceptivas y la inyección anticonceptiva, que se aplica en el consultorio. Antes revisamos tu presión y, si hace falta, hacemos una prueba de embarazo. La consulta inicial es gratis; los exámenes y el tratamiento se pagan aparte."
       }
     ],
     "faqsEn": [
@@ -186,6 +190,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "My Pap came back abnormal. Does that mean cancer?",
         "answer": "No. Most abnormal results are mild cell changes, often caused by HPV, that just need to be monitored. The medical team explains what kind of change was found and the next step: repeating the Pap later, adding an HPV test, or a colposcopy."
+      },
+      {
+        "question": "What hormonal birth control options does the clinic offer?",
+        "answer": "At the gynecology visit we go over birth control pills and the birth control shot, which is given in the exam room. First we check your blood pressure and, if needed, run a pregnancy test. The initial consultation is free; tests and treatment are paid separately."
       }
     ]
   },
