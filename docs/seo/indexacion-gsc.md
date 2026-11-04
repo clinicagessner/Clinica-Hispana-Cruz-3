@@ -32,6 +32,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-11-03 · enlaza el post nuevo del blog
 - [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-11-03 · enlaza el post nuevo del blog
 
+## Tanda 71 — cambios del 2026-11-04 (sueros (anuncio y flyer 50%))
+
+- [ ] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-04
+- [ ] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-04
+
 ## Tanda 68
 
 - [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 12 impr.
