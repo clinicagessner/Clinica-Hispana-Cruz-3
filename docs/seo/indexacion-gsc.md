@@ -13,14 +13,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 70 — cambios del 2026-11-03 (pendientes para otro día: devueltas de la Tanda 64 o sin sitio por el post del blog semanal)  📨 ENVIADA 04/11/2026
+## Tanda 70 — cambios del 2026-11-03 (pendientes para otro día: devueltas de la Tanda 64 o sin sitio por el post del blog semanal)  📨 ENVIADA 04/11/2026  ✅ PEDIDA 05/11/2026
 
-- [ ] https://www.clinicahispanacruz3.com/services/vacunas  — cambiada 2026-11-03 · enlaza el post nuevo del blog
-- [ ] https://www.clinicahispanacruz3.com/en/services/vacunas  — cambiada 2026-11-03 · enlaza el post nuevo del blog
-- [ ] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-11-03 · enlaza el post nuevo del blog
-- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-11-03 · enlaza el post nuevo del blog
-- [ ] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-04
-- [ ] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-04
+- [x] https://www.clinicahispanacruz3.com/services/vacunas  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [x] https://www.clinicahispanacruz3.com/en/services/vacunas  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [x] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [x] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-11-03 · enlaza el post nuevo del blog
+- [x] https://www.clinicahispanacruz3.com/services/sueros-vitaminados  — cambiada 2026-11-04
+- [x] https://www.clinicahispanacruz3.com/en/services/sueros-vitaminados  — cambiada 2026-11-04
 
 ## Tanda 72
 
