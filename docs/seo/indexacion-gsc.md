@@ -13,6 +13,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
+## Tanda 73 — cambios del 2026-11-06 (promo mujer $79 y FAQ clínica general (anuncios activos))
+
+- [ ] https://www.clinicahispanacruz3.com/  — cambiada 2026-11-06
+- [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-06
+- [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-06
+- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-06
+- [ ] https://www.clinicahispanacruz3.com/promociones  — cambiada 2026-11-06
+- [ ] https://www.clinicahispanacruz3.com/en/promociones  — cambiada 2026-11-06
+
 ## Tanda 71
 
 - [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 12 impr.
