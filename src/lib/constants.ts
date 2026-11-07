@@ -1490,17 +1490,19 @@ export const PROMOTIONS: Promotion[] = [
     titleEn: "Complete Women's Checkup",
     price: "$79",
     blurb:
-      "Chequeo ginecológico completo para el cuidado preventivo de la mujer: examen Papanicolaou, consulta ginecológica y orden de mamografía, todo en una sola visita.",
+      "Chequeo ginecológico completo para el cuidado preventivo de la mujer: examen Papanicolaou, consulta ginecológica gratis, examen de orina y orden de mamografía, todo en una sola visita.",
     blurbEn:
-      "A complete gynecological checkup for women's preventive care: Pap smear, gynecological consultation and mammogram order, all in a single visit.",
+      "A complete gynecological checkup for women's preventive care: Pap smear, free gynecological consultation, urine test and mammogram order, all in a single visit.",
     includes: [
       "Examen Papanicolaou",
-      "Consulta ginecológica",
+      "Consulta ginecológica gratis",
+      "Examen de orina",
       "Orden de mamografía"
     ],
     includesEn: [
       "Pap smear",
-      "Gynecological consultation",
+      "Free gynecological consultation",
+      "Urine test",
       "Mammogram order"
     ],
     image: "/images/promotions/chequeo-mujer.webp",
