@@ -1809,6 +1809,11 @@ export const FAQ_ITEMS: FAQItem[] = [
     id: "consulta-gratis",
     question: "faq.q13",
     answer: "faq.a13",
+  },
+  {
+    id: "clinica-general",
+    question: "faq.q14",
+    answer: "faq.a14",
   }
 ];
 
