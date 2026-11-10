@@ -12,7 +12,7 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 76 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)
+## Tanda 76 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 10/11/2026
 
 - [ ] https://www.clinicahispanacruz3.com  — cambiada 2026-11-10
 - [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-10
