@@ -76,6 +76,7 @@ export const POST_SERVICES: Record<string, string[]> = {
   "gripe-diabetes-presion-alta-primer-sintoma": ["enfermedades-respiratorias", "prueba-strep", "vacunas"],
   "guia-examen-medico-inmigracion-i693-houston": ["examenes-inmigracion", "vacunas", "prueba-tuberculosis"],
   "laboratorio-clinico-houston-analisis-sangre": ["examenes-sangre", "tiroides", "examen-heces"],
+  "picaduras-insectos-aranas-infeccion": ["curacion-heridas", "drenaje-abscesos", "alergias"],
   "salud-hombre-houston-chequeos-preventivos": ["salud-hombre", "infecciones-urinarias", "ultrasonido"],
   "salud-mujer-houston-servicios-ginecologia": ["ginecologia", "prueba-embarazo", "anticonceptivos", "extraccion-implantes"],
   "ultrasonido-tiroides-bulto-cuello-houston": ["ultrasonido", "tiroides", "examenes-sangre"],
