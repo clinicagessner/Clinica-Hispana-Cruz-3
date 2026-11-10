@@ -14,16 +14,22 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 76 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 10/11/2026
 
+- [ ] https://www.clinicahispanacruz3.com/blog/picaduras-insectos-aranas-infeccion  — cambiada 2026-11-10 (post del blog semanal)
+- [ ] https://www.clinicahispanacruz3.com/en/blog/picaduras-insectos-aranas-infeccion  — cambiada 2026-11-10 (post del blog semanal)
+- [ ] https://www.clinicahispanacruz3.com/services/curacion-heridas  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [ ] https://www.clinicahispanacruz3.com/en/services/curacion-heridas  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [ ] https://www.clinicahispanacruz3.com/services/drenaje-abscesos  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [ ] https://www.clinicahispanacruz3.com/en/services/drenaje-abscesos  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [ ] https://www.clinicahispanacruz3.com/services/alergias  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [ ] https://www.clinicahispanacruz3.com/en/services/alergias  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
 - [ ] https://www.clinicahispanacruz3.com  — cambiada 2026-11-10
 - [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-10
 
 ## Tanda 77
 
 - [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 25 impr.
-- [ ] https://www.clinicahispanacruz3.com/services/alergias  — cambiada 2026-10-09 · rastreada 2026-09-19 · indexada · 15 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services  — cambiada 2026-10-09 · rastreada 2026-09-12 · indexada · 57 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-10-09 · rastreada 2026-10-06 · indexada · pedida 2026-10-06 · 27 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/drenaje-abscesos  — cambiada 2026-10-09 · rastreada 2026-09-19 · indexada · 17 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-10-07 · indexada · 11 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/prueba-tuberculosis  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 9 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/ultrasonido  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 7 impr.
@@ -32,7 +38,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 78
 
-- [ ] https://www.clinicahispanacruz3.com/en/services/curacion-heridas  — cambiada 2026-10-09 · rastreada 2026-09-21 · indexada · 5 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 3 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/extraccion-implantes  — cambiada 2026-10-09 · rastreada 2026-09-22 · indexada · 3 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/prueba-strep  — cambiada 2026-10-09 · rastreada 2026-09-23 · indexada · 1 impr.
