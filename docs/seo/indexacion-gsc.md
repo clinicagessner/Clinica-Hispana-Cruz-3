@@ -12,18 +12,18 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 76 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 11/11/2026
+## Tanda 76 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 11/11/2026  ✅ PEDIDA 12/11/2026
 
-- [ ] https://www.clinicahispanacruz3.com/blog/picaduras-insectos-aranas-infeccion  — cambiada 2026-11-10 (post del blog semanal)
-- [ ] https://www.clinicahispanacruz3.com/en/blog/picaduras-insectos-aranas-infeccion  — cambiada 2026-11-10 (post del blog semanal)
-- [ ] https://www.clinicahispanacruz3.com/services/curacion-heridas  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
-- [ ] https://www.clinicahispanacruz3.com/en/services/curacion-heridas  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
-- [ ] https://www.clinicahispanacruz3.com/services/drenaje-abscesos  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
-- [ ] https://www.clinicahispanacruz3.com/en/services/drenaje-abscesos  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
-- [ ] https://www.clinicahispanacruz3.com/services/alergias  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
-- [ ] https://www.clinicahispanacruz3.com/en/services/alergias  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
-- [ ] https://www.clinicahispanacruz3.com  — cambiada 2026-11-10
-- [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-10
+- [x] https://www.clinicahispanacruz3.com/blog/picaduras-insectos-aranas-infeccion  — cambiada 2026-11-10 (post del blog semanal)
+- [x] https://www.clinicahispanacruz3.com/en/blog/picaduras-insectos-aranas-infeccion  — cambiada 2026-11-10 (post del blog semanal)
+- [x] https://www.clinicahispanacruz3.com/services/curacion-heridas  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [x] https://www.clinicahispanacruz3.com/en/services/curacion-heridas  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [x] https://www.clinicahispanacruz3.com/services/drenaje-abscesos  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [x] https://www.clinicahispanacruz3.com/en/services/drenaje-abscesos  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [x] https://www.clinicahispanacruz3.com/services/alergias  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [x] https://www.clinicahispanacruz3.com/en/services/alergias  — cambiada 2026-11-10 (artículos relacionados: post del blog semanal)
+- [x] https://www.clinicahispanacruz3.com  — cambiada 2026-11-10
+- [x] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-10
 
 ## Tanda 77
 
