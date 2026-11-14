@@ -48,6 +48,7 @@ export const CONTENT_LAST_MODIFIED = "2026-09-05";
 export const SOCIAL_LINKS: SocialLinks = {
   facebook: "https://www.facebook.com/clinicahispanacruz3",
   instagram: "https://www.instagram.com/clinicahispanacruz3/",
+  youtube: "https://www.youtube.com/@ClinicaHispanaCruz3",
   tiktok: "https://www.tiktok.com/@clinica.hispana.c3",
   // Ficha de Google Business (URL canónica de Maps por CID; el enlace share.google no es estable)
   google: "https://maps.google.com/?cid=9954039248875417320",
