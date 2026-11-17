@@ -77,6 +77,7 @@ export const POST_SERVICES: Record<string, string[]> = {
   "guia-examen-medico-inmigracion-i693-houston": ["examenes-inmigracion", "vacunas", "prueba-tuberculosis"],
   "laboratorio-clinico-houston-analisis-sangre": ["examenes-sangre", "tiroides", "examen-heces"],
   "picaduras-insectos-aranas-infeccion": ["curacion-heridas", "drenaje-abscesos", "alergias"],
+  "picazon-flujo-vaginal-hongos-causas": ["ginecologia", "infecciones-urinarias", "condiciones-cronicas"],
   "salud-hombre-houston-chequeos-preventivos": ["salud-hombre", "infecciones-urinarias", "ultrasonido"],
   "salud-mujer-houston-servicios-ginecologia": ["ginecologia", "prueba-embarazo", "anticonceptivos", "extraccion-implantes"],
   "ultrasonido-tiroides-bulto-cuello-houston": ["ultrasonido", "tiroides", "examenes-sangre"],
