@@ -12,16 +12,16 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 82 — cambios del 2026-11-17 (post del blog semanal y servicios con el post enlazado)  📨 ENVIADA 17/11/2026
+## Tanda 82 — cambios del 2026-11-17 (post del blog semanal y servicios con el post enlazado)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
 
-- [ ] https://www.clinicahispanacruz3.com/blog/picazon-flujo-vaginal-hongos-causas  — cambiada 2026-11-17
-- [ ] https://www.clinicahispanacruz3.com/en/blog/picazon-flujo-vaginal-hongos-causas  — cambiada 2026-11-17
-- [ ] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-17
-- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-17
-- [ ] https://www.clinicahispanacruz3.com/services/infecciones-urinarias  — cambiada 2026-11-17
-- [ ] https://www.clinicahispanacruz3.com/en/services/infecciones-urinarias  — cambiada 2026-11-17
-- [ ] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-11-17
-- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/blog/picazon-flujo-vaginal-hongos-causas  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/en/blog/picazon-flujo-vaginal-hongos-causas  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/services/infecciones-urinarias  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/en/services/infecciones-urinarias  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-11-17
 
 ## Tanda 80
 
