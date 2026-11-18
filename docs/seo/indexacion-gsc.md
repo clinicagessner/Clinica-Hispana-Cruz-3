@@ -6,24 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-17; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 96 de 96 URLs del sitemap indexadas.
+**Estado (actualizado 2026-11-18; URL Inspection API, datos ANTIGUOS del 2026-11-16: antiguos (2026-11-16): --sin-fetch):** 96 de 98 URLs del sitemap indexadas · 2 sin indexar (2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 11 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-01).
 <!-- /tandas:auto -->
 
-## Tanda 82 — cambios del 2026-11-17 (post del blog semanal y servicios con el post enlazado)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
-
-- [x] https://www.clinicahispanacruz3.com/blog/picazon-flujo-vaginal-hongos-causas  — cambiada 2026-11-17
-- [x] https://www.clinicahispanacruz3.com/en/blog/picazon-flujo-vaginal-hongos-causas  — cambiada 2026-11-17
-- [x] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-17
-- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-17
-- [x] https://www.clinicahispanacruz3.com/services/infecciones-urinarias  — cambiada 2026-11-17
-- [x] https://www.clinicahispanacruz3.com/en/services/infecciones-urinarias  — cambiada 2026-11-17
-- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-11-17
-- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-11-17
-
-## Tanda 80
+## Tanda 83
 
 - [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 25 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services  — cambiada 2026-10-09 · rastreada 2026-09-12 · indexada · 61 impr.
@@ -36,7 +26,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinicahispanacruz3.com/en/services/extraccion-implantes  — cambiada 2026-10-09 · rastreada 2026-09-22 · indexada · 3 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/prueba-strep  — cambiada 2026-10-09 · rastreada 2026-09-23 · indexada · 1 impr.
 
-## Tanda 81
+## Tanda 84
 
 - [ ] https://www.clinicahispanacruz3.com/en/services/suturas-heridas  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 1 impr.
 
@@ -208,3 +198,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinicahispanacruz3.com/  — cambiada 2026-11-14 (YouTube en el footer; /es redirige a la home)
 - [x] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-14 (YouTube en el footer)
+
+## Tanda 82 — cambios del 2026-11-17 (post del blog semanal y servicios con el post enlazado)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
+
+- [x] https://www.clinicahispanacruz3.com/blog/picazon-flujo-vaginal-hongos-causas  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/en/blog/picazon-flujo-vaginal-hongos-causas  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/services/ginecologia  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/services/infecciones-urinarias  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/en/services/infecciones-urinarias  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-11-17
+- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-11-17
