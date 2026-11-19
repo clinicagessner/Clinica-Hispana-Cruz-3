@@ -69,11 +69,11 @@ export const ADS_LANDING_META: Record<string, Partial<Record<"es" | "en", { titl
 export const SERVICE_META: Record<string, Partial<Record<"es" | "en", { title?: string; description?: string }>>> = {
   "examen-dot": {
     "es": {
-      "title": "Examen Físico DOT en Houston: Examen Médico CDL | Cruz #3",
+      "title": "Exámenes Médicos DOT en Houston: Examen Físico CDL | Cruz #3",
       "description": "Exámenes médicos DOT para conductores CDL en Houston, TX: examen físico sin cita, en español, con certificado el mismo día y precios accesibles."
     },
     "en": {
-      "title": "DOT Physical Exam in Houston: CDL Medical Exam | Cruz #3",
+      "title": "DOT Medical Exams in Houston: CDL Physical Exam | Cruz #3",
       "description": "DOT physical and CDL medical exam for truck drivers in Houston, TX: walk in, care in Spanish, same-day certificate and affordable pricing."
     }
   },
