@@ -1,9 +1,9 @@
 ---
 slug: "diabetes-infecciones-urinarias-prevencion"
-title: "Diabetes and Urinary Infections: Why and How to Prevent"
-description: "High blood sugar makes urinary infections more likely, and with diabetes they can be quiet. Subtle signs, prevention tips and when to visit Cruz #3."
+title: "Diabetes and UTIs: Can an Infection Raise Blood Sugar?"
+description: "A urinary infection can push blood sugar up, and with diabetes it may cause few symptoms. Subtle signs, prevention tips and when to visit Cruz #3."
 date: "2026-10-13"
-dateModified: "2026-10-23"
+dateModified: "2026-11-19"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -84,6 +84,8 @@ In someone with diabetes, a urinary infection can travel up to the kidneys and t
 In any of these situations, go to the emergency room or call 911.
 
 ## Questions our patients with diabetes ask
+
+**Can a urinary infection raise my blood sugar?** Yes. While your body fights the infection, glucose often climbs even if you haven't changed your food or your medicines. If your numbers jump for no clear reason and you also notice discomfort when you urinate, a urine test helps clear things up.
 
 **Can it be an infection if it doesn't burn?** Yes. With diabetes, an infection may cause little discomfort. That's why a urine test is worth doing when your glucose or your urine changes, even without burning.
 

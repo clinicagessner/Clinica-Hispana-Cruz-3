@@ -1,9 +1,9 @@
 ---
 slug: "diabetes-infecciones-urinarias-prevencion"
-title: "Diabetes e infecciones urinarias: por qué y cómo evitarlas"
-description: "Con diabetes, el azúcar alta facilita las infecciones de orina y a veces casi no dan síntomas. Señales discretas, prevención y cuándo venir a Cruz #3."
+title: "Diabetes e infección urinaria: ¿sube el azúcar? Cómo evitarla"
+description: "Una infección de orina puede subir la glucosa, y con diabetes a veces casi no da síntomas. Señales discretas, prevención y cuándo venir a Cruz #3."
 date: "2026-10-13"
-dateModified: "2026-10-23"
+dateModified: "2026-11-19"
 author: "Clínica Hispana Cruz #3"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -84,6 +84,8 @@ Una infección urinaria en una persona con diabetes puede subir a los riñones y
 Ante cualquiera de estas señales, lo que corresponde es una sala de emergencias; si no puede trasladarse con seguridad, marque al 911.
 
 ## Preguntas que nos hacen pacientes con diabetes
+
+**¿Una infección de orina puede subir el azúcar?** Sí. Mientras el cuerpo pelea contra la infección, la glucosa suele subir aunque usted no haya cambiado la comida ni las medicinas. Si sus números se disparan sin explicación y además nota molestias al orinar, un examen de orina ayuda a salir de dudas.
 
 **¿Si no me arde, puede ser infección?** Sí. Con diabetes, la infección puede dar pocas molestias. Por eso el examen de orina se vuelve útil cuando hay cambios en la glucosa o en la orina, aunque no haya ardor.
 
