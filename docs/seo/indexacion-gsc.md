@@ -12,9 +12,9 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 88 — cambios del 2026-11-21 (error de GSC al pedir el 20/11)
+## Tanda 88 — cambios del 2026-11-21 (error de GSC al pedir el 20/11)  ✅ PEDIDA 20/11/2026
 
-- [ ] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-21
+- [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-21
 
 ## Tanda 85 — cambios del 2026-11-19 (análisis diario: frases de los anuncios activos, título DOT y post de diabetes e infección urinaria)  📨 ENVIADA 19/11/2026  ✅ PEDIDA 20/11/2026
 
