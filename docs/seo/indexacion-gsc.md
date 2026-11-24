@@ -12,6 +12,18 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
+## Tanda 90 — cambios del 2026-11-24 (post del blog semanal)  📨 ENVIADA 24/11/2026
+- [ ] https://www.clinicahispanacruz3.com/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz3.com/en/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz3.com/services/salud-hombre  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz3.com/services/tiroides  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-11-24
+- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-11-24
+
 ## Tanda 89
 
 - [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 24 impr.
