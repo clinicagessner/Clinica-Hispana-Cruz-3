@@ -12,17 +12,17 @@ Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 90 — cambios del 2026-11-24 (post del blog semanal)  📨 ENVIADA 24/11/2026
-- [ ] https://www.clinicahispanacruz3.com/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
-- [ ] https://www.clinicahispanacruz3.com/en/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
-- [ ] https://www.clinicahispanacruz3.com/services/salud-hombre  — cambiada 2026-11-24
-- [ ] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-11-24
-- [ ] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-11-24
-- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-11-24
-- [ ] https://www.clinicahispanacruz3.com/services/tiroides  — cambiada 2026-11-24
-- [ ] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-11-24
-- [ ] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-11-24
-- [ ] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-11-24
+## Tanda 90 — cambios del 2026-11-24 (post del blog semanal)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
+- [x] https://www.clinicahispanacruz3.com/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/services/salud-hombre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/services/tiroides  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-11-24
 
 ## Tanda 89
 
