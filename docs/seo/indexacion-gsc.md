@@ -6,25 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-24; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 98 de 98 URLs del sitemap indexadas.
+**Estado (actualizado 2026-11-25; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 98 de 100 URLs del sitemap indexadas · 2 sin indexar (2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 10 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-08).
 <!-- /tandas:auto -->
 
-## Tanda 90 — cambios del 2026-11-24 (post del blog semanal)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
-- [x] https://www.clinicahispanacruz3.com/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
-- [x] https://www.clinicahispanacruz3.com/en/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
-- [x] https://www.clinicahispanacruz3.com/services/salud-hombre  — cambiada 2026-11-24
-- [x] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-11-24
-- [x] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-11-24
-- [x] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-11-24
-- [x] https://www.clinicahispanacruz3.com/services/tiroides  — cambiada 2026-11-24
-- [x] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-11-24
-- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-11-24
-- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-11-24
-
-## Tanda 89
+## Tanda 91
 
 - [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 24 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services  — cambiada 2026-10-09 · rastreada 2026-09-12 · indexada · 62 impr.
@@ -231,3 +220,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 88 — cambios del 2026-11-21 (error de GSC al pedir el 20/11)  ✅ PEDIDA 20/11/2026
 
 - [x] https://www.clinicahispanacruz3.com/en/services/ginecologia  — cambiada 2026-11-21
+
+## Tanda 90 — cambios del 2026-11-24 (post del blog semanal)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
+
+- [x] https://www.clinicahispanacruz3.com/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/blog/cansancio-animo-bajo-deseo-hombre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/services/salud-hombre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/services/salud-hombre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/services/examenes-sangre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/services/examenes-sangre  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/services/tiroides  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/services/tiroides  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/services/condiciones-cronicas  — cambiada 2026-11-24
+- [x] https://www.clinicahispanacruz3.com/en/services/condiciones-cronicas  — cambiada 2026-11-24
