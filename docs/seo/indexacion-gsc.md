@@ -6,25 +6,70 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinicahispanacruz3.com/`, cuenta **clinicahcruz3@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 98 de 100 URLs del sitemap indexadas · 2 sin indexar (2 sin datos).
+**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-10-01: antiguos (2026-10-01): --sin-fetch):** 84 de 100 URLs del sitemap indexadas · 16 sin indexar (16 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 10 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 27 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 10 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-08).
+6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-01).
 <!-- /tandas:auto -->
 
-## Tanda 91
+## Tanda 92 — cambios del 2026-11-27 (aviso I-693 pausado)
 
-- [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 24 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services  — cambiada 2026-10-09 · rastreada 2026-09-12 · indexada · 62 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-10-09 · rastreada 2026-10-06 · indexada · pedida 2026-10-06 · 32 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-10-07 · indexada · 11 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/ultrasonido  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 8 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog  — cambiada 2026-10-09 · rastreada 2026-10-07 · indexada · pedida 2026-10-06 · 6 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 5 impr.
-- [ ] https://www.clinicahispanacruz3.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-09 · rastreada 2026-09-15 · indexada · 4 impr.
+- [ ] https://www.clinicahispanacruz3.com/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz3.com/en/services/examenes-inmigracion  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz3.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz3.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz3.com/  — cambiada 2026-11-27
+- [ ] https://www.clinicahispanacruz3.com/en  — cambiada 2026-11-27
+
+## Tanda 93
+
+- [ ] https://www.clinicahispanacruz3.com/services/examen-alcohol-drogas  — cambiada 2026-10-09 · rastreada 2026-08-26 · indexada · 238 impr.
+- [ ] https://www.clinicahispanacruz3.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-09 · rastreada 2026-09-11 · indexada · 116 impr.
+- [ ] https://www.clinicahispanacruz3.com/services  — cambiada 2026-10-09 · rastreada 2026-09-13 · indexada · 92 impr.
+- [ ] https://www.clinicahispanacruz3.com/services/ultrasonido  — cambiada 2026-10-09 · rastreada 2026-09-28 · indexada · 55 impr.
+- [ ] https://www.clinicahispanacruz3.com/services/extraccion-implantes  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 27 impr.
+- [ ] https://www.clinicahispanacruz3.com/services/unas-encarnadas  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 17 impr.
+- [ ] https://www.clinicahispanacruz3.com/services/cirugias-menores  — cambiada 2026-10-09 · rastreada 2026-09-23 · indexada · 12 impr.
+- [ ] https://www.clinicahispanacruz3.com/services/enfermedades-respiratorias  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 10 impr.
+- [ ] https://www.clinicahispanacruz3.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 8 impr.
+- [ ] https://www.clinicahispanacruz3.com/services/suturas-heridas  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 3 impr.
+
+## Tanda 94
+
+- [ ] https://www.clinicahispanacruz3.com/en/services  — cambiada 2026-10-09 · rastreada 2026-09-12 · indexada · 28 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 16 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/cirugias-menores  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 15 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/unas-encarnadas  — cambiada 2026-10-09 · rastreada 2026-09-28 · indexada · 10 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 9 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/examen-heces  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 6 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/prueba-tuberculosis  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 5 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/examen-alcohol-drogas  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 4 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/anticonceptivos  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 3 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-09 · rastreada 2026-09-15 · indexada · 2 impr.
+
+## Tanda 95
+
+- [ ] https://www.clinicahispanacruz3.com/en/services/electrocardiograma  — cambiada 2026-10-09 · rastreada 2026-07-22 · indexada · pedida 2026-10-06 · 2 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/extraccion-implantes  — cambiada 2026-10-09 · rastreada 2026-09-22 · indexada · 1 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/prueba-strep  — cambiada 2026-10-09 · rastreada 2026-09-23 · indexada · 1 impr.
 - [ ] https://www.clinicahispanacruz3.com/en/services/suturas-heridas  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 1 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/ultrasonido  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 1 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · pedida 2026-10-06 · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-09 · rastreada 2026-07-21 · indexada · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/blog/chequeo-adolescente-peso-presion-vacunas  — cambiada 2026-11-03 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-15 · sin datos de inspección · pedida 2026-10-18 · 0 impr.
+
+## Tanda 96
+
+- [ ] https://www.clinicahispanacruz3.com/blog/picaduras-insectos-aranas-infeccion  — cambiada 2026-11-10 · sin datos de inspección · pedida 2026-11-11 · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/blog/ultrasonido-tiroides-bulto-cuello-houston  — cambiada 2026-10-20 · sin datos de inspección · pedida 2026-10-21 · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog/chequeo-adolescente-peso-presion-vacunas  — cambiada 2026-11-03 · sin datos de inspección · pedida 2026-11-03 · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog/diabetes-corazon-riesgo-cardiovascular  — cambiada 2026-10-27 · sin datos de inspección · pedida 2026-10-28 · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog/gripe-diabetes-presion-alta-primer-sintoma  — cambiada 2026-10-15 · sin datos de inspección · pedida 2026-10-19 · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog/picaduras-insectos-aranas-infeccion  — cambiada 2026-11-10 · sin datos de inspección · pedida 2026-11-11 · 0 impr.
+- [ ] https://www.clinicahispanacruz3.com/en/blog/ultrasonido-tiroides-bulto-cuello-houston  — cambiada 2026-10-20 · sin datos de inspección · pedida 2026-10-21 · 0 impr.
 
 ## Historial (tandas pedidas)
 
